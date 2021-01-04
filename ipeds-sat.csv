@@ -1,0 +1,4077 @@
+unit_id,institution_name,percentile,sat_ebrw,sat_math
+100654,Alabama A & M University,25th,430,420
+100654,Alabama A & M University,75th,520,510
+100663,University of Alabama at Birmingham,25th,490,490
+100663,University of Alabama at Birmingham,75th,620,620
+100706,University of Alabama in Huntsville,25th,560,450
+100706,University of Alabama in Huntsville,75th,700,680
+100724,Alabama State University,25th,440,420
+100724,Alabama State University,75th,520,510
+100751,The University of Alabama,25th,540,520
+100751,The University of Alabama,75th,640,640
+100830,Auburn University at Montgomery,25th,510,480
+100830,Auburn University at Montgomery,75th,570,570
+100858,Auburn University,25th,580,570
+100858,Auburn University,75th,650,660
+100937,Birmingham Southern College,25th,520,520
+100937,Birmingham Southern College,75th,620,600
+101189,Faulkner University,25th,490,530
+101189,Faulkner University,75th,570,620
+101365,Herzing University-Birmingham,25th,NA,NA
+101365,Herzing University-Birmingham,75th,NA,NA
+101435,Huntingdon College,25th,500,498
+101435,Huntingdon College,75th,580,570
+101480,Jacksonville State University,25th,440,470
+101480,Jacksonville State University,75th,450,480
+101541,Judson College,25th,550,480
+101541,Judson College,75th,585,580
+101587,University of West Alabama,25th,440,420
+101587,University of West Alabama,75th,520,500
+101648,Marion Military Institute,25th,540,550
+101648,Marion Military Institute,75th,640,640
+101693,University of Mobile,25th,450,440
+101693,University of Mobile,75th,540,547
+101709,University of Montevallo,25th,NA,NA
+101709,University of Montevallo,75th,NA,NA
+101879,University of North Alabama,25th,510,500
+101879,University of North Alabama,75th,610,580
+101912,Oakwood University,25th,410,532
+101912,Oakwood University,75th,440,570
+102049,Samford University,25th,552,520
+102049,Samford University,75th,650,620
+102094,University of South Alabama,25th,530,510
+102094,University of South Alabama,75th,630,610
+102234,Spring Hill College,25th,505,510
+102234,Spring Hill College,75th,595,590
+102270,Stillman College,25th,NA,NA
+102270,Stillman College,75th,NA,NA
+102368,Troy University,25th,490,470
+102368,Troy University,75th,580,565
+102377,Tuskegee University,25th,440,420
+102377,Tuskegee University,75th,540,520
+102553,University of Alaska Anchorage,25th,NA,NA
+102553,University of Alaska Anchorage,75th,NA,NA
+102614,University of Alaska Fairbanks,25th,530,520
+102614,University of Alaska Fairbanks,75th,640,630
+102632,University of Alaska Southeast,25th,NA,NA
+102632,University of Alaska Southeast,75th,NA,NA
+102669,Alaska Pacific University,25th,NA,NA
+102669,Alaska Pacific University,75th,NA,NA
+102845,Charter College,25th,NA,NA
+102845,Charter College,75th,NA,NA
+103893,Carrington College-Phoenix North,25th,NA,NA
+103893,Carrington College-Phoenix North,75th,NA,NA
+103927,Carrington College-Tucson,25th,NA,NA
+103927,Carrington College-Tucson,75th,NA,NA
+104151,Arizona State University-Tempe,25th,570,560
+104151,Arizona State University-Tempe,75th,670,690
+104179,University of Arizona,25th,540,530
+104179,University of Arizona,75th,650,660
+104586,Embry-Riddle Aeronautical University-Prescott,25th,NA,NA
+104586,Embry-Riddle Aeronautical University-Prescott,75th,NA,NA
+104717,Grand Canyon University,25th,NA,NA
+104717,Grand Canyon University,75th,NA,NA
+105330,Northern Arizona University,25th,NA,NA
+105330,Northern Arizona University,75th,NA,NA
+105589,Prescott College,25th,NA,NA
+105589,Prescott College,75th,NA,NA
+105899,Arizona Christian University,25th,460,470
+105899,Arizona Christian University,75th,560,565
+106245,University of Arkansas at Little Rock,25th,480,470
+106245,University of Arkansas at Little Rock,75th,600,590
+106342,Lyon College,25th,520,520
+106342,Lyon College,75th,608,580
+106397,University of Arkansas,25th,560,540
+106397,University of Arkansas,75th,650,640
+106412,University of Arkansas at Pine Bluff,25th,450,440
+106412,University of Arkansas at Pine Bluff,75th,530,510
+106458,Arkansas State University-Main Campus,25th,510,520
+106458,Arkansas State University-Main Campus,75th,588,608
+106467,Arkansas Tech University,25th,NA,NA
+106467,Arkansas Tech University,75th,NA,NA
+106546,Baptist Health College Little Rock,25th,NA,NA
+106546,Baptist Health College Little Rock,75th,NA,NA
+106704,University of Central Arkansas,25th,480,490
+106704,University of Central Arkansas,75th,580,590
+106713,Central Baptist College,25th,460,420
+106713,Central Baptist College,75th,530,500
+107044,Harding University,25th,540,520
+107044,Harding University,75th,660,640
+107071,Henderson State University,25th,488,490
+107071,Henderson State University,75th,570,560
+107080,Hendrix College,25th,600,560
+107080,Hendrix College,75th,700,690
+107141,John Brown University,25th,580,530
+107141,John Brown University,75th,695,670
+107512,Ouachita Baptist University,25th,520,520
+107512,Ouachita Baptist University,75th,630,620
+107558,University of the Ozarks,25th,NA,NA
+107558,University of the Ozarks,75th,NA,NA
+107585,University of Arkansas Community College-Morrilton,25th,NA,NA
+107585,University of Arkansas Community College-Morrilton,75th,NA,NA
+107877,Williams Baptist University,25th,470,450
+107877,Williams Baptist University,75th,550,570
+107983,Southern Arkansas University Main Campus,25th,500,500
+107983,Southern Arkansas University Main Campus,75th,630,590
+108852,American Academy of Dramatic Arts-Los Angeles,25th,NA,NA
+108852,American Academy of Dramatic Arts-Los Angeles,75th,NA,NA
+109086,American Conservatory Theater,25th,NA,NA
+109086,American Conservatory Theater,75th,NA,NA
+109651,Art Center College of Design,25th,NA,NA
+109651,Art Center College of Design,75th,NA,NA
+109785,Azusa Pacific University,25th,520,500
+109785,Azusa Pacific University,75th,620,620
+110097,Biola University,25th,540,520
+110097,Biola University,75th,640,620
+110361,California Baptist University,25th,510,480
+110361,California Baptist University,75th,610,590
+110370,California College of the Arts,25th,NA,NA
+110370,California College of the Arts,75th,NA,NA
+110404,California Institute of Technology,25th,740,790
+110404,California Institute of Technology,75th,780,800
+110413,California Lutheran University,25th,540,530
+110413,California Lutheran University,75th,630,620
+110422,California Polytechnic State University-San Luis Obispo,25th,620,620
+110422,California Polytechnic State University-San Luis Obispo,75th,700,730
+110468,Alliant International University-San Diego,25th,NA,NA
+110468,Alliant International University-San Diego,75th,NA,NA
+110486,California State University-Bakersfield,25th,NA,NA
+110486,California State University-Bakersfield,75th,NA,NA
+110495,California State University-Stanislaus,25th,NA,NA
+110495,California State University-Stanislaus,75th,NA,NA
+110510,California State University-San Bernardino,25th,460,450
+110510,California State University-San Bernardino,75th,540,540
+110529,California State Polytechnic University-Pomona,25th,510,510
+110529,California State Polytechnic University-Pomona,75th,620,640
+110538,California State University-Chico,25th,500,500
+110538,California State University-Chico,75th,600,590
+110547,California State University-Dominguez Hills,25th,NA,NA
+110547,California State University-Dominguez Hills,75th,NA,NA
+110556,California State University-Fresno,25th,460,460
+110556,California State University-Fresno,75th,570,550
+110565,California State University-Fullerton,25th,520,520
+110565,California State University-Fullerton,75th,610,610
+110574,California State University-East Bay,25th,NA,NA
+110574,California State University-East Bay,75th,NA,NA
+110583,California State University-Long Beach,25th,520,520
+110583,California State University-Long Beach,75th,620,630
+110592,California State University-Los Angeles,25th,450,440
+110592,California State University-Los Angeles,75th,540,540
+110608,California State University-Northridge,25th,470,460
+110608,California State University-Northridge,75th,570,560
+110617,California State University-Sacramento,25th,470,470
+110617,California State University-Sacramento,75th,570,560
+110635,University of California-Berkeley,25th,650,670
+110635,University of California-Berkeley,75th,740,790
+110644,University of California-Davis,25th,580,580
+110644,University of California-Davis,75th,670,730
+110653,University of California-Irvine,25th,580,610
+110653,University of California-Irvine,75th,670,740
+110662,University of California-Los Angeles,25th,650,640
+110662,University of California-Los Angeles,75th,740,780
+110671,University of California-Riverside,25th,560,550
+110671,University of California-Riverside,75th,650,680
+110680,University of California-San Diego,25th,620,640
+110680,University of California-San Diego,75th,700,770
+110705,University of California-Santa Barbara,25th,620,610
+110705,University of California-Santa Barbara,75th,700,760
+110714,University of California-Santa Cruz,25th,590,600
+110714,University of California-Santa Cruz,75th,680,720
+110918,California Christian College,25th,NA,NA
+110918,California Christian College,75th,NA,NA
+111081,California Institute of the Arts,25th,NA,NA
+111081,California Institute of the Arts,75th,NA,NA
+111188,California State University Maritime Academy,25th,NA,NA
+111188,California State University Maritime Academy,75th,NA,NA
+111638,Casa Loma College-Van Nuys,25th,NA,NA
+111638,Casa Loma College-Van Nuys,75th,NA,NA
+111948,Chapman University,25th,600,590
+111948,Chapman University,75th,680,690
+111966,Charles R Drew University of Medicine and Science,25th,450,400
+111966,Charles R Drew University of Medicine and Science,75th,570,500
+112075,Concordia University-Irvine,25th,520,510
+112075,Concordia University-Irvine,75th,610,610
+112084,San Diego Christian College,25th,493,480
+112084,San Diego Christian College,75th,580,560
+112260,Claremont McKenna College,25th,670,680
+112260,Claremont McKenna College,75th,730,770
+112394,Cogswell College,25th,NA,NA
+112394,Cogswell College,75th,NA,NA
+113537,Dell'Arte International School of Physical Theatre,25th,NA,NA
+113537,Dell'Arte International School of Physical Theatre,75th,NA,NA
+113582,Design Institute of San Diego,25th,NA,NA
+113582,Design Institute of San Diego,75th,NA,NA
+113698,Dominican University of California,25th,515,520
+113698,Dominican University of California,75th,610,600
+114354,FIDM-Fashion Institute of Design & Merchandising-Los Angeles,25th,NA,NA
+114354,FIDM-Fashion Institute of Design & Merchandising-Los Angeles,75th,NA,NA
+114390,FIDM-Fashion Institute of Design & Merchandising-San Francisco,25th,NA,NA
+114390,FIDM-Fashion Institute of Design & Merchandising-San Francisco,75th,NA,NA
+114415,FIDM-Fashion Institute of Design & Merchandising-Orange County,25th,NA,NA
+114415,FIDM-Fashion Institute of Design & Merchandising-Orange County,75th,NA,NA
+114813,Fresno Pacific University,25th,490,478
+114813,Fresno Pacific University,75th,580,560
+115409,Harvey Mudd College,25th,720,770
+115409,Harvey Mudd College,75th,760,800
+115728,Holy Names University,25th,270,443
+115728,Holy Names University,75th,330,540
+115755,Humboldt State University,25th,490,480
+115755,Humboldt State University,75th,600,570
+116712,John F. Kennedy University,25th,NA,NA
+116712,John F. Kennedy University,75th,NA,NA
+116846,American Jewish University,25th,NA,NA
+116846,American Jewish University,75th,NA,NA
+117104,Life Pacific College,25th,460,440
+117104,Life Pacific College,75th,553,543
+117140,University of La Verne,25th,510,510
+117140,University of La Verne,75th,600,605
+117168,Laguna College of Art and Design,25th,NA,NA
+117168,Laguna College of Art and Design,75th,NA,NA
+117627,La Sierra University,25th,460,440
+117627,La Sierra University,75th,570,550
+117751,The Master's University and Seminary,25th,500,490
+117751,The Master's University and Seminary,75th,650,600
+117946,Loyola Marymount University,25th,610,600
+117946,Loyola Marymount University,75th,690,700
+118161,Lytles Redwood Empire Beauty College Inc,25th,NA,NA
+118161,Lytles Redwood Empire Beauty College Inc,75th,NA,NA
+118198,MTI College,25th,NA,NA
+118198,MTI College,75th,NA,NA
+118693,Menlo College,25th,456,460
+118693,Menlo College,75th,570,580
+118888,Mills College,25th,513,495
+118888,Mills College,75th,640,600
+119173,Mount Saint Mary's University,25th,480,450
+119173,Mount Saint Mary's University,75th,580,550
+119270,Musicians Institute,25th,NA,NA
+119270,Musicians Institute,75th,NA,NA
+119775,Newschool of Architecture and Design,25th,NA,NA
+119775,Newschool of Architecture and Design,75th,NA,NA
+120078,North-West College-West Covina,25th,NA,NA
+120078,North-West College-West Covina,75th,NA,NA
+120184,Notre Dame de Namur University,25th,440,430
+120184,Notre Dame de Namur University,75th,530,530
+120254,Occidental College,25th,640,630
+120254,Occidental College,75th,710,740
+120403,Otis College of Art and Design,25th,540,510
+120403,Otis College of Art and Design,75th,640,630
+120537,Hope International University,25th,460,470
+120537,Hope International University,75th,540,550
+120661,Concorde Career College-San Diego,25th,NA,NA
+120661,Concorde Career College-San Diego,75th,NA,NA
+120768,Pacific Oaks College,25th,NA,NA
+120768,Pacific Oaks College,75th,NA,NA
+120865,Pacific Union College,25th,490,460
+120865,Pacific Union College,75th,600,590
+120883,University of the Pacific,25th,560,560
+120883,University of the Pacific,75th,660,690
+121150,Pepperdine University,25th,610,610
+121150,Pepperdine University,75th,690,730
+121257,Pitzer College,25th,NA,NA
+121257,Pitzer College,75th,NA,NA
+121309,Point Loma Nazarene University,25th,580,560
+121309,Point Loma Nazarene University,75th,650,650
+121345,Pomona College,25th,700,700
+121345,Pomona College,75th,760,780
+121691,University of Redlands,25th,550,530
+121691,University of Redlands,75th,640,620
+122409,San Diego State University,25th,560,550
+122409,San Diego State University,75th,650,660
+122436,University of San Diego,25th,600,590
+122436,University of San Diego,75th,670,690
+122454,San Francisco Art Institute,25th,NA,NA
+122454,San Francisco Art Institute,75th,NA,NA
+122506,San Francisco Conservatory of Music,25th,NA,NA
+122506,San Francisco Conservatory of Music,75th,NA,NA
+122597,San Francisco State University,25th,480,470
+122597,San Francisco State University,75th,590,570
+122612,University of San Francisco,25th,570,560
+122612,University of San Francisco,75th,660,670
+122728,William Jessup University,25th,500,460
+122728,William Jessup University,75th,593,580
+122755,San Jose State University,25th,510,520
+122755,San Jose State University,75th,620,640
+122931,Santa Clara University,25th,630,640
+122931,Santa Clara University,75th,700,740
+123165,Scripps College,25th,660,640
+123165,Scripps College,75th,740,740
+123280,Shasta Bible College and Graduate School,25th,NA,NA
+123280,Shasta Bible College and Graduate School,75th,NA,NA
+123457,Simpson University,25th,478,488
+123457,Simpson University,75th,580,580
+123554,Saint Mary's College of California,25th,540,520
+123554,Saint Mary's College of California,75th,630,620
+123572,Sonoma State University,25th,490,490
+123572,Sonoma State University,75th,590,580
+123651,Vanguard University of Southern California,25th,480,470
+123651,Vanguard University of Southern California,75th,570,550
+123679,Concorde Career College-Garden Grove,25th,NA,NA
+123679,Concorde Career College-Garden Grove,75th,NA,NA
+123961,University of Southern California,25th,660,690
+123961,University of Southern California,75th,740,790
+124292,Thomas Aquinas College,25th,630,590
+124292,Thomas Aquinas College,75th,720,680
+124706,Concorde Career College-San Bernardino,25th,NA,NA
+124706,Concorde Career College-San Bernardino,75th,NA,NA
+124937,Concorde Career College-North Hollywood,25th,NA,NA
+124937,Concorde Career College-North Hollywood,75th,NA,NA
+125532,Carrington College-Sacramento,25th,NA,NA
+125532,Carrington College-Sacramento,75th,NA,NA
+125727,Westmont College,25th,570,540
+125727,Westmont College,75th,690,680
+125763,Whittier College,25th,520,510
+125763,Whittier College,75th,613,600
+125897,Woodbury University,25th,463,483
+125897,Woodbury University,75th,570,560
+126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,25th,NA,NA
+126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,75th,NA,NA
+126182,Adams State University,25th,440,430
+126182,Adams State University,75th,550,530
+126359,Bel-Rea Institute of Animal Technology,25th,NA,NA
+126359,Bel-Rea Institute of Animal Technology,75th,NA,NA
+126562,University of Colorado Denver/Anschutz Medical Campus,25th,510,510
+126562,University of Colorado Denver/Anschutz Medical Campus,75th,610,600
+126580,University of Colorado Colorado Springs,25th,510,500
+126580,University of Colorado Colorado Springs,75th,610,600
+126614,University of Colorado Boulder,25th,580,570
+126614,University of Colorado Boulder,75th,670,690
+126678,Colorado College,25th,NA,NA
+126678,Colorado College,75th,NA,NA
+126687,Concorde Career College-Aurora,25th,NA,NA
+126687,Concorde Career College-Aurora,75th,NA,NA
+126775,Colorado School of Mines,25th,630,660
+126775,Colorado School of Mines,75th,710,740
+126784,Colorado School of Trades,25th,NA,NA
+126784,Colorado School of Trades,75th,NA,NA
+126818,Colorado State University-Fort Collins,25th,540,530
+126818,Colorado State University-Fort Collins,75th,640,640
+127060,University of Denver,25th,590,580
+127060,University of Denver,75th,690,680
+127185,Fort Lewis College,25th,510,500
+127185,Fort Lewis College,75th,610,590
+127556,Colorado Mesa University,25th,470,470
+127556,Colorado Mesa University,75th,530,520
+127565,Metropolitan State University of Denver,25th,460,440
+127565,Metropolitan State University of Denver,75th,560,550
+127653,Naropa University,25th,NA,NA
+127653,Naropa University,75th,NA,NA
+127741,University of Northern Colorado,25th,500,490
+127741,University of Northern Colorado,75th,610,580
+127918,Regis University,25th,530,520
+127918,Regis University,75th,620,610
+127954,Montessori Education Center of the Rockies,25th,NA,NA
+127954,Montessori Education Center of the Rockies,75th,NA,NA
+128106,Colorado State University-Pueblo,25th,460,460
+128106,Colorado State University-Pueblo,75th,570,550
+128328,United States Air Force Academy,25th,610,620
+128328,United States Air Force Academy,75th,690,720
+128391,Western State Colorado University,25th,510,490
+128391,Western State Colorado University,75th,590,580
+128498,Albertus Magnus College,25th,410,400
+128498,Albertus Magnus College,75th,540,510
+128586,Bais Binyomin Academy,25th,NA,NA
+128586,Bais Binyomin Academy,75th,NA,NA
+128744,University of Bridgeport,25th,460,440
+128744,University of Bridgeport,75th,550,540
+128771,Central Connecticut State University,25th,500,480
+128771,Central Connecticut State University,75th,590,580
+128902,Connecticut College,25th,650,640
+128902,Connecticut College,75th,710,720
+129020,University of Connecticut,25th,600,610
+129020,University of Connecticut,75th,690,730
+129215,Eastern Connecticut State University,25th,NA,NA
+129215,Eastern Connecticut State University,75th,NA,NA
+129242,Fairfield University,25th,NA,NA
+129242,Fairfield University,75th,NA,NA
+129525,University of Hartford,25th,530,520
+129525,University of Hartford,75th,630,620
+129774,Mitchell College,25th,NA,NA
+129774,Mitchell College,75th,NA,NA
+129941,University of New Haven,25th,520,510
+129941,University of New Haven,75th,620,600
+130183,Post University,25th,NA,NA
+130183,Post University,75th,NA,NA
+130226,Quinnipiac University,25th,550,540
+130226,Quinnipiac University,75th,630,630
+130253,Sacred Heart University,25th,NA,NA
+130253,Sacred Heart University,75th,NA,NA
+130314,University of Saint Joseph,25th,520,510
+130314,University of Saint Joseph,75th,620,590
+130493,Southern Connecticut State University,25th,470,450
+130493,Southern Connecticut State University,75th,580,550
+130590,Trinity College,25th,630,670
+130590,Trinity College,75th,710,750
+130624,United States Coast Guard Academy,25th,615,630
+130624,United States Coast Guard Academy,75th,700,720
+130697,Wesleyan University,25th,NA,NA
+130697,Wesleyan University,75th,NA,NA
+130776,Western Connecticut State University,25th,NA,NA
+130776,Western Connecticut State University,75th,NA,NA
+130794,Yale University,25th,720,740
+130794,Yale University,75th,770,800
+130934,Delaware State University,25th,440,400
+130934,Delaware State University,75th,520,490
+130943,University of Delaware,25th,590,570
+130943,University of Delaware,75th,670,680
+130989,Goldey-Beacom College,25th,NA,NA
+130989,Goldey-Beacom College,75th,NA,NA
+131098,Wesley College,25th,420,400
+131098,Wesley College,75th,513,510
+131159,American University,25th,630,590
+131159,American University,75th,700,680
+131283,Catholic University of America,25th,NA,NA
+131283,Catholic University of America,75th,NA,NA
+131450,Gallaudet University,25th,390,402
+131450,Gallaudet University,75th,548,530
+131469,George Washington University,25th,640,640
+131469,George Washington University,75th,720,740
+131496,Georgetown University,25th,680,690
+131496,Georgetown University,75th,750,780
+131520,Howard University,25th,590,550
+131520,Howard University,75th,650,635
+131830,National Conservatory of Dramatic Arts,25th,NA,NA
+131830,National Conservatory of Dramatic Arts,75th,NA,NA
+131876,Trinity Washington University,25th,NA,NA
+131876,Trinity Washington University,75th,NA,NA
+132408,The Baptist College of Florida,25th,430,400
+132408,The Baptist College of Florida,75th,440,430
+132471,Barry University,25th,480,430
+132471,Barry University,75th,560,520
+132657,Lynn University,25th,500,490
+132657,Lynn University,75th,590,580
+132842,Carlos Albizu University-Miami,25th,NA,NA
+132842,Carlos Albizu University-Miami,75th,NA,NA
+132879,Johnson University Florida,25th,480,430
+132879,Johnson University Florida,75th,570,540
+132903,University of Central Florida,25th,590,570
+132903,University of Central Florida,75th,670,670
+133492,Eckerd College,25th,550,530
+133492,Eckerd College,75th,650,630
+133526,Edward Waters College,25th,440,390
+133526,Edward Waters College,75th,530,510
+133553,Embry-Riddle Aeronautical University-Daytona Beach,25th,NA,NA
+133553,Embry-Riddle Aeronautical University-Daytona Beach,75th,NA,NA
+133650,Florida Agricultural and Mechanical University,25th,530,510
+133650,Florida Agricultural and Mechanical University,75th,590,580
+133669,Florida Atlantic University,25th,550,530
+133669,Florida Atlantic University,75th,630,610
+133711,Flagler College-St Augustine,25th,530,500
+133711,Flagler College-St Augustine,75th,630,590
+133809,Florida College,25th,490,470
+133809,Florida College,75th,570,558
+133845,Concorde Career Institute-Jacksonville,25th,NA,NA
+133845,Concorde Career Institute-Jacksonville,75th,NA,NA
+133854,Concorde Career Institute-Miramar,25th,NA,NA
+133854,Concorde Career Institute-Miramar,75th,NA,NA
+133863,Concorde Career Institute-Tampa,25th,NA,NA
+133863,Concorde Career Institute-Tampa,75th,NA,NA
+133872,AdventHealth University,25th,460,450
+133872,AdventHealth University,75th,560,520
+133881,Florida Institute of Technology,25th,570,580
+133881,Florida Institute of Technology,75th,660,680
+133951,Florida International University,25th,560,530
+133951,Florida International University,75th,640,620
+133979,Florida Memorial University,25th,NA,NA
+133979,Florida Memorial University,75th,NA,NA
+134079,Florida Southern College,25th,580,550
+134079,Florida Southern College,75th,660,640
+134097,Florida State University,25th,610,590
+134097,Florida State University,75th,680,670
+134130,University of Florida,25th,640,640
+134130,University of Florida,75th,710,730
+134945,Jacksonville University,25th,460,440
+134945,Jacksonville University,75th,560,645
+135364,Luther Rice College & Seminary,25th,NA,NA
+135364,Luther Rice College & Seminary,75th,NA,NA
+135726,University of Miami,25th,620,630
+135726,University of Miami,75th,690,740
+136172,University of North Florida,25th,570,550
+136172,University of North Florida,75th,650,630
+136215,Nova Southeastern University,25th,550,530
+136215,Nova Southeastern University,75th,650,640
+136330,Palm Beach Atlantic University,25th,510,490
+136330,Palm Beach Atlantic University,75th,630,590
+136774,Ringling College of Art and Design,25th,NA,NA
+136774,Ringling College of Art and Design,75th,NA,NA
+136950,Rollins College,25th,NA,NA
+136950,Rollins College,75th,NA,NA
+137032,Saint Leo University,25th,470,490
+137032,Saint Leo University,75th,560,590
+137272,Saint John Vianney College Seminary,25th,NA,NA
+137272,Saint John Vianney College Seminary,75th,NA,NA
+137351,University of South Florida-Main Campus,25th,590,580
+137351,University of South Florida-Main Campus,75th,660,670
+137476,St. Thomas University,25th,490,460
+137476,St. Thomas University,75th,580,560
+137546,Stetson University,25th,NA,NA
+137546,Stetson University,75th,NA,NA
+137564,Southeastern University,25th,490,460
+137564,Southeastern University,75th,600,560
+137847,The University of Tampa,25th,550,540
+137847,The University of Tampa,75th,630,620
+137953,Trinity Baptist College,25th,420,485
+137953,Trinity Baptist College,75th,445,510
+137962,Trinity College of Florida,25th,430,410
+137962,Trinity College of Florida,75th,580,560
+138275,Warner University,25th,450,440
+138275,Warner University,75th,550,540
+138293,Webber International University,25th,443,433
+138293,Webber International University,75th,530,530
+138354,The University of West Florida,25th,550,530
+138354,The University of West Florida,75th,640,610
+138558,Abraham Baldwin Agricultural College,25th,470,460
+138558,Abraham Baldwin Agricultural College,75th,580,550
+138600,Agnes Scott College,25th,NA,NA
+138600,Agnes Scott College,75th,NA,NA
+138716,Albany State University,25th,380,370
+138716,Albany State University,75th,460,440
+138761,Andrew College,25th,420,400
+138761,Andrew College,75th,530,510
+138868,Point University,25th,440,440
+138868,Point University,75th,550,535
+138947,Clark Atlanta University,25th,490,460
+138947,Clark Atlanta University,75th,570,540
+139144,Berry College,25th,570,540
+139144,Berry College,75th,660,650
+139199,Brenau University,25th,470,440
+139199,Brenau University,75th,580,550
+139205,Brewton-Parker College,25th,450,410
+139205,Brewton-Parker College,75th,535,520
+139214,Brown College of Court Reporting,25th,NA,NA
+139214,Brown College of Court Reporting,75th,NA,NA
+139250,College of Coastal Georgia,25th,470,440
+139250,College of Coastal Georgia,75th,570,530
+139311,Clayton  State University,25th,NA,NA
+139311,Clayton  State University,75th,NA,NA
+139366,Columbus State University,25th,450,420
+139366,Columbus State University,75th,560,540
+139393,Covenant College,25th,580,540
+139393,Covenant College,75th,690,660
+139630,Emmanuel College,25th,480,450
+139630,Emmanuel College,75th,580,570
+139658,Emory University,25th,660,690
+139658,Emory University,75th,730,790
+139719,Fort Valley State University,25th,433,400
+139719,Fort Valley State University,75th,580,490
+139755,Georgia Institute of Technology-Main Campus,25th,680,710
+139755,Georgia Institute of Technology-Main Campus,75th,750,790
+139764,Georgia Southwestern State University,25th,480,460
+139764,Georgia Southwestern State University,75th,580,540
+139861,Georgia College & State University,25th,570,540
+139861,Georgia College & State University,75th,650,630
+139931,Georgia Southern University,25th,540,520
+139931,Georgia Southern University,75th,610,590
+139940,Georgia State University,25th,540,520
+139940,Georgia State University,75th,630,620
+139959,University of Georgia,25th,630,610
+139959,University of Georgia,75th,700,710
+139968,Gordon State College,25th,440,410
+139968,Gordon State College,75th,530,510
+140234,LaGrange College,25th,520,500
+140234,LaGrange College,75th,600,580
+140252,Life University,25th,440,420
+140252,Life University,75th,540,530
+140340,Herzing University-Atlanta,25th,NA,NA
+140340,Herzing University-Atlanta,75th,NA,NA
+140447,Mercer University,25th,600,580
+140447,Mercer University,75th,670,670
+140553,Morehouse College,25th,510,500
+140553,Morehouse College,75th,610,600
+140696,Oglethorpe University,25th,570,540
+140696,Oglethorpe University,75th,660,630
+140720,Paine College,25th,410,370
+140720,Paine College,75th,490,490
+140818,Piedmont College,25th,500,470
+140818,Piedmont College,75th,600,580
+140872,Reinhardt University,25th,510,490
+140872,Reinhardt University,75th,600,590
+140951,Savannah College of Art and Design,25th,530,500
+140951,Savannah College of Art and Design,75th,630,600
+140960,Savannah State University,25th,700,520
+140960,Savannah State University,75th,760,620
+140988,Shorter University,25th,470,450
+140988,Shorter University,75th,580,560
+141060,Spelman College,25th,560,520
+141060,Spelman College,75th,630,590
+141167,Thomas University,25th,NA,NA
+141167,Thomas University,75th,NA,NA
+141185,Toccoa Falls College,25th,490,470
+141185,Toccoa Falls College,75th,600,560
+141237,Truett McConnell University,25th,470,450
+141237,Truett McConnell University,75th,583,560
+141264,Valdosta State University,25th,510,490
+141264,Valdosta State University,75th,590,550
+141325,Wesleyan College,25th,490,440
+141325,Wesleyan College,75th,580,530
+141334,University of West Georgia,25th,490,430
+141334,University of West Georgia,75th,570,510
+141361,Young Harris College,25th,460,470
+141361,Young Harris College,75th,580,550
+141486,Chaminade University of Honolulu,25th,490,480
+141486,Chaminade University of Honolulu,75th,570,560
+141565,University of Hawaii at Hilo,25th,490,470
+141565,University of Hawaii at Hilo,75th,590,580
+141574,University of Hawaii at Manoa,25th,530,520
+141574,University of Hawaii at Manoa,75th,620,620
+141644,Hawaii Pacific University,25th,520,500
+141644,Hawaii Pacific University,75th,620,600
+141981,University of Hawaii-West Oahu,25th,470,460
+141981,University of Hawaii-West Oahu,75th,560,550
+142054,Carrington College-Boise,25th,NA,NA
+142054,Carrington College-Boise,75th,NA,NA
+142090,Boise Bible College,25th,500,480
+142090,Boise Bible College,75th,630,540
+142115,Boise State University,25th,520,510
+142115,Boise State University,75th,620,600
+142285,University of Idaho,25th,510,500
+142285,University of Idaho,75th,620,600
+142294,The College of Idaho,25th,NA,NA
+142294,The College of Idaho,75th,NA,NA
+142328,Lewis-Clark State College,25th,450,440
+142328,Lewis-Clark State College,75th,560,550
+142461,Northwest Nazarene University,25th,520,500
+142461,Northwest Nazarene University,75th,640,610
+142522,Brigham Young University-Idaho,25th,510,500
+142522,Brigham Young University-Idaho,75th,620,590
+143048,School of the Art Institute of Chicago,25th,580,540
+143048,School of the Art Institute of Chicago,75th,660,680
+143084,Augustana College,25th,NA,NA
+143084,Augustana College,75th,NA,NA
+143118,Aurora University,25th,490,480
+143118,Aurora University,75th,580,570
+143288,Blackburn College,25th,480,480
+143288,Blackburn College,75th,570,570
+143358,Bradley University,25th,550,540
+143358,Bradley University,75th,640,650
+144005,Chicago State University,25th,465,440
+144005,Chicago State University,75th,550,470
+144050,University of Chicago,25th,720,750
+144050,University of Chicago,75th,770,800
+144281,Columbia College Chicago,25th,NA,NA
+144281,Columbia College Chicago,75th,NA,NA
+144351,Concordia University-Chicago,25th,500,490
+144351,Concordia University-Chicago,75th,580,590
+144740,DePaul University,25th,NA,NA
+144740,DePaul University,75th,NA,NA
+144892,Eastern Illinois University,25th,470,450
+144892,Eastern Illinois University,75th,570,540
+144962,Elmhurst College,25th,500,493
+144962,Elmhurst College,75th,600,590
+144971,Eureka College,25th,470,480
+144971,Eureka College,75th,590,580
+145239,Fox College,25th,NA,NA
+145239,Fox College,75th,NA,NA
+145336,Governors State University,25th,440,420
+145336,Governors State University,75th,535,510
+145354,Graham Hospital School of Nursing,25th,NA,NA
+145354,Graham Hospital School of Nursing,75th,NA,NA
+145372,Greenville University,25th,470,450
+145372,Greenville University,75th,580,570
+145497,Hebrew Theological College,25th,NA,NA
+145497,Hebrew Theological College,75th,NA,NA
+145600,University of Illinois at Chicago,25th,510,510
+145600,University of Illinois at Chicago,75th,610,610
+145619,Benedictine University,25th,490,490
+145619,Benedictine University,75th,598,590
+145637,University of Illinois at Urbana-Champaign,25th,600,600
+145637,University of Illinois at Urbana-Champaign,75th,690,770
+145646,Illinois Wesleyan University,25th,570,550
+145646,Illinois Wesleyan University,75th,660,665
+145691,Illinois College,25th,NA,NA
+145691,Illinois College,75th,NA,NA
+145725,Illinois Institute of Technology,25th,600,620
+145725,Illinois Institute of Technology,75th,680,720
+145813,Illinois State University,25th,510,500
+145813,Illinois State University,75th,600,590
+146339,Judson University,25th,470,480
+146339,Judson University,75th,590,590
+146427,Knox College,25th,NA,NA
+146427,Knox College,75th,NA,NA
+146481,Lake Forest College,25th,NA,NA
+146481,Lake Forest College,75th,NA,NA
+146612,Lewis University,25th,520,520
+146612,Lewis University,75th,600,600
+146667,Lincoln Christian University,25th,490,450
+146667,Lincoln Christian University,75th,620,560
+146676,Lincoln College,25th,360,340
+146676,Lincoln College,75th,410,400
+146719,Loyola University Chicago,25th,570,550
+146719,Loyola University Chicago,75th,660,650
+146755,Trinity College of Nursing & Health Sciences,25th,NA,NA
+146755,Trinity College of Nursing & Health Sciences,75th,NA,NA
+146825,MacMurray College,25th,460,463
+146825,MacMurray College,75th,550,540
+147013,McKendree University,25th,479,481
+147013,McKendree University,75th,631,639
+147129,Methodist College,25th,NA,NA
+147129,Methodist College,75th,NA,NA
+147165,Midstate College,25th,NA,NA
+147165,Midstate College,75th,NA,NA
+147244,Millikin University,25th,490,470
+147244,Millikin University,75th,620,590
+147341,Monmouth College,25th,500,480
+147341,Monmouth College,75th,580,590
+147369,Moody Bible Institute,25th,NA,NA
+147369,Moody Bible Institute,75th,NA,NA
+147536,National Louis University,25th,NA,NA
+147536,National Louis University,75th,NA,NA
+147660,North Central College,25th,433,420
+147660,North Central College,75th,600,600
+147679,North Park University,25th,480,470
+147679,North Park University,75th,587,580
+147703,Northern Illinois University,25th,490,480
+147703,Northern Illinois University,75th,600,590
+147767,Northwestern University,25th,700,730
+147767,Northwestern University,75th,760,790
+147776,Northeastern Illinois University,25th,NA,380
+147776,Northeastern Illinois University,75th,NA,490
+147828,Olivet Nazarene University,25th,510,490
+147828,Olivet Nazarene University,75th,620,600
+148016,Principia College,25th,520,508
+148016,Principia College,75th,660,640
+148131,Quincy University,25th,490,470
+148131,Quincy University,75th,580,560
+148335,Robert Morris University Illinois,25th,NA,NA
+148335,Robert Morris University Illinois,75th,NA,NA
+148405,Rockford University,25th,500,490
+148405,Rockford University,75th,600,590
+148487,Roosevelt University,25th,510,500
+148487,Roosevelt University,75th,600,580
+148496,Dominican University,25th,480,470
+148496,Dominican University,75th,570,560
+148584,University of St Francis,25th,520,510
+148584,University of St Francis,75th,600,590
+148627,Saint Xavier University,25th,480,470
+148627,Saint Xavier University,75th,570,560
+148654,University of Illinois at Springfield,25th,500,490
+148654,University of Illinois at Springfield,75th,610,608
+148955,National Latino Education Institute,25th,NA,NA
+148955,National Latino Education Institute,75th,NA,NA
+149028,Saint Anthony College of Nursing,25th,NA,NA
+149028,Saint Anthony College of Nursing,75th,NA,NA
+149222,Southern Illinois University-Carbondale,25th,500,500
+149222,Southern Illinois University-Carbondale,75th,610,600
+149231,Southern Illinois University-Edwardsville,25th,510,500
+149231,Southern Illinois University-Edwardsville,75th,610,610
+149310,Taylor Business Institute,25th,NA,NA
+149310,Taylor Business Institute,75th,NA,NA
+149329,Telshe Yeshiva-Chicago,25th,NA,NA
+149329,Telshe Yeshiva-Chicago,75th,NA,NA
+149505,Trinity Christian College,25th,480,470
+149505,Trinity Christian College,75th,580,580
+149514,Trinity International University-Illinois,25th,480,480
+149514,Trinity International University-Illinois,75th,570,580
+149639,VanderCook College of Music,25th,590,540
+149639,VanderCook College of Music,75th,670,600
+149772,Western Illinois University,25th,470,460
+149772,Western Illinois University,75th,560,550
+149781,Wheaton College,25th,620,590
+149781,Wheaton College,75th,710,710
+150048,Ancilla College,25th,410,400
+150048,Ancilla College,75th,500,510
+150066,Anderson University,25th,500,500
+150066,Anderson University,75th,590,570
+150136,Ball State University,25th,NA,NA
+150136,Ball State University,75th,NA,NA
+150145,Bethel College-Indiana,25th,490,480
+150145,Bethel College-Indiana,75th,590,580
+150163,Butler University,25th,590,580
+150163,Butler University,75th,660,670
+150400,DePauw University,25th,560,560
+150400,DePauw University,75th,660,680
+150455,Earlham College,25th,570,590
+150455,Earlham College,75th,690,690
+150534,University of Evansville,25th,550,530
+150534,University of Evansville,75th,650,650
+150604,Franklin College,25th,490,490
+150604,Franklin College,75th,590,580
+150668,Goshen College,25th,490,505
+150668,Goshen College,75th,620,590
+150677,Grace College and Theological Seminary,25th,510,510
+150677,Grace College and Theological Seminary,75th,640,610
+150756,Hanover College,25th,520,520
+150756,Hanover College,75th,640,620
+150774,Holy Cross College,25th,560,540
+150774,Holy Cross College,75th,690,710
+150941,Huntington University,25th,500,490
+150941,Huntington University,75th,590,590
+151102,Purdue University Fort Wayne,25th,490,480
+151102,Purdue University Fort Wayne,75th,590,590
+151111,Indiana University-Purdue University-Indianapolis,25th,500,500
+151111,Indiana University-Purdue University-Indianapolis,75th,610,590
+151263,University of Indianapolis,25th,500,490
+151263,University of Indianapolis,75th,600,580
+151290,Indiana Institute of Technology,25th,470,283
+151290,Indiana Institute of Technology,75th,588,580
+151306,University of Southern Indiana,25th,490,490
+151306,University of Southern Indiana,75th,590,590
+151324,Indiana State University,25th,460,450
+151324,Indiana State University,75th,570,550
+151333,Indiana University-Kokomo,25th,480,470
+151333,Indiana University-Kokomo,75th,570,560
+151342,Indiana University-South Bend,25th,470,460
+151342,Indiana University-South Bend,75th,570,560
+151351,Indiana University-Bloomington,25th,580,570
+151351,Indiana University-Bloomington,75th,670,690
+151360,Indiana University-Northwest,25th,460,450
+151360,Indiana University-Northwest,75th,560,540
+151379,Indiana University-Southeast,25th,480,470
+151379,Indiana University-Southeast,75th,590,560
+151388,Indiana University-East,25th,470,450
+151388,Indiana University-East,75th,570,550
+151458,International Business College-Fort Wayne,25th,NA,NA
+151458,International Business College-Fort Wayne,75th,NA,NA
+151467,International Business College-Indianapolis,25th,NA,NA
+151467,International Business College-Indianapolis,75th,NA,NA
+151777,Manchester University,25th,NA,NA
+151777,Manchester University,75th,NA,NA
+151786,Marian University,25th,510,510
+151786,Marian University,75th,600,600
+151801,Indiana Wesleyan University-Marion,25th,510,500
+151801,Indiana Wesleyan University-Marion,75th,620,600
+152080,University of Notre Dame,25th,690,710
+152080,University of Notre Dame,75th,760,790
+152099,Oakland City University,25th,450,462
+152099,Oakland City University,75th,560,550
+152318,Rose-Hulman Institute of Technology,25th,610,660
+152318,Rose-Hulman Institute of Technology,75th,700,780
+152336,University of Saint Francis-Fort Wayne,25th,480,475
+152336,University of Saint Francis-Fort Wayne,75th,590,560
+152381,Saint Mary-of-the-Woods College,25th,470,450
+152381,Saint Mary-of-the-Woods College,75th,570,540
+152390,Saint Mary's College,25th,540,510
+152390,Saint Mary's College,75th,650,610
+152497,Saint Elizabeth School of Nursing,25th,410,400
+152497,Saint Elizabeth School of Nursing,75th,500,510
+152530,Taylor University,25th,540,540
+152530,Taylor University,75th,660,640
+152567,Trine University,25th,500,510
+152567,Trine University,75th,610,620
+152600,Valparaiso University,25th,540,530
+152600,Valparaiso University,75th,630,640
+152673,Wabash College,25th,550,550
+152673,Wabash College,75th,650,680
+152798,Allen College,25th,NA,NA
+152798,Allen College,75th,NA,NA
+153001,Buena Vista University,25th,450,470
+153001,Buena Vista University,75th,580,560
+153108,Central College,25th,505,410
+153108,Central College,75th,585,590
+153126,Clarke University,25th,460,470
+153126,Clarke University,75th,548,548
+153144,Coe College,25th,548,530
+153144,Coe College,75th,670,630
+153162,Cornell College,25th,540,540
+153162,Cornell College,75th,670,650
+153241,Divine Word College,25th,NA,NA
+153241,Divine Word College,75th,NA,NA
+153250,Dordt College,25th,530,530
+153250,Dordt College,75th,690,670
+153269,Drake University,25th,580,560
+153269,Drake University,75th,680,680
+153278,University of Dubuque,25th,420,430
+153278,University of Dubuque,75th,570,530
+153302,Emmaus Bible College,25th,490,460
+153302,Emmaus Bible College,75th,670,620
+153320,Faith Baptist Bible College and Theological Seminary,25th,480,470
+153320,Faith Baptist Bible College and Theological Seminary,75th,640,620
+153366,Graceland University-Lamoni,25th,470,480
+153366,Graceland University-Lamoni,75th,550,560
+153375,Grand View University,25th,460,460
+153375,Grand View University,75th,550,560
+153384,Grinnell College,25th,670,700
+153384,Grinnell College,75th,745,785
+153603,Iowa State University,25th,548,544
+153603,Iowa State University,75th,682,652
+153621,Iowa Wesleyan University,25th,460,468
+153621,Iowa Wesleyan University,75th,540,520
+153658,University of Iowa,25th,560,560
+153658,University of Iowa,75th,660,670
+153825,Loras College,25th,490,508
+153825,Loras College,75th,580,603
+153834,Luther College,25th,510,540
+153834,Luther College,75th,660,650
+153861,Maharishi University of Management,25th,NA,NA
+153861,Maharishi University of Management,75th,NA,NA
+153977,Mercy College of Health Sciences,25th,NA,NA
+153977,Mercy College of Health Sciences,75th,NA,NA
+154004,Morningside College,25th,NA,NA
+154004,Morningside College,75th,NA,NA
+154013,Mount Mercy University,25th,NA,NA
+154013,Mount Mercy University,75th,NA,NA
+154095,University of Northern Iowa,25th,480,500
+154095,University of Northern Iowa,75th,631,610
+154101,Northwestern College,25th,530,520
+154101,Northwestern College,75th,610,640
+154235,Saint Ambrose University,25th,510,510
+154235,Saint Ambrose University,75th,600,590
+154262,St Luke's College,25th,NA,NA
+154262,St Luke's College,75th,NA,NA
+154350,Simpson College,25th,530,520
+154350,Simpson College,75th,640,610
+154493,Upper Iowa University,25th,465,470
+154493,Upper Iowa University,75th,570,600
+154518,Waldorf University,25th,460,460
+154518,Waldorf University,75th,560,550
+154527,Wartburg College,25th,510,510
+154527,Wartburg College,75th,570,590
+154590,William Penn University,25th,NA,NA
+154590,William Penn University,75th,NA,NA
+154688,Baker University,25th,445,485
+154688,Baker University,75th,585,590
+154712,Benedictine College,25th,530,520
+154712,Benedictine College,75th,650,630
+154721,Bethany College,25th,440,450
+154721,Bethany College,75th,520,540
+154749,Bethel College-North Newton,25th,468,453
+154749,Bethel College-North Newton,75th,563,585
+155025,Emporia State University,25th,465,435
+155025,Emporia State University,75th,560,618
+155061,Fort Hays State University,25th,NA,NA
+155061,Fort Hays State University,75th,NA,NA
+155070,Barclay College,25th,NA,NA
+155070,Barclay College,75th,NA,NA
+155089,Friends University,25th,470,450
+155089,Friends University,75th,570,520
+155140,Haskell Indian Nations University,25th,465,453
+155140,Haskell Indian Nations University,75th,525,495
+155283,Concorde Career College-Kansas City,25th,NA,NA
+155283,Concorde Career College-Kansas City,75th,NA,NA
+155317,University of Kansas,25th,NA,NA
+155317,University of Kansas,75th,NA,NA
+155335,Newman University,25th,500,500
+155335,Newman University,75th,590,590
+155399,Kansas State University,25th,NA,NA
+155399,Kansas State University,75th,NA,NA
+155414,Kansas Wesleyan University,25th,480,500
+155414,Kansas Wesleyan University,75th,590,580
+155423,Washburn Institute of Technology,25th,NA,NA
+155423,Washburn Institute of Technology,75th,NA,NA
+155496,Manhattan Christian College,25th,460,390
+155496,Manhattan Christian College,75th,640,640
+155511,McPherson College,25th,480,510
+155511,McPherson College,75th,590,580
+155520,MidAmerica Nazarene University,25th,430,480
+155520,MidAmerica Nazarene University,75th,570,570
+155627,Ottawa University-Ottawa,25th,480,470
+155627,Ottawa University-Ottawa,75th,570,550
+155681,Pittsburg State University,25th,NA,NA
+155681,Pittsburg State University,75th,NA,NA
+155812,University of Saint Mary,25th,485,490
+155812,University of Saint Mary,75th,595,575
+155900,Southwestern College,25th,460,450
+155900,Southwestern College,75th,540,540
+155937,Sterling College,25th,460,470
+155937,Sterling College,75th,530,540
+155973,Tabor College,25th,470,450
+155973,Tabor College,75th,550,570
+156125,Wichita State University,25th,530,520
+156125,Wichita State University,75th,640,650
+156189,Alice Lloyd College,25th,440,430
+156189,Alice Lloyd College,75th,590,440
+156213,Asbury University,25th,NA,NA
+156213,Asbury University,75th,NA,NA
+156286,Bellarmine University,25th,540,520
+156286,Bellarmine University,75th,640,630
+156295,Berea College,25th,520,510
+156295,Berea College,75th,590,623
+156356,Brescia University,25th,490,510
+156356,Brescia University,75th,610,610
+156365,Campbellsville University,25th,450,490
+156365,Campbellsville University,75th,560,593
+156408,Centre College,25th,590,600
+156408,Centre College,75th,705,715
+156541,University of the Cumberlands,25th,485,510
+156541,University of the Cumberlands,75th,590,590
+156620,Eastern Kentucky University,25th,510,510
+156620,Eastern Kentucky University,75th,600,590
+156745,Georgetown College,25th,510,505
+156745,Georgetown College,75th,580,565
+157030,Kentucky Mountain Bible College,25th,490,410
+157030,Kentucky Mountain Bible College,75th,550,460
+157058,Kentucky State University,25th,420,400
+157058,Kentucky State University,75th,500,503
+157076,Kentucky Wesleyan College,25th,390,440
+157076,Kentucky Wesleyan College,75th,593,580
+157085,University of Kentucky,25th,550,530
+157085,University of Kentucky,75th,650,650
+157100,Kentucky Christian University,25th,450,470
+157100,Kentucky Christian University,75th,510,530
+157289,University of Louisville,25th,540,530
+157289,University of Louisville,75th,640,650
+157377,Midway University,25th,490,470
+157377,Midway University,75th,600,550
+157386,Morehead State University,25th,NA,NA
+157386,Morehead State University,75th,NA,NA
+157401,Murray State University,25th,518,510
+157401,Murray State University,75th,613,600
+157447,Northern Kentucky University,25th,510,480
+157447,Northern Kentucky University,75th,610,620
+157748,The Southern Baptist Theological Seminary,25th,490,460
+157748,The Southern Baptist Theological Seminary,75th,630,573
+157757,Spalding University,25th,NA,500
+157757,Spalding University,75th,NA,590
+157809,Thomas More College,25th,470,490
+157809,Thomas More College,75th,570,550
+157818,Transylvania University,25th,560,540
+157818,Transylvania University,75th,640,670
+157863,Union College,25th,460,476
+157863,Union College,75th,533,533
+157951,Western Kentucky University,25th,500,480
+157951,Western Kentucky University,75th,600,590
+158477,Centenary College of Louisiana,25th,530,520
+158477,Centenary College of Louisiana,75th,610,610
+158802,Dillard University,25th,NA,NA
+158802,Dillard University,75th,NA,NA
+159009,Grambling State University,25th,420,410
+159009,Grambling State University,75th,518,500
+159382,Louisiana State University-Alexandria,25th,NA,NA
+159382,Louisiana State University-Alexandria,75th,NA,NA
+159391,Louisiana State University and Agricultural & Mechanical College,25th,540,530
+159391,Louisiana State University and Agricultural & Mechanical College,75th,640,650
+159416,Louisiana State University-Shreveport,25th,500,520
+159416,Louisiana State University-Shreveport,75th,580,560
+159568,Louisiana College,25th,440,500
+159568,Louisiana College,75th,560,610
+159647,Louisiana Tech University,25th,420,450
+159647,Louisiana Tech University,75th,470,500
+159656,Loyola University New Orleans,25th,550,510
+159656,Loyola University New Orleans,75th,640,600
+159717,McNeese State University,25th,490,480
+159717,McNeese State University,75th,570,570
+159939,University of New Orleans,25th,540,510
+159939,University of New Orleans,75th,640,620
+159966,Nicholls State University,25th,430,440
+159966,Nicholls State University,75th,540,550
+159993,University of Louisiana at Monroe,25th,NA,NA
+159993,University of Louisiana at Monroe,75th,NA,NA
+160038,Northwestern State University of Louisiana,25th,460,460
+160038,Northwestern State University of Louisiana,75th,600,560
+160065,University of Holy Cross,25th,NA,NA
+160065,University of Holy Cross,75th,NA,NA
+160074,Franciscan Missionaries of Our Lady University,25th,NA,NA
+160074,Franciscan Missionaries of Our Lady University,75th,NA,NA
+160612,Southeastern Louisiana University,25th,NA,NA
+160612,Southeastern Louisiana University,75th,NA,NA
+160621,Southern University and A & M College,25th,460,470
+160621,Southern University and A & M College,75th,560,530
+160630,Southern University at New Orleans,25th,NA,NA
+160630,Southern University at New Orleans,75th,NA,NA
+160658,University of Louisiana at Lafayette,25th,520,510
+160658,University of Louisiana at Lafayette,75th,630,620
+160755,Tulane University of Louisiana,25th,670,680
+160755,Tulane University of Louisiana,75th,730,760
+160904,Xavier University of Louisiana,25th,526,490
+160904,Xavier University of Louisiana,75th,629,560
+160959,College of the Atlantic,25th,NA,NA
+160959,College of the Atlantic,75th,NA,NA
+160977,Bates College,25th,NA,NA
+160977,Bates College,75th,NA,NA
+161004,Bowdoin College,25th,NA,NA
+161004,Bowdoin College,75th,NA,NA
+161022,Maine College of Health Professions,25th,380,430
+161022,Maine College of Health Professions,75th,520,520
+161086,Colby College,25th,670,680
+161086,Colby College,75th,740,770
+161226,University of Maine at Farmington,25th,NA,NA
+161226,University of Maine at Farmington,75th,NA,NA
+161235,University of Maine at Fort Kent,25th,450,450
+161235,University of Maine at Fort Kent,75th,560,550
+161253,University of Maine,25th,530,520
+161253,University of Maine,75th,630,620
+161299,Maine Maritime Academy,25th,490,510
+161299,Maine Maritime Academy,75th,590,590
+161341,University of Maine at Presque Isle,25th,NA,NA
+161341,University of Maine at Presque Isle,75th,NA,NA
+161457,University of New England,25th,530,520
+161457,University of New England,75th,620,620
+161509,Maine College of Art,25th,NA,NA
+161509,Maine College of Art,75th,NA,NA
+161518,Saint Joseph's College of Maine,25th,490,480
+161518,Saint Joseph's College of Maine,75th,590,580
+161554,University of Southern Maine,25th,480,460
+161554,University of Southern Maine,75th,590,560
+161572,Unity College,25th,NA,NA
+161572,Unity College,75th,NA,NA
+161873,University of Baltimore,25th,460,450
+161873,University of Baltimore,75th,575,540
+162007,Bowie State University,25th,NA,NA
+162007,Bowie State University,75th,NA,NA
+162061,Capitol Technology University,25th,450,550
+162061,Capitol Technology University,75th,550,600
+162210,Washington Adventist University,25th,440,420
+162210,Washington Adventist University,75th,570,500
+162283,Coppin State University,25th,450,430
+162283,Coppin State University,75th,520,510
+162584,Frostburg State University,25th,470,460
+162584,Frostburg State University,75th,560,550
+162654,Goucher College,25th,NA,NA
+162654,Goucher College,75th,NA,NA
+162760,Hood College,25th,NA,NA
+162760,Hood College,75th,NA,NA
+162928,Johns Hopkins University,25th,710,740
+162928,Johns Hopkins University,75th,760,800
+163046,Loyola University Maryland,25th,NA,NA
+163046,Loyola University Maryland,75th,NA,NA
+163268,University of Maryland-Baltimore County,25th,600,590
+163268,University of Maryland-Baltimore County,75th,670,690
+163286,University of Maryland-College Park,25th,640,650
+163286,University of Maryland-College Park,75th,710,760
+163295,Maryland Institute College of Art,25th,500,530
+163295,Maryland Institute College of Art,75th,630,660
+163338,University of Maryland Eastern Shore,25th,440,430
+163338,University of Maryland Eastern Shore,75th,530,520
+163453,Morgan State University,25th,450,470
+163453,Morgan State University,75th,530,550
+163462,Mount St. Mary's University,25th,490,510
+163462,Mount St. Mary's University,75th,590,620
+163532,Ner Israel Rabbinical College,25th,NA,NA
+163532,Ner Israel Rabbinical College,75th,NA,NA
+163578,Notre Dame of Maryland University,25th,470,460
+163578,Notre Dame of Maryland University,75th,600,540
+163851,Salisbury University,25th,NA,NA
+163851,Salisbury University,75th,NA,NA
+163912,St. Mary's College of Maryland,25th,540,520
+163912,St. Mary's College of Maryland,75th,650,640
+163976,St. John's College,25th,630,570
+163976,St. John's College,75th,740,720
+164076,Towson University,25th,540,520
+164076,Towson University,75th,610,590
+164155,United States Naval Academy,25th,560,590
+164155,United States Naval Academy,75th,680,690
+164173,Stevenson University,25th,520,510
+164173,Stevenson University,75th,610,590
+164216,Washington College,25th,NA,NA
+164216,Washington College,75th,NA,NA
+164270,McDaniel College,25th,530,520
+164270,McDaniel College,75th,620,610
+164368,Hult International Business School,25th,NA,NA
+164368,Hult International Business School,75th,NA,NA
+164447,American International College,25th,460,460
+164447,American International College,75th,560,540
+164465,Amherst College,25th,660,670
+164465,Amherst College,75th,750,780
+164492,Anna Maria College,25th,NA,NA
+164492,Anna Maria College,75th,NA,NA
+164535,Assabet Valley Regional Technical School,25th,NA,NA
+164535,Assabet Valley Regional Technical School,75th,NA,NA
+164562,Assumption College,25th,NA,NA
+164562,Assumption College,75th,NA,NA
+164580,Babson College,25th,620,650
+164580,Babson College,75th,690,760
+164614,Boston Baptist College,25th,430,455
+164614,Boston Baptist College,75th,530,535
+164632,Bay Path University,25th,NA,NA
+164632,Bay Path University,75th,NA,NA
+164641,Bay State College,25th,NA,NA
+164641,Bay State College,75th,NA,NA
+164720,Becker College,25th,490,490
+164720,Becker College,75th,600,580
+164739,Bentley University,25th,600,640
+164739,Bentley University,75th,680,730
+164748,Berklee College of Music,25th,NA,NA
+164748,Berklee College of Music,75th,NA,NA
+164924,Boston College,25th,650,670
+164924,Boston College,75th,720,770
+164988,Boston University,25th,650,680
+164988,Boston University,75th,720,780
+165015,Brandeis University,25th,630,650
+165015,Brandeis University,75th,720,780
+165024,Bridgewater State University,25th,500,490
+165024,Bridgewater State University,75th,580,570
+165060,Signature Healthcare Brockton Hospital School of Nursing,25th,NA,NA
+165060,Signature Healthcare Brockton Hospital School of Nursing,75th,NA,NA
+165264,Laboure College,25th,NA,NA
+165264,Laboure College,75th,NA,NA
+165334,Clark University,25th,NA,NA
+165334,Clark University,75th,NA,NA
+165529,Curry College,25th,470,470
+165529,Curry College,75th,560,550
+165574,Dean College,25th,460,450
+165574,Dean College,75th,560,550
+165608,Diman Regional Technical Institute,25th,NA,NA
+165608,Diman Regional Technical Institute,75th,NA,NA
+165644,Eastern Nazarene College,25th,470,450
+165644,Eastern Nazarene College,75th,600,590
+165662,Emerson College,25th,610,590
+165662,Emerson College,75th,690,700
+165671,Emmanuel College,25th,560,540
+165671,Emmanuel College,75th,650,630
+165699,Endicott College,25th,NA,NA
+165699,Endicott College,75th,NA,NA
+165802,Fisher College,25th,NA,NA
+165802,Fisher College,75th,NA,NA
+165820,Fitchburg State University,25th,500,500
+165820,Fitchburg State University,75th,580,570
+165866,Framingham State University,25th,480,480
+165866,Framingham State University,75th,570,560
+165936,Gordon College,25th,530,520
+165936,Gordon College,75th,650,635
+166018,Hampshire College,25th,NA,NA
+166018,Hampshire College,75th,NA,NA
+166027,Harvard University,25th,720,740
+166027,Harvard University,75th,780,800
+166054,Hellenic College-Holy Cross Greek Orthodox School of Theology,25th,NA,NA
+166054,Hellenic College-Holy Cross Greek Orthodox School of Theology,75th,NA,NA
+166124,College of the Holy Cross,25th,NA,NA
+166124,College of the Holy Cross,75th,NA,NA
+166391,Lasell College,25th,490,490
+166391,Lasell College,75th,590,580
+166452,Lesley University,25th,475,463
+166452,Lesley University,75th,665,628
+166489,Longy School of Music of Bard College,25th,NA,NA
+166489,Longy School of Music of Bard College,75th,NA,NA
+166513,University of Massachusetts-Lowell,25th,570,580
+166513,University of Massachusetts-Lowell,75th,650,670
+166629,University of Massachusetts-Amherst,25th,600,600
+166629,University of Massachusetts-Amherst,75th,680,710
+166638,University of Massachusetts-Boston,25th,NA,NA
+166638,University of Massachusetts-Boston,75th,NA,NA
+166656,MCPHS University,25th,510,520
+166656,MCPHS University,75th,600,630
+166674,Massachusetts College of Art and Design,25th,NA,NA
+166674,Massachusetts College of Art and Design,75th,NA,NA
+166683,Massachusetts Institute of Technology,25th,720,780
+166683,Massachusetts Institute of Technology,75th,770,800
+166692,Massachusetts Maritime Academy,25th,520,530
+166692,Massachusetts Maritime Academy,75th,600,600
+166850,Merrimack College,25th,NA,NA
+166850,Merrimack College,75th,NA,NA
+166939,Mount Holyoke College,25th,640,650
+166939,Mount Holyoke College,75th,720,780
+167057,The New England Conservatory of Music,25th,NA,NA
+167057,The New England Conservatory of Music,75th,NA,NA
+167224,New England School of Photography,25th,NA,NA
+167224,New England School of Photography,75th,NA,NA
+167251,Newbury College,25th,NA,NA
+167251,Newbury College,75th,NA,NA
+167260,Nichols College,25th,NA,NA
+167260,Nichols College,75th,NA,NA
+167288,Massachusetts College of Liberal Arts,25th,500,490
+167288,Massachusetts College of Liberal Arts,75th,630,600
+167358,Northeastern University,25th,670,690
+167358,Northeastern University,75th,750,790
+167394,College of Our Lady of the Elms,25th,480,490
+167394,College of Our Lady of the Elms,75th,580,590
+167455,Pine Manor College,25th,NA,NA
+167455,Pine Manor College,75th,NA,NA
+167598,Regis College,25th,NA,NA
+167598,Regis College,75th,NA,NA
+167677,Saint John's Seminary,25th,NA,NA
+167677,Saint John's Seminary,75th,NA,NA
+167729,Salem State University,25th,490,490
+167729,Salem State University,75th,580,560
+167783,Simmons University,25th,580,550
+167783,Simmons University,75th,660,640
+167792,Bard College at Simon's Rock,25th,NA,NA
+167792,Bard College at Simon's Rock,75th,NA,NA
+167835,Smith College,25th,NA,NA
+167835,Smith College,75th,NA,NA
+167871,Southeastern Technical Institute,25th,NA,NA
+167871,Southeastern Technical Institute,75th,NA,NA
+167899,Springfield College,25th,520,530
+167899,Springfield College,75th,620,620
+167987,University of Massachusetts-Dartmouth,25th,490,500
+167987,University of Massachusetts-Dartmouth,75th,600,590
+167996,Stonehill College,25th,NA,NA
+167996,Stonehill College,75th,NA,NA
+168005,Suffolk University,25th,520,510
+168005,Suffolk University,75th,620,600
+168148,Tufts University,25th,680,700
+168148,Tufts University,75th,750,780
+168218,Wellesley College,25th,670,660
+168218,Wellesley College,75th,740,780
+168227,Wentworth Institute of Technology,25th,530,550
+168227,Wentworth Institute of Technology,75th,630,650
+168254,Western New England University,25th,530,530
+168254,Western New England University,75th,620,630
+168263,Westfield State University,25th,500,500
+168263,Westfield State University,75th,585,580
+168281,Wheaton College,25th,600,580
+168281,Wheaton College,75th,680,670
+168290,Wheelock College,25th,NA,NA
+168290,Wheelock College,75th,NA,NA
+168342,Williams College,25th,710,700
+168342,Williams College,75th,760,790
+168421,Worcester Polytechnic Institute,25th,NA,NA
+168421,Worcester Polytechnic Institute,75th,NA,NA
+168430,Worcester State University,25th,NA,NA
+168430,Worcester State University,75th,NA,NA
+168528,Adrian College,25th,470,470
+168528,Adrian College,75th,580,576
+168546,Albion College,25th,510,500
+168546,Albion College,75th,630,610
+168591,Alma College,25th,520,520
+168591,Alma College,75th,620,600
+168740,Andrews University,25th,540,500
+168740,Andrews University,75th,660,640
+168786,Aquinas College,25th,510,500
+168786,Aquinas College,75th,620,610
+168847,Baker College,25th,NA,NA
+168847,Baker College,75th,NA,NA
+169080,Calvin College,25th,570,580
+169080,Calvin College,75th,680,690
+169248,Central Michigan University,25th,510,490
+169248,Central Michigan University,75th,610,590
+169327,Cleary University,25th,460,470
+169327,Cleary University,75th,580,570
+169363,Concordia University-Ann Arbor,25th,NA,NA
+169363,Concordia University-Ann Arbor,75th,NA,NA
+169442,College for Creative Studies,25th,500,460
+169442,College for Creative Studies,75th,620,570
+169479,Davenport University,25th,NA,NA
+169479,Davenport University,75th,NA,NA
+169655,MIAT College of Technology,25th,NA,NA
+169655,MIAT College of Technology,75th,NA,NA
+169716,University of Detroit Mercy,25th,530,520
+169716,University of Detroit Mercy,75th,620,630
+169798,Eastern Michigan University,25th,450,440
+169798,Eastern Michigan University,75th,590,580
+169910,Ferris State University,25th,470,470
+169910,Ferris State University,75th,590,580
+169947,Flint Institute of Barbering Inc,25th,NA,NA
+169947,Flint Institute of Barbering Inc,75th,NA,NA
+169983,Kettering University,25th,590,600
+169983,Kettering University,75th,670,700
+170000,Grace Christian University,25th,NA,NA
+170000,Grace Christian University,75th,NA,NA
+170037,Cornerstone University,25th,480,470
+170037,Cornerstone University,75th,600,580
+170082,Grand Valley State University,25th,530,520
+170082,Grand Valley State University,75th,630,610
+170286,Hillsdale College,25th,655,620
+170286,Hillsdale College,75th,740,725
+170301,Hope College,25th,570,540
+170301,Hope College,75th,670,660
+170532,Kalamazoo College,25th,NA,NA
+170532,Kalamazoo College,75th,NA,NA
+170639,Lake Superior State University,25th,490,480
+170639,Lake Superior State University,75th,590,570
+170675,Lawrence Technological University,25th,510,520
+170675,Lawrence Technological University,75th,630,650
+170806,Madonna University,25th,490,470
+170806,Madonna University,75th,590,580
+170967,Rochester College,25th,440,430
+170967,Rochester College,75th,560,540
+170976,University of Michigan-Ann Arbor,25th,660,670
+170976,University of Michigan-Ann Arbor,75th,730,780
+171100,Michigan State University,25th,560,550
+171100,Michigan State University,75th,650,660
+171128,Michigan Technological University,25th,580,590
+171128,Michigan Technological University,75th,670,690
+171137,University of Michigan-Dearborn,25th,540,530
+171137,University of Michigan-Dearborn,75th,640,650
+171146,University of Michigan-Flint,25th,500,480
+171146,University of Michigan-Flint,75th,610,590
+171456,Northern Michigan University,25th,490,480
+171456,Northern Michigan University,75th,600,580
+171492,Northwood University,25th,490,500
+171492,Northwood University,75th,590,590
+171571,Oakland University,25th,510,500
+171571,Oakland University,75th,620,620
+171599,Olivet College,25th,430,420
+171599,Olivet College,75th,540,530
+171881,Kuyper College,25th,450,400
+171881,Kuyper College,75th,540,510
+172033,Sacred Heart Major Seminary,25th,NA,NA
+172033,Sacred Heart Major Seminary,75th,NA,NA
+172051,Saginaw Valley State University,25th,500,490
+172051,Saginaw Valley State University,75th,610,590
+172264,Siena Heights University,25th,NA,NA
+172264,Siena Heights University,75th,NA,NA
+172334,Spring Arbor University,25th,520,505
+172334,Spring Arbor University,75th,620,610
+172440,Finlandia University,25th,450,440
+172440,Finlandia University,75th,540,540
+172644,Wayne State University,25th,510,500
+172644,Wayne State University,75th,610,600
+172699,Western Michigan University,25th,500,490
+172699,Western Michigan University,75th,600,590
+173045,Augsburg University,25th,578,595
+173045,Augsburg University,75th,695,630
+173124,Bemidji State University,25th,NA,NA
+173124,Bemidji State University,75th,NA,NA
+173142,Bethany Lutheran College,25th,520,530
+173142,Bethany Lutheran College,75th,580,610
+173160,Bethel University,25th,523,510
+173160,Bethel University,75th,668,618
+173258,Carleton College,25th,670,680
+173258,Carleton College,75th,750,780
+173300,Concordia College at Moorhead,25th,530,550
+173300,Concordia College at Moorhead,75th,670,698
+173328,Concordia University-Saint Paul,25th,NA,NA
+173328,Concordia University-Saint Paul,75th,NA,NA
+173452,Martin Luther College,25th,560,520
+173452,Martin Luther College,75th,610,640
+173647,Gustavus Adolphus College,25th,NA,NA
+173647,Gustavus Adolphus College,75th,NA,NA
+173665,Hamline University,25th,540,520
+173665,Hamline University,75th,660,620
+173902,Macalester College,25th,650,660
+173902,Macalester College,75th,730,770
+173920,Minnesota State University-Mankato,25th,NA,NA
+173920,Minnesota State University-Mankato,75th,NA,NA
+174020,Metropolitan State University,25th,NA,NA
+174020,Metropolitan State University,75th,NA,NA
+174066,University of Minnesota-Twin Cities,25th,620,650
+174066,University of Minnesota-Twin Cities,75th,710,770
+174075,University of Minnesota-Crookston,25th,503,495
+174075,University of Minnesota-Crookston,75th,578,598
+174127,Minneapolis College of Art and Design,25th,540,490
+174127,Minneapolis College of Art and Design,75th,650,570
+174154,Herzing University-Minneapolis,25th,NA,NA
+174154,Herzing University-Minneapolis,75th,NA,NA
+174233,University of Minnesota-Duluth,25th,568,550
+174233,University of Minnesota-Duluth,75th,660,683
+174251,University of Minnesota-Morris,25th,530,550
+174251,University of Minnesota-Morris,75th,660,690
+174358,Minnesota State University Moorhead,25th,450,470
+174358,Minnesota State University Moorhead,75th,590,600
+174437,North Central University,25th,515,518
+174437,North Central University,75th,643,565
+174491,University of Northwestern-St Paul,25th,523,530
+174491,University of Northwestern-St Paul,75th,638,610
+174525,Oak Hills Christian College,25th,430,360
+174525,Oak Hills Christian College,75th,580,440
+174747,College of Saint Benedict,25th,510,490
+174747,College of Saint Benedict,75th,610,590
+174783,Saint Cloud State University,25th,470,490
+174783,Saint Cloud State University,75th,605,630
+174792,Saint Johns University,25th,490,520
+174792,Saint Johns University,75th,630,650
+174817,Saint Mary's University of Minnesota,25th,520,510
+174817,Saint Mary's University of Minnesota,75th,620,620
+174844,St Olaf College,25th,600,590
+174844,St Olaf College,75th,700,710
+174862,Crown College,25th,440,460
+174862,Crown College,75th,570,590
+174899,The College of Saint Scholastica,25th,520,530
+174899,The College of Saint Scholastica,75th,640,630
+174914,University of St Thomas,25th,570,560
+174914,University of St Thomas,75th,670,710
+175005,St Catherine University,25th,563,556
+175005,St Catherine University,75th,675,588
+175078,Southwest Minnesota State University,25th,425,440
+175078,Southwest Minnesota State University,75th,510,520
+175227,Dunwoody College of Technology,25th,NA,NA
+175227,Dunwoody College of Technology,75th,NA,NA
+175272,Winona State University,25th,490,510
+175272,Winona State University,75th,580,610
+175342,Alcorn State University,25th,420,400
+175342,Alcorn State University,75th,550,590
+175421,Belhaven University,25th,NA,NA
+175421,Belhaven University,75th,NA,NA
+175430,Blue Mountain College,25th,420,470
+175430,Blue Mountain College,75th,490,540
+175616,Delta State University,25th,470,480
+175616,Delta State University,75th,590,600
+175856,Jackson State University,25th,450,400
+175856,Jackson State University,75th,560,508
+175980,Millsaps College,25th,550,530
+175980,Millsaps College,75th,630,630
+176017,University of Mississippi,25th,530,520
+176017,University of Mississippi,75th,640,630
+176035,Mississippi University for Women,25th,520,560
+176035,Mississippi University for Women,75th,530,580
+176044,Mississippi Valley State University,25th,NA,NA
+176044,Mississippi Valley State University,75th,NA,NA
+176053,Mississippi College,25th,520,510
+176053,Mississippi College,75th,613,623
+176080,Mississippi State University,25th,540,530
+176080,Mississippi State University,75th,660,670
+176318,Rust College,25th,NA,NA
+176318,Rust College,75th,NA,NA
+176372,University of Southern Mississippi,25th,NA,NA
+176372,University of Southern Mississippi,75th,NA,NA
+176406,Tougaloo College,25th,410,380
+176406,Tougaloo College,75th,550,550
+176479,William Carey University,25th,460,470
+176479,William Carey University,75th,570,580
+176628,Avila University,25th,480,510
+176628,Avila University,75th,570,540
+176770,Cox College,25th,NA,NA
+176770,Cox College,75th,NA,NA
+176789,Calvary University,25th,450,440
+176789,Calvary University,75th,580,570
+176947,Central Methodist University-College of Liberal Arts and Sciences,25th,460,490
+176947,Central Methodist University-College of Liberal Arts and Sciences,75th,550,580
+176965,University of Central Missouri,25th,NA,NA
+176965,University of Central Missouri,75th,NA,NA
+176983,Grand River Technical School,25th,NA,NA
+176983,Grand River Technical School,75th,NA,NA
+177038,Cleveland University-Kansas City,25th,NA,NA
+177038,Cleveland University-Kansas City,75th,NA,NA
+177056,Columbia Area Career Center,25th,NA,NA
+177056,Columbia Area Career Center,75th,NA,NA
+177083,Conception Seminary College,25th,NA,NA
+177083,Conception Seminary College,75th,NA,NA
+177117,Cottey College,25th,510,460
+177117,Cottey College,75th,560,550
+177144,Culver-Stockton College,25th,480,470
+177144,Culver-Stockton College,75th,570,570
+177214,Drury University,25th,540,530
+177214,Drury University,75th,650,630
+177339,Evangel University,25th,NA,NA
+177339,Evangel University,75th,NA,NA
+177418,Fontbonne University,25th,460,470
+177418,Fontbonne University,75th,590,560
+177542,Hannibal-LaGrange University,25th,NA,NA
+177542,Hannibal-LaGrange University,75th,NA,NA
+177746,Kansas City Art Institute,25th,NA,NA
+177746,Kansas City Art Institute,75th,NA,NA
+177816,Kenrick Glennon Seminary,25th,NA,NA
+177816,Kenrick Glennon Seminary,75th,NA,NA
+177931,Lex La-Ray Technical Center,25th,NA,NA
+177931,Lex La-Ray Technical Center,75th,NA,NA
+177968,Lindenwood University,25th,500,500
+177968,Lindenwood University,75th,580,580
+177986,Logan University,25th,NA,NA
+177986,Logan University,75th,NA,NA
+178004,Lutheran School of Nursing,25th,NA,NA
+178004,Lutheran School of Nursing,75th,NA,NA
+178059,Maryville University of Saint Louis,25th,510,510
+178059,Maryville University of Saint Louis,75th,630,610
+178183,Midwest Institute,25th,NA,NA
+178183,Midwest Institute,75th,NA,NA
+178208,Midwestern Baptist Theological Seminary,25th,485,475
+178208,Midwestern Baptist Theological Seminary,75th,560,505
+178244,Missouri Baptist University,25th,460,470
+178244,Missouri Baptist University,75th,560,550
+178341,Missouri Southern State University,25th,NA,NA
+178341,Missouri Southern State University,75th,NA,NA
+178369,Missouri Valley College,25th,440,450
+178369,Missouri Valley College,75th,550,540
+178396,University of Missouri-Columbia,25th,560,530
+178396,University of Missouri-Columbia,75th,640,650
+178402,University of Missouri-Kansas City,25th,490,540
+178402,University of Missouri-Kansas City,75th,590,750
+178411,Missouri University of Science and Technology,25th,580,608
+178411,Missouri University of Science and Technology,75th,690,690
+178420,University of Missouri-St Louis,25th,510,510
+178420,University of Missouri-St Louis,75th,610,620
+178466,Hillyard Technical Center,25th,NA,NA
+178466,Hillyard Technical Center,75th,NA,NA
+178615,Truman State University,25th,550,530
+178615,Truman State University,75th,670,688
+178624,Northwest Missouri State University,25th,478,498
+178624,Northwest Missouri State University,75th,593,600
+178679,Ozark Christian College,25th,510,510
+178679,Ozark Christian College,75th,630,570
+178697,College of the Ozarks,25th,630,563
+178697,College of the Ozarks,75th,660,640
+178767,Stevens-The Institute of Business & Arts,25th,NA,NA
+178767,Stevens-The Institute of Business & Arts,75th,NA,NA
+179043,Rockhurst University,25th,565,545
+179043,Rockhurst University,75th,650,605
+179052,Rolla Technical Institute/Center,25th,NA,NA
+179052,Rolla Technical Institute/Center,75th,NA,NA
+179159,Saint Louis University,25th,590,590
+179159,Saint Louis University,75th,680,690
+179256,Saint Louis Christian College,25th,430,430
+179256,Saint Louis Christian College,75th,610,590
+179265,St. Louis College of Pharmacy,25th,550,558
+179265,St. Louis College of Pharmacy,75th,623,690
+179326,Southwest Baptist University,25th,500,490
+179326,Southwest Baptist University,75th,610,603
+179548,Stephens College,25th,520,450
+179548,Stephens College,75th,630,580
+179557,Southeast Missouri State University,25th,510,520
+179557,Southeast Missouri State University,75th,620,620
+179566,Missouri State University-Springfield,25th,500,518
+179566,Missouri State University-Springfield,75th,630,590
+179867,Washington University in St Louis,25th,710,760
+179867,Washington University in St Louis,75th,770,800
+179894,Webster University,25th,518,490
+179894,Webster University,75th,630,613
+179946,Westminster College,25th,530,500
+179946,Westminster College,75th,590,600
+179955,William Jewell College,25th,520,510
+179955,William Jewell College,75th,630,640
+179964,William Woods University,25th,513,483
+179964,William Woods University,75th,600,625
+180106,Carroll College,25th,540,530
+180106,Carroll College,75th,640,630
+180258,University of Providence,25th,NA,NA
+180258,University of Providence,75th,NA,NA
+180416,Montana Technological University,25th,530,580
+180416,Montana Technological University,75th,600,630
+180461,Montana State University,25th,550,540
+180461,Montana State University,75th,660,660
+180489,The University of Montana,25th,530,510
+180489,The University of Montana,75th,640,620
+180522,Montana State University-Northern,25th,NA,NA
+180522,Montana State University-Northern,75th,NA,NA
+180595,Rocky Mountain College,25th,490,500
+180595,Rocky Mountain College,75th,590,585
+180692,The University of Montana-Western,25th,490,450
+180692,The University of Montana-Western,75th,580,540
+180832,Clarkson College,25th,NA,NA
+180832,Clarkson College,75th,NA,NA
+180878,Bryan College of Health Sciences,25th,NA,NA
+180878,Bryan College of Health Sciences,75th,NA,NA
+180984,Concordia University-Nebraska,25th,460,430
+180984,Concordia University-Nebraska,75th,550,550
+181002,Creighton University,25th,580,570
+181002,Creighton University,75th,670,680
+181020,Doane University-Arts & Sciences,25th,NA,NA
+181020,Doane University-Arts & Sciences,75th,NA,NA
+181127,Hastings College,25th,470,470
+181127,Hastings College,75th,580,550
+181215,University of Nebraska at Kearney,25th,470,465
+181215,University of Nebraska at Kearney,75th,560,560
+181297,Nebraska Methodist College of Nursing & Allied Health,25th,NA,NA
+181297,Nebraska Methodist College of Nursing & Allied Health,75th,NA,NA
+181330,Midland University,25th,450,470
+181330,Midland University,75th,565,540
+181376,Nebraska Christian College of Hope International University,25th,380,380
+181376,Nebraska Christian College of Hope International University,75th,510,550
+181394,University of Nebraska at Omaha,25th,NA,NA
+181394,University of Nebraska at Omaha,75th,NA,NA
+181446,Nebraska Wesleyan University,25th,500,510
+181446,Nebraska Wesleyan University,75th,640,630
+181464,University of Nebraska-Lincoln,25th,570,560
+181464,University of Nebraska-Lincoln,75th,680,680
+181543,Summit Christian College,25th,NA,NA
+181543,Summit Christian College,75th,NA,NA
+181604,College of Saint Mary,25th,NA,NA
+181604,College of Saint Mary,75th,NA,NA
+181738,Union College,25th,510,470
+181738,Union College,75th,590,540
+181853,York College,25th,470,480
+181853,York College,75th,580,580
+182281,University of Nevada-Las Vegas,25th,520,510
+182281,University of Nevada-Las Vegas,75th,620,620
+182290,University of Nevada-Reno,25th,540,530
+182290,University of Nevada-Reno,75th,640,640
+182458,Sierra Nevada College,25th,530,490
+182458,Sierra Nevada College,75th,620,570
+182634,Colby-Sawyer College,25th,NA,NA
+182634,Colby-Sawyer College,75th,NA,NA
+182670,Dartmouth College,25th,700,720
+182670,Dartmouth College,75th,770,790
+182795,Franklin Pierce University,25th,480,490
+182795,Franklin Pierce University,75th,560,570
+182917,Northeast Catholic College,25th,NA,NA
+182917,Northeast Catholic College,75th,NA,NA
+182980,New England College,25th,NA,NA
+182980,New England College,75th,NA,NA
+183026,Southern New Hampshire University,25th,NA,NA
+183026,Southern New Hampshire University,75th,NA,NA
+183044,University of New Hampshire-Main Campus,25th,550,540
+183044,University of New Hampshire-Main Campus,75th,640,630
+183062,Keene State College,25th,490,470
+183062,Keene State College,75th,580,560
+183071,University of New Hampshire at Manchester,25th,520,510
+183071,University of New Hampshire at Manchester,75th,600,590
+183080,Plymouth State University,25th,NA,NA
+183080,Plymouth State University,75th,NA,NA
+183211,Rivier University,25th,NA,NA
+183211,Rivier University,75th,NA,NA
+183239,Saint Anselm College,25th,570,550
+183239,Saint Anselm College,75th,660,650
+183248,St Joseph School of Nursing,25th,NA,NA
+183248,St Joseph School of Nursing,75th,NA,NA
+183275,Thomas More College of Liberal Arts,25th,620,510
+183275,Thomas More College of Liberal Arts,75th,680,550
+183822,Bloomfield College,25th,430,430
+183822,Bloomfield College,75th,530,530
+183910,Caldwell University,25th,480,480
+183910,Caldwell University,75th,578,570
+183974,Centenary University,25th,440,430
+183974,Centenary University,75th,550,540
+184348,Drew University,25th,NA,NA
+184348,Drew University,75th,NA,NA
+184603,Fairleigh Dickinson University-Metropolitan Campus,25th,NA,NA
+184603,Fairleigh Dickinson University-Metropolitan Campus,75th,NA,NA
+184612,Felician University,25th,460,460
+184612,Felician University,75th,540,540
+184694,Fairleigh Dickinson University-Florham Campus,25th,NA,NA
+184694,Fairleigh Dickinson University-Florham Campus,75th,NA,NA
+184773,Georgian Court University,25th,465,470
+184773,Georgian Court University,75th,570,560
+184782,Rowan University,25th,520,488
+184782,Rowan University,75th,620,603
+184968,Holy Name Medical Center-Sister Claire Tynan School of Nursing,25th,NA,NA
+184968,Holy Name Medical Center-Sister Claire Tynan School of Nursing,75th,NA,NA
+185129,New Jersey City University,25th,430,420
+185129,New Jersey City University,75th,530,530
+185174,Joe Kubert School of Cartoon and Graphic Art,25th,NA,NA
+185174,Joe Kubert School of Cartoon and Graphic Art,75th,NA,NA
+185262,Kean University,25th,450,440
+185262,Kean University,75th,540,540
+185572,Monmouth University,25th,520,520
+185572,Monmouth University,75th,660,590
+185590,Montclair State University,25th,500,490
+185590,Montclair State University,75th,590,580
+185651,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools-School of Imaging,25th,NA,NA
+185651,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools-School of Imaging,75th,NA,NA
+185679,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools-School of Nursing,25th,NA,NA
+185679,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools-School of Nursing,75th,NA,NA
+185828,New Jersey Institute of Technology,25th,580,610
+185828,New Jersey Institute of Technology,75th,670,710
+186131,Princeton University,25th,710,730
+186131,Princeton University,75th,770,800
+186186,Rabbinical College of America,25th,NA,NA
+186186,Rabbinical College of America,75th,NA,NA
+186201,Ramapo College of New Jersey,25th,530,520
+186201,Ramapo College of New Jersey,75th,620,620
+186283,Rider University,25th,500,500
+186283,Rider University,75th,600,590
+186371,Rutgers University-Camden,25th,500,500
+186371,Rutgers University-Camden,75th,590,590
+186380,Rutgers University-New Brunswick,25th,590,600
+186380,Rutgers University-New Brunswick,75th,680,730
+186399,Rutgers University-Newark,25th,510,510
+186399,Rutgers University-Newark,75th,590,600
+186432,Saint Peter's University,25th,470,470
+186432,Saint Peter's University,75th,560,560
+186584,Seton Hall University,25th,580,570
+186584,Seton Hall University,75th,650,660
+186618,College of Saint Elizabeth,25th,NA,NA
+186618,College of Saint Elizabeth,75th,NA,NA
+186867,Stevens Institute of Technology,25th,640,690
+186867,Stevens Institute of Technology,75th,710,770
+186876,Stockton University,25th,500,500
+186876,Stockton University,75th,600,590
+186900,Talmudical Academy-New Jersey,25th,NA,NA
+186900,Talmudical Academy-New Jersey,75th,NA,NA
+187134,The College of New Jersey,25th,580,580
+187134,The College of New Jersey,75th,670,680
+187444,William Paterson University of New Jersey,25th,450,440
+187444,William Paterson University of New Jersey,75th,550,540
+187648,Eastern New Mexico University-Main Campus,25th,430,430
+187648,Eastern New Mexico University-Main Campus,75th,550,520
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,25th,NA,NA
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,75th,NA,NA
+187912,New Mexico Military Institute,25th,430,400
+187912,New Mexico Military Institute,75th,560,580
+187967,New Mexico Institute of Mining and Technology,25th,590,620
+187967,New Mexico Institute of Mining and Technology,75th,690,710
+187985,University of New Mexico-Main Campus,25th,520,510
+187985,University of New Mexico-Main Campus,75th,640,630
+188030,New Mexico State University-Main Campus,25th,470,470
+188030,New Mexico State University-Main Campus,75th,590,570
+188182,University of the Southwest,25th,NA,NA
+188182,University of the Southwest,75th,NA,NA
+188429,Adelphi University,25th,540,540
+188429,Adelphi University,75th,630,640
+188526,Albany College of Pharmacy and Health Sciences,25th,550,580
+188526,Albany College of Pharmacy and Health Sciences,75th,640,670
+188641,Alfred University,25th,480,490
+188641,Alfred University,75th,590,610
+188669,The Ailey School,25th,NA,NA
+188669,The Ailey School,75th,NA,NA
+188678,American Academy of Dramatic Arts-New York,25th,NA,NA
+188678,American Academy of Dramatic Arts-New York,75th,NA,NA
+188696,Joffrey Ballet School,25th,NA,NA
+188696,Joffrey Ballet School,75th,NA,NA
+188854,American Musical and Dramatic Academy,25th,NA,NA
+188854,American Musical and Dramatic Academy,75th,NA,NA
+188915,Arnot Ogden Medical Center,25th,NA,NA
+188915,Arnot Ogden Medical Center,75th,NA,NA
+188942,Associated Beth Rivkah Schools,25th,NA,NA
+188942,Associated Beth Rivkah Schools,75th,NA,NA
+189088,Bard College,25th,NA,NA
+189088,Bard College,75th,NA,NA
+189097,Barnard College,25th,670,660
+189097,Barnard College,75th,740,760
+189264,Beth Hatalmud Rabbinical College,25th,NA,NA
+189264,Beth Hatalmud Rabbinical College,75th,NA,NA
+189273,Beth Hamedrash Shaarei Yosher Institute,25th,NA,NA
+189273,Beth Hamedrash Shaarei Yosher Institute,75th,NA,NA
+189282,Phillips School of Nursing at Mount Sinai Beth Israel,25th,NA,NA
+189282,Phillips School of Nursing at Mount Sinai Beth Israel,75th,NA,NA
+189705,Canisius College,25th,530,520
+189705,Canisius College,75th,630,640
+189848,Cazenovia College,25th,NA,NA
+189848,Cazenovia College,75th,NA,NA
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,25th,NA,NA
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,75th,NA,NA
+190008,Circle in the Square Theatre School,25th,NA,NA
+190008,Circle in the Square Theatre School,75th,NA,NA
+190044,Clarkson University,25th,570,590
+190044,Clarkson University,75th,660,690
+190099,Colgate University,25th,650,670
+190099,Colgate University,75th,730,780
+190114,Metropolitan College of New York,25th,NA,NA
+190114,Metropolitan College of New York,75th,NA,NA
+190150,Columbia University in the City of New York,25th,710,740
+190150,Columbia University in the City of New York,75th,760,800
+190248,Concordia College-New York,25th,480,470
+190248,Concordia College-New York,75th,550,570
+190372,Cooper Union for the Advancement of Science and Art,25th,630,653
+190372,Cooper Union for the Advancement of Science and Art,75th,720,790
+190415,Cornell University,25th,680,710
+190415,Cornell University,75th,750,790
+190451,Pomeroy College of Nursing at Crouse Hospital,25th,NA,NA
+190451,Pomeroy College of Nursing at Crouse Hospital,75th,NA,NA
+190503,Culinary Institute of America,25th,NA,NA
+190503,Culinary Institute of America,75th,NA,NA
+190512,CUNY Bernard M Baruch College,25th,590,630
+190512,CUNY Bernard M Baruch College,75th,670,720
+190549,CUNY Brooklyn College,25th,520,540
+190549,CUNY Brooklyn College,75th,610,630
+190567,CUNY City College,25th,510,530
+190567,CUNY City College,75th,620,650
+190594,CUNY Hunter College,25th,570,580
+190594,CUNY Hunter College,75th,650,680
+190600,CUNY John Jay College of Criminal Justice,25th,490,490
+190600,CUNY John Jay College of Criminal Justice,75th,570,570
+190637,CUNY Lehman College,25th,490,490
+190637,CUNY Lehman College,75th,560,550
+190655,CUNY New York City College of Technology,25th,NA,NA
+190655,CUNY New York City College of Technology,75th,NA,NA
+190664,CUNY Queens College,25th,520,540
+190664,CUNY Queens College,75th,600,620
+190691,CUNY York College,25th,450,440
+190691,CUNY York College,75th,530,520
+190707,CVPH Medical Center School of Radiologic Technology,25th,NA,NA
+190707,CVPH Medical Center School of Radiologic Technology,75th,NA,NA
+190716,D'Youville College,25th,510,520
+190716,D'Youville College,75th,590,610
+190725,Daemen College,25th,NA,NA
+190725,Daemen College,75th,NA,NA
+190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,25th,NA,NA
+190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,75th,NA,NA
+190761,Dominican College of Blauvelt,25th,470,470
+190761,Dominican College of Blauvelt,75th,560,560
+190956,Belanger School of Nursing,25th,NA,NA
+190956,Belanger School of Nursing,75th,NA,NA
+190983,Elmira College,25th,NA,NA
+190983,Elmira College,75th,NA,NA
+191126,Fashion Institute of Technology,25th,NA,NA
+191126,Fashion Institute of Technology,75th,NA,NA
+191205,Five Towns College,25th,NA,NA
+191205,Five Towns College,75th,NA,NA
+191241,Fordham University,25th,620,630
+191241,Fordham University,75th,700,730
+191515,Hamilton College,25th,670,680
+191515,Hamilton College,75th,740,770
+191533,Hartwick College,25th,510,560
+191533,Hartwick College,75th,610,580
+191621,Hilbert College,25th,NA,NA
+191621,Hilbert College,75th,NA,NA
+191630,Hobart William Smith Colleges,25th,580,570
+191630,Hobart William Smith Colleges,75th,670,670
+191649,Hofstra University,25th,580,570
+191649,Hofstra University,75th,660,670
+191676,Houghton College,25th,NA,NA
+191676,Houghton College,75th,NA,NA
+191931,Iona College,25th,500,490
+191931,Iona College,75th,590,580
+191940,Isabella Graham Hart School of Practical Nursing,25th,NA,NA
+191940,Isabella Graham Hart School of Practical Nursing,75th,NA,NA
+191968,Ithaca College,25th,NA,NA
+191968,Ithaca College,75th,NA,NA
+192004,Jamestown Business College,25th,NA,NA
+192004,Jamestown Business College,75th,NA,NA
+192040,Jewish Theological Seminary of America,25th,690,650
+192040,Jewish Theological Seminary of America,75th,760,760
+192110,The Juilliard School,25th,NA,NA
+192110,The Juilliard School,75th,NA,NA
+192192,Keuka College,25th,NA,NA
+192192,Keuka College,75th,NA,NA
+192271,LIM College,25th,490,480
+192271,LIM College,75th,580,570
+192323,Le Moyne College,25th,540,540
+192323,Le Moyne College,75th,630,640
+192448,Long Island University,25th,540,520
+192448,Long Island University,75th,630,630
+192509,Long Island Business Institute,25th,NA,NA
+192509,Long Island Business Institute,75th,NA,NA
+192624,Machzikei Hadath Rabbinical College,25th,NA,NA
+192624,Machzikei Hadath Rabbinical College,75th,NA,NA
+192703,Manhattan College,25th,540,530
+192703,Manhattan College,75th,630,630
+192712,Manhattan School of Music,25th,NA,NA
+192712,Manhattan School of Music,75th,NA,NA
+192749,Manhattanville College,25th,NA,NA
+192749,Manhattanville College,75th,NA,NA
+192785,Maria College of Albany,25th,NA,NA
+192785,Maria College of Albany,75th,NA,NA
+192800,Marion S Whelan School of Nursing of Geneva General Hospital,25th,NA,NA
+192800,Marion S Whelan School of Nursing of Geneva General Hospital,75th,NA,NA
+192819,Marist College,25th,NA,NA
+192819,Marist College,75th,NA,NA
+192864,Marymount Manhattan College,25th,530,500
+192864,Marymount Manhattan College,75th,630,590
+192925,Medaille College,25th,430,420
+192925,Medaille College,75th,550,550
+192961,Memorial College of Nursing,25th,NA,NA
+192961,Memorial College of Nursing,75th,NA,NA
+193016,Mercy College,25th,NA,NA
+193016,Mercy College,75th,NA,NA
+193052,Mesivta Torah Vodaath Rabbinical Seminary,25th,NA,NA
+193052,Mesivta Torah Vodaath Rabbinical Seminary,75th,NA,NA
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,25th,NA,NA
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,75th,NA,NA
+193070,Mesivtha Tifereth Jerusalem of America,25th,NA,NA
+193070,Mesivtha Tifereth Jerusalem of America,75th,NA,NA
+193122,Southern Westchester BOCES-Practical Nursing Program,25th,NA,NA
+193122,Southern Westchester BOCES-Practical Nursing Program,75th,NA,NA
+193247,Mirrer Yeshiva Cent Institute,25th,NA,NA
+193247,Mirrer Yeshiva Cent Institute,75th,NA,NA
+193292,Molloy College,25th,530,530
+193292,Molloy College,75th,620,610
+193308,Monroe College,25th,NA,NA
+193308,Monroe College,75th,NA,NA
+193353,Mount Saint Mary College,25th,520,500
+193353,Mount Saint Mary College,75th,590,580
+193380,Montefiore School of Nursing,25th,NA,NA
+193380,Montefiore School of Nursing,75th,NA,NA
+193399,College of Mount Saint Vincent,25th,480,450
+193399,College of Mount Saint Vincent,75th,550,550
+193584,Nazareth College,25th,NA,NA
+193584,Nazareth College,75th,NA,NA
+193609,Neighborhood Playhouse School of the Theater,25th,NA,NA
+193609,Neighborhood Playhouse School of the Theater,75th,NA,NA
+193645,The College of New Rochelle,25th,450,440
+193645,The College of New Rochelle,75th,550,520
+193654,The New School,25th,590,560
+193654,The New School,75th,670,690
+193900,New York University,25th,650,660
+193900,New York University,75th,720,790
+193973,Niagara University,25th,510,510
+193973,Niagara University,75th,600,600
+194091,New York Institute of Technology,25th,520,530
+194091,New York Institute of Technology,75th,630,640
+194116,New York School of Interior Design,25th,450,600
+194116,New York School of Interior Design,75th,600,700
+194161,Nyack College,25th,445,423
+194161,Nyack College,75th,560,548
+194189,Ohr Hameir Theological Seminary,25th,NA,NA
+194189,Ohr Hameir Theological Seminary,75th,NA,NA
+194310,Pace University,25th,540,520
+194310,Pace University,75th,620,600
+194392,Paul Smiths College of Arts and Science,25th,NA,NA
+194392,Paul Smiths College of Arts and Science,75th,NA,NA
+194499,Plaza College,25th,NA,NA
+194499,Plaza College,75th,NA,NA
+194569,Davis College,25th,NA,NA
+194569,Davis College,75th,NA,NA
+194578,Pratt Institute-Main,25th,520,530
+194578,Pratt Institute-Main,75th,620,690
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,25th,NA,NA
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,75th,NA,NA
+194693,Rabbinical College Beth Shraga,25th,NA,NA
+194693,Rabbinical College Beth Shraga,75th,NA,NA
+194736,Rabbinical College of Long Island,25th,NA,NA
+194736,Rabbinical College of Long Island,75th,NA,NA
+194763,Rabbinical Seminary of America,25th,NA,NA
+194763,Rabbinical Seminary of America,75th,NA,NA
+194824,Rensselaer Polytechnic Institute,25th,640,690
+194824,Rensselaer Polytechnic Institute,75th,720,780
+194958,Roberts Wesleyan College,25th,500,510
+194958,Roberts Wesleyan College,75th,610,620
+195003,Rochester Institute of Technology,25th,590,610
+195003,Rochester Institute of Technology,75th,680,720
+195030,University of Rochester,25th,640,680
+195030,University of Rochester,75th,710,790
+195128,The Sage Colleges,25th,NA,NA
+195128,The Sage Colleges,75th,NA,NA
+195164,St Bonaventure University,25th,520,520
+195164,St Bonaventure University,75th,610,630
+195173,St Francis College,25th,NA,NA
+195173,St Francis College,75th,NA,NA
+195191,St. Joseph's College of Nursing,25th,NA,NA
+195191,St. Joseph's College of Nursing,75th,NA,NA
+195216,St Lawrence University,25th,590,600
+195216,St Lawrence University,75th,680,675
+195234,The College of Saint Rose,25th,NA,NA
+195234,The College of Saint Rose,75th,NA,NA
+195243,St. Thomas Aquinas College,25th,460,450
+195243,St. Thomas Aquinas College,75th,560,560
+195289,Samaritan Hospital School of Nursing,25th,NA,NA
+195289,Samaritan Hospital School of Nursing,75th,NA,NA
+195304,Sarah Lawrence College,25th,640,600
+195304,Sarah Lawrence College,75th,730,690
+195438,Sh'or Yoshuv Rabbinical College,25th,NA,NA
+195438,Sh'or Yoshuv Rabbinical College,75th,NA,NA
+195474,Siena College,25th,NA,NA
+195474,Siena College,75th,NA,NA
+195526,Skidmore College,25th,613,610
+195526,Skidmore College,75th,700,700
+195544,St. Joseph's College-New York,25th,510,510
+195544,St. Joseph's College-New York,75th,600,590
+195562,St. Joseph's College-Long Island,25th,510,510
+195562,St. Joseph's College-Long Island,75th,600,600
+195702,Saint Elizabeth College of Nursing,25th,NA,NA
+195702,Saint Elizabeth College of Nursing,75th,NA,NA
+195720,Saint John Fisher College,25th,540,540
+195720,Saint John Fisher College,75th,620,630
+195809,St John's University-New York,25th,540,530
+195809,St John's University-New York,75th,630,640
+196006,SUNY College of Technology at Alfred,25th,470,480
+196006,SUNY College of Technology at Alfred,75th,580,590
+196015,SUNY College of Technology at Canton,25th,450,450
+196015,SUNY College of Technology at Canton,75th,540,540
+196024,SUNY College of Technology at Delhi,25th,470,450
+196024,SUNY College of Technology at Delhi,75th,560,530
+196033,SUNY College of Agriculture and Technology at Cobleskill,25th,430,430
+196033,SUNY College of Agriculture and Technology at Cobleskill,75th,550,540
+196042,Farmingdale State College,25th,500,510
+196042,Farmingdale State College,75th,580,580
+196051,SUNY Morrisville,25th,430,420
+196051,SUNY Morrisville,75th,520,520
+196060,SUNY at Albany,25th,550,550
+196060,SUNY at Albany,75th,630,630
+196079,Binghamton University,25th,650,660
+196079,Binghamton University,75th,710,730
+196088,University at Buffalo,25th,570,590
+196088,University at Buffalo,75th,650,680
+196097,Stony Brook University,25th,600,630
+196097,Stony Brook University,75th,680,740
+196103,SUNY College of Environmental Science and Forestry,25th,560,560
+196103,SUNY College of Environmental Science and Forestry,75th,660,650
+196112,SUNY Polytechnic Institute,25th,490,510
+196112,SUNY Polytechnic Institute,75th,660,690
+196121,SUNY College at Brockport,25th,510,510
+196121,SUNY College at Brockport,75th,590,590
+196130,SUNY Buffalo State,25th,400,460
+196130,SUNY Buffalo State,75th,510,530
+196149,SUNY Cortland,25th,530,530
+196149,SUNY Cortland,75th,600,600
+196158,SUNY at Fredonia,25th,490,480
+196158,SUNY at Fredonia,75th,590,580
+196167,SUNY College at Geneseo,25th,560,560
+196167,SUNY College at Geneseo,75th,650,650
+196176,State University of New York at New Paltz,25th,550,540
+196176,State University of New York at New Paltz,75th,640,630
+196185,SUNY Oneonta,25th,460,450
+196185,SUNY Oneonta,75th,590,590
+196194,SUNY College at Oswego,25th,540,530
+196194,SUNY College at Oswego,75th,620,620
+196200,SUNY College at Potsdam,25th,NA,NA
+196200,SUNY College at Potsdam,75th,NA,NA
+196219,SUNY at Purchase College,25th,550,510
+196219,SUNY at Purchase College,75th,650,620
+196237,SUNY College at Old Westbury,25th,480,470
+196237,SUNY College at Old Westbury,75th,553,500
+196246,SUNY College at Plattsburgh,25th,540,510
+196246,SUNY College at Plattsburgh,75th,620,610
+196291,SUNY Maritime College,25th,535,540
+196291,SUNY Maritime College,75th,620,640
+196413,Syracuse University,25th,590,590
+196413,Syracuse University,75th,670,700
+196431,Talmudical Seminary Oholei Torah,25th,NA,NA
+196431,Talmudical Seminary Oholei Torah,75th,NA,NA
+196440,Talmudical Institute of Upstate New York,25th,NA,NA
+196440,Talmudical Institute of Upstate New York,75th,NA,NA
+196583,Torah Temimah Talmudical Seminary,25th,NA,NA
+196583,Torah Temimah Talmudical Seminary,75th,NA,NA
+196592,Touro College,25th,NA,NA
+196592,Touro College,75th,NA,NA
+196866,Union College,25th,NA,NA
+196866,Union College,75th,NA,NA
+197027,United States Merchant Marine Academy,25th,580,610
+197027,United States Merchant Marine Academy,75th,640,690
+197036,United States Military Academy,25th,550,590
+197036,United States Military Academy,75th,660,690
+197045,Utica College,25th,NA,NA
+197045,Utica College,75th,NA,NA
+197133,Vassar College,25th,680,690
+197133,Vassar College,75th,740,770
+197142,Villa Maria College,25th,NA,NA
+197142,Villa Maria College,75th,NA,NA
+197151,School of Visual Arts,25th,540,520
+197151,School of Visual Arts,75th,640,683
+197197,Wagner College,25th,NA,NA
+197197,Wagner College,75th,NA,NA
+197221,Webb Institute,25th,680,720
+197221,Webb Institute,75th,760,790
+197230,Wells College,25th,500,510
+197230,Wells College,75th,610,620
+197285,The College of Westchester,25th,NA,NA
+197285,The College of Westchester,75th,NA,NA
+197601,Yeshiva Karlin Stolin,25th,NA,NA
+197601,Yeshiva Karlin Stolin,75th,NA,NA
+197647,Yeshiva Derech Chaim,25th,NA,NA
+197647,Yeshiva Derech Chaim,75th,NA,NA
+197692,Yeshiva Shaar Hatorah,25th,NA,NA
+197692,Yeshiva Shaar Hatorah,75th,NA,NA
+197708,Yeshiva University,25th,580,560
+197708,Yeshiva University,75th,700,700
+197735,Yeshivath Viznitz,25th,NA,NA
+197735,Yeshivath Viznitz,75th,NA,NA
+197744,Yeshivath Zichron Moshe,25th,NA,NA
+197744,Yeshivath Zichron Moshe,75th,NA,NA
+197869,Appalachian State University,25th,560,540
+197869,Appalachian State University,75th,640,630
+197911,Barton College,25th,470,450
+197911,Barton College,75th,570,550
+197984,Belmont Abbey College,25th,480,470
+197984,Belmont Abbey College,75th,600,580
+197993,Bennett College,25th,410,390
+197993,Bennett College,75th,520,480
+198066,Brevard College,25th,NA,NA
+198066,Brevard College,75th,NA,NA
+198109,Cabarrus College of Health Sciences,25th,510,480
+198109,Cabarrus College of Health Sciences,75th,580,560
+198136,Campbell University,25th,520,510
+198136,Campbell University,75th,610,600
+198215,Catawba College,25th,460,450
+198215,Catawba College,75th,580,560
+198303,Chowan University,25th,420,390
+198303,Chowan University,75th,510,490
+198385,Davidson College,25th,640,650
+198385,Davidson College,75th,720,730
+198419,Duke University,25th,710,740
+198419,Duke University,75th,770,800
+198464,East Carolina University,25th,520,520
+198464,East Carolina University,75th,600,590
+198507,Elizabeth City State University,25th,450,440
+198507,Elizabeth City State University,75th,520,520
+198516,Elon University,25th,580,570
+198516,Elon University,75th,670,660
+198543,Fayetteville State University,25th,450,440
+198543,Fayetteville State University,75th,520,510
+198561,Gardner-Webb University,25th,490,480
+198561,Gardner-Webb University,75th,600,580
+198598,Greensboro College,25th,470,440
+198598,Greensboro College,75th,580,560
+198613,Guilford College,25th,NA,NA
+198613,Guilford College,75th,NA,NA
+198695,High Point University,25th,550,540
+198695,High Point University,75th,630,620
+198756,Johnson C Smith University,25th,420,390
+198756,Johnson C Smith University,75th,490,490
+198808,Lees-McRae College,25th,NA,NA
+198808,Lees-McRae College,75th,NA,NA
+198835,Lenoir-Rhyne University,25th,480,480
+198835,Lenoir-Rhyne University,75th,590,590
+198862,Livingstone College,25th,390,380
+198862,Livingstone College,75th,470,460
+198871,Louisburg College,25th,390,393
+198871,Louisburg College,75th,500,510
+198899,Mars Hill University,25th,470,450
+198899,Mars Hill University,75th,570,560
+198950,Meredith College,25th,510,490
+198950,Meredith College,75th,610,590
+198969,Methodist University,25th,480,480
+198969,Methodist University,75th,580,570
+199032,Montreat College,25th,460,460
+199032,Montreat College,75th,580,560
+199069,University of Mount Olive,25th,458,460
+199069,University of Mount Olive,75th,563,553
+199102,North Carolina A & T State University,25th,480,470
+199102,North Carolina A & T State University,75th,560,550
+199111,University of North Carolina at Asheville,25th,540,520
+199111,University of North Carolina at Asheville,75th,640,610
+199120,University of North Carolina at Chapel Hill,25th,630,640
+199120,University of North Carolina at Chapel Hill,75th,720,760
+199139,University of North Carolina at Charlotte,25th,560,560
+199139,University of North Carolina at Charlotte,75th,630,640
+199148,University of North Carolina at Greensboro,25th,500,490
+199148,University of North Carolina at Greensboro,75th,590,570
+199157,North Carolina Central University,25th,450,450
+199157,North Carolina Central University,75th,530,520
+199184,University of North Carolina School of the Arts,25th,560,530
+199184,University of North Carolina School of the Arts,75th,660,620
+199193,North Carolina State University at Raleigh,25th,620,630
+199193,North Carolina State University at Raleigh,75th,680,710
+199209,North Carolina Wesleyan College,25th,440,430
+199209,North Carolina Wesleyan College,75th,550,540
+199218,University of North Carolina Wilmington,25th,600,590
+199218,University of North Carolina Wilmington,75th,660,660
+199272,William Peace University,25th,460,460
+199272,William Peace University,75th,530,550
+199281,University of North Carolina at Pembroke,25th,470,455
+199281,University of North Carolina at Pembroke,75th,550,530
+199306,Pfeiffer University,25th,450,450
+199306,Pfeiffer University,75th,570,560
+199412,Queens University of Charlotte,25th,520,513
+199412,Queens University of Charlotte,75th,618,600
+199458,Mid-Atlantic Christian University,25th,405,423
+199458,Mid-Atlantic Christian University,75th,538,508
+199582,Saint Augustine's University,25th,395,370
+199582,Saint Augustine's University,75th,480,460
+199607,Salem College,25th,530,520
+199607,Salem College,75th,640,620
+199643,Shaw University,25th,NA,NA
+199643,Shaw University,75th,NA,NA
+199698,St. Andrews University,25th,385,395
+199698,St. Andrews University,75th,595,560
+199759,Southeastern Baptist Theological Seminary,25th,NA,NA
+199759,Southeastern Baptist Theological Seminary,75th,NA,NA
+199847,Wake Forest University,25th,NA,NA
+199847,Wake Forest University,75th,NA,NA
+199865,Warren Wilson College,25th,610,530
+199865,Warren Wilson College,75th,670,615
+199962,Wingate University,25th,490,490
+199962,Wingate University,75th,590,580
+199999,Winston-Salem State University,25th,450,440
+199999,Winston-Salem State University,75th,520,510
+200004,Western Carolina University,25th,520,510
+200004,Western Carolina University,75th,610,600
+200059,Dickinson State University,25th,NA,450
+200059,Dickinson State University,75th,NA,503
+200156,University of Jamestown,25th,480,470
+200156,University of Jamestown,75th,560,570
+200217,University of Mary,25th,540,507
+200217,University of Mary,75th,642,630
+200226,Mayville State University,25th,NA,NA
+200226,Mayville State University,75th,NA,NA
+200253,Minot State University,25th,460,460
+200253,Minot State University,75th,560,570
+200280,University of North Dakota,25th,480,500
+200280,University of North Dakota,75th,600,630
+200332,North Dakota State University-Main Campus,25th,543,540
+200332,North Dakota State University-Main Campus,75th,630,645
+200484,Trinity Bible College and Graduate School,25th,400,410
+200484,Trinity Bible College and Graduate School,75th,605,550
+200572,Valley City State University,25th,440,460
+200572,Valley City State University,75th,520,570
+200624,The Art Institute of Cincinnati-AIC College of Design,25th,NA,NA
+200624,The Art Institute of Cincinnati-AIC College of Design,75th,NA,NA
+200785,Herzing University-Akron,25th,NA,NA
+200785,Herzing University-Akron,75th,NA,NA
+200800,University of Akron Main Campus,25th,490,500
+200800,University of Akron Main Campus,75th,620,630
+201061,Art Academy of Cincinnati,25th,440,440
+201061,Art Academy of Cincinnati,75th,580,520
+201104,Ashland University,25th,500,475
+201104,Ashland University,75th,610,620
+201177,Aultman College of Nursing and Health Sciences,25th,NA,NA
+201177,Aultman College of Nursing and Health Sciences,75th,NA,NA
+201195,Baldwin Wallace University,25th,520,510
+201195,Baldwin Wallace University,75th,640,610
+201371,Bluffton University,25th,430,440
+201371,Bluffton University,75th,550,550
+201441,Bowling Green State University-Main Campus,25th,440,440
+201441,Bowling Green State University-Main Campus,75th,550,550
+201539,Canton City Schools Adult Career and Technical Education,25th,NA,NA
+201539,Canton City Schools Adult Career and Technical Education,75th,NA,NA
+201548,Capital University,25th,500,500
+201548,Capital University,75th,620,590
+201645,Case Western Reserve University,25th,650,700
+201645,Case Western Reserve University,75th,730,790
+201654,Cedarville University,25th,580,550
+201654,Cedarville University,75th,680,670
+201690,Central State University,25th,370,340
+201690,Central State University,75th,440,440
+201821,The Christ College of Nursing and Health Sciences,25th,438,443
+201821,The Christ College of Nursing and Health Sciences,75th,543,490
+201858,Cincinnati Christian University,25th,430,450
+201858,Cincinnati Christian University,75th,520,540
+201885,University of Cincinnati-Main Campus,25th,580,580
+201885,University of Cincinnati-Main Campus,75th,670,700
+202046,Cleveland Institute of Art,25th,550,510
+202046,Cleveland Institute of Art,75th,640,590
+202073,Cleveland Institute of Music,25th,NA,NA
+202073,Cleveland Institute of Music,75th,NA,NA
+202134,Cleveland State University,25th,480,480
+202134,Cleveland State University,75th,610,590
+202170,Columbus College of Art and Design,25th,NA,NA
+202170,Columbus College of Art and Design,75th,NA,NA
+202480,University of Dayton,25th,560,550
+202480,University of Dayton,75th,650,660
+202514,Defiance College,25th,430,425
+202514,Defiance College,75th,540,530
+202523,Denison University,25th,600,610
+202523,Denison University,75th,670,710
+202763,The University of Findlay,25th,530,522
+202763,The University of Findlay,75th,630,617
+202903,Gods Bible School and College,25th,NA,NA
+202903,Gods Bible School and College,75th,NA,NA
+202912,Good Samaritan College of Nursing and Health Science,25th,NA,NA
+202912,Good Samaritan College of Nursing and Health Science,75th,NA,NA
+202985,Hannah E Mullins School of Practical Nursing,25th,NA,NA
+202985,Hannah E Mullins School of Practical Nursing,75th,NA,NA
+203030,Adult and Community Education-Hudson,25th,NA,NA
+203030,Adult and Community Education-Hudson,75th,NA,NA
+203085,Heidelberg University,25th,500,490
+203085,Heidelberg University,75th,590,580
+203128,Hiram College,25th,460,470
+203128,Hiram College,75th,600,590
+203368,John Carroll University,25th,550,540
+203368,John Carroll University,75th,640,650
+203386,Hondros College of Nursing,25th,NA,NA
+203386,Hondros College of Nursing,75th,NA,NA
+203517,Kent State University at Kent,25th,520,510
+203517,Kent State University at Kent,75th,620,590
+203535,Kenyon College,25th,640,640
+203535,Kenyon College,75th,730,740
+203544,Kettering College,25th,580,560
+203544,Kettering College,75th,600,600
+203580,Lake Erie College,25th,463,460
+203580,Lake Erie College,75th,550,580
+203757,Lourdes University,25th,470,470
+203757,Lourdes University,75th,580,560
+203775,Malone University,25th,480,460
+203775,Malone University,75th,600,590
+203845,Marietta College,25th,495,495
+203845,Marietta College,75th,610,600
+203960,Mercy College of Ohio,25th,NA,NA
+203960,Mercy College of Ohio,75th,NA,NA
+204024,Miami University-Oxford,25th,590,610
+204024,Miami University-Oxford,75th,670,710
+204176,Mount Carmel College of Nursing,25th,NA,NA
+204176,Mount Carmel College of Nursing,75th,NA,NA
+204185,University of Mount Union,25th,480,488
+204185,University of Mount Union,75th,600,600
+204194,Mount Vernon Nazarene University,25th,490,470
+204194,Mount Vernon Nazarene University,75th,570,560
+204200,Mount Saint Joseph University,25th,500,490
+204200,Mount Saint Joseph University,75th,570,570
+204264,Muskingum University,25th,493,483
+204264,Muskingum University,75th,590,590
+204468,Notre Dame College,25th,440,420
+204468,Notre Dame College,75th,530,530
+204501,Oberlin College,25th,650,630
+204501,Oberlin College,75th,740,750
+204617,Ohio Dominican University,25th,450,470
+204617,Ohio Dominican University,75th,560,540
+204635,Ohio Northern University,25th,550,540
+204635,Ohio Northern University,75th,630,660
+204796,Ohio State University-Main Campus,25th,590,650
+204796,Ohio State University-Main Campus,75th,690,760
+204857,Ohio University-Main Campus,25th,540,530
+204857,Ohio University-Main Campus,75th,640,630
+204893,Trinity Health System School of Nursing,25th,NA,NA
+204893,Trinity Health System School of Nursing,75th,NA,NA
+204909,Ohio Wesleyan University,25th,NA,NA
+204909,Ohio Wesleyan University,75th,NA,NA
+204936,Otterbein University,25th,555,550
+204936,Otterbein University,75th,650,635
+205027,Pontifical College Josephinum,25th,NA,NA
+205027,Pontifical College Josephinum,75th,NA,NA
+205054,Professional Skills Institute,25th,NA,NA
+205054,Professional Skills Institute,75th,NA,NA
+205124,Rabbinical College Telshe,25th,NA,NA
+205124,Rabbinical College Telshe,75th,NA,NA
+205391,Advertising Art Educational Services DBA School of Advertising Art,25th,NA,NA
+205391,Advertising Art Educational Services DBA School of Advertising Art,75th,NA,NA
+205957,Franciscan University of Steubenville,25th,550,510
+205957,Franciscan University of Steubenville,75th,660,620
+206048,Tiffin University,25th,NA,NA
+206048,Tiffin University,75th,NA,NA
+206084,University of Toledo,25th,510,510
+206084,University of Toledo,75th,610,630
+206330,Urbana University,25th,460,430
+206330,Urbana University,75th,540,560
+206349,Ursuline College,25th,515,505
+206349,Ursuline College,75th,585,575
+206394,The North Coast College,25th,NA,NA
+206394,The North Coast College,75th,NA,NA
+206437,Walsh University,25th,490,500
+206437,Walsh University,75th,610,580
+206491,Wilberforce University,25th,350,381
+206491,Wilberforce University,75th,445,405
+206507,Wilmington College,25th,460,470
+206507,Wilmington College,75th,550,540
+206525,Wittenberg University,25th,NA,NA
+206525,Wittenberg University,75th,NA,NA
+206589,The College of Wooster,25th,570,560
+206589,The College of Wooster,75th,680,690
+206604,Wright State University-Main Campus,25th,480,490
+206604,Wright State University-Main Campus,75th,628,605
+206613,Wright State University-Lake Campus,25th,470,500
+206613,Wright State University-Lake Campus,75th,560,560
+206622,Xavier University,25th,540,530
+206622,Xavier University,75th,630,620
+206695,Youngstown State University,25th,480,480
+206695,Youngstown State University,75th,590,600
+206817,Bacone College,25th,425,395
+206817,Bacone College,75th,450,445
+206835,Oklahoma Wesleyan University,25th,244,446
+206835,Oklahoma Wesleyan University,75th,520,519
+206941,University of Central Oklahoma,25th,NA,NA
+206941,University of Central Oklahoma,75th,NA,NA
+207041,East Central University,25th,460,470
+207041,East Central University,75th,570,540
+207157,Randall University,25th,470,470
+207157,Randall University,75th,560,540
+207263,Northeastern State University,25th,440,478
+207263,Northeastern State University,75th,550,573
+207306,Northwestern Oklahoma State University,25th,510,520
+207306,Northwestern Oklahoma State University,75th,620,620
+207324,Oklahoma Christian University,25th,510,510
+207324,Oklahoma Christian University,75th,640,640
+207388,Oklahoma State University-Main Campus,25th,540,520
+207388,Oklahoma State University-Main Campus,75th,640,640
+207403,Oklahoma Baptist University,25th,500,490
+207403,Oklahoma Baptist University,75th,620,580
+207458,Oklahoma City University,25th,550,540
+207458,Oklahoma City University,75th,660,620
+207500,University of Oklahoma-Norman Campus,25th,580,560
+207500,University of Oklahoma-Norman Campus,75th,670,680
+207582,Oral Roberts University,25th,515,500
+207582,Oral Roberts University,75th,620,605
+207722,University of Science and Arts of Oklahoma,25th,395,420
+207722,University of Science and Arts of Oklahoma,75th,500,510
+207847,Southeastern Oklahoma State University,25th,NA,NA
+207847,Southeastern Oklahoma State University,75th,NA,NA
+207856,Southwestern Christian University,25th,450,445
+207856,Southwestern Christian University,75th,545,535
+207865,Southwestern Oklahoma State University,25th,NA,NA
+207865,Southwestern Oklahoma State University,75th,NA,NA
+207971,University of Tulsa,25th,590,590
+207971,University of Tulsa,75th,710,700
+208479,Concorde Career College-Portland,25th,NA,NA
+208479,Concorde Career College-Portland,75th,NA,NA
+208488,Concordia University-Portland,25th,500,490
+208488,Concordia University-Portland,75th,590,580
+208512,Sumner College,25th,NA,NA
+208512,Sumner College,75th,NA,NA
+208646,Eastern Oregon University,25th,470,470
+208646,Eastern Oregon University,75th,573,560
+208725,New Hope Christian College-Eugene,25th,NA,NA
+208725,New Hope Christian College-Eugene,75th,NA,NA
+208822,George Fox University,25th,520,500
+208822,George Fox University,75th,630,600
+209056,Lewis & Clark College,25th,NA,NA
+209056,Lewis & Clark College,75th,NA,NA
+209065,Linfield College-McMinnville Campus,25th,510,510
+209065,Linfield College-McMinnville Campus,75th,610,590
+209241,Mount Angel Seminary,25th,NA,NA
+209241,Mount Angel Seminary,75th,NA,NA
+209287,Multnomah University,25th,NA,NA
+209287,Multnomah University,75th,NA,NA
+209409,Northwest Christian University,25th,470,465
+209409,Northwest Christian University,75th,590,580
+209506,Oregon Institute of Technology,25th,510,520
+209506,Oregon Institute of Technology,75th,620,620
+209533,Oregon College of Art and Craft,25th,NA,NA
+209533,Oregon College of Art and Craft,75th,NA,NA
+209542,Oregon State University,25th,540,540
+209542,Oregon State University,75th,650,660
+209551,University of Oregon,25th,550,530
+209551,University of Oregon,75th,650,640
+209603,Pacific Northwest College of Art,25th,NA,NA
+209603,Pacific Northwest College of Art,75th,NA,NA
+209612,Pacific University,25th,530,530
+209612,Pacific University,75th,630,620
+209807,Portland State University,25th,510,500
+209807,Portland State University,75th,630,600
+209825,University of Portland,25th,580,560
+209825,University of Portland,75th,660,660
+209922,Reed College,25th,670,640
+209922,Reed College,75th,750,770
+210146,Southern Oregon University,25th,490,430
+210146,Southern Oregon University,75th,600,550
+210304,Warner Pacific University,25th,NA,NA
+210304,Warner Pacific University,75th,NA,NA
+210331,Corban University,25th,510,520
+210331,Corban University,75th,620,580
+210401,Willamette University,25th,NA,NA
+210401,Willamette University,75th,NA,NA
+210429,Western Oregon University,25th,NA,NA
+210429,Western Oregon University,75th,NA,NA
+210492,Bryn Athyn College of the New Church,25th,498,498
+210492,Bryn Athyn College of the New Church,75th,613,590
+210571,Albright College,25th,NA,NA
+210571,Albright College,75th,NA,NA
+210669,Allegheny College,25th,560,560
+210669,Allegheny College,75th,680,660
+210739,DeSales University,25th,510,500
+210739,DeSales University,75th,620,610
+210775,Alvernia University,25th,480,470
+210775,Alvernia University,75th,570,560
+211024,Clarks Summit University,25th,NA,NA
+211024,Clarks Summit University,75th,NA,NA
+211088,Arcadia University,25th,540,510
+211088,Arcadia University,75th,640,610
+211149,Bidwell Training Center Inc,25th,NA,NA
+211149,Bidwell Training Center Inc,75th,NA,NA
+211158,Bloomsburg University of Pennsylvania,25th,500,490
+211158,Bloomsburg University of Pennsylvania,75th,580,570
+211273,Bryn Mawr College,25th,NA,NA
+211273,Bryn Mawr College,75th,NA,NA
+211291,Bucknell University,25th,620,630
+211291,Bucknell University,75th,690,730
+211352,Cabrini University,25th,NA,NA
+211352,Cabrini University,75th,NA,NA
+211361,California University of Pennsylvania,25th,450,450
+211361,California University of Pennsylvania,75th,560,540
+211431,Carlow University,25th,510,490
+211431,Carlow University,75th,600,580
+211440,Carnegie Mellon University,25th,700,750
+211440,Carnegie Mellon University,75th,750,800
+211468,Cedar Crest College,25th,480,460
+211468,Cedar Crest College,75th,600,570
+211477,Central Penn College,25th,330,330
+211477,Central Penn College,75th,450,460
+211556,Chatham University,25th,NA,NA
+211556,Chatham University,75th,NA,NA
+211583,Chestnut Hill College,25th,470,470
+211583,Chestnut Hill College,75th,570,550
+211635,Citizens School of Nursing,25th,NA,NA
+211635,Citizens School of Nursing,75th,NA,NA
+211644,Clarion University of Pennsylvania,25th,480,470
+211644,Clarion University of Pennsylvania,75th,570,560
+211802,DLP Conemaugh Memorial Medical Center,25th,NA,NA
+211802,DLP Conemaugh Memorial Medical Center,75th,NA,NA
+211893,Curtis Institute of Music,25th,NA,NA
+211893,Curtis Institute of Music,75th,NA,NA
+211981,Delaware Valley University,25th,490,480
+211981,Delaware Valley University,75th,590,570
+212009,Dickinson College,25th,NA,NA
+212009,Dickinson College,75th,NA,NA
+212054,Drexel University,25th,580,590
+212054,Drexel University,75th,670,710
+212106,Duquesne University,25th,580,550
+212106,Duquesne University,75th,650,640
+212115,East Stroudsburg University of Pennsylvania,25th,460,450
+212115,East Stroudsburg University of Pennsylvania,75th,570,550
+212133,Eastern University,25th,550,480
+212133,Eastern University,75th,600,590
+212160,Edinboro University of Pennsylvania,25th,490,470
+212160,Edinboro University of Pennsylvania,75th,580,560
+212197,Elizabethtown College,25th,540,530
+212197,Elizabethtown College,75th,640,650
+212452,Faith Theological Seminary,25th,NA,NA
+212452,Faith Theological Seminary,75th,NA,NA
+212577,Franklin and Marshall College,25th,NA,NA
+212577,Franklin and Marshall College,75th,NA,NA
+212601,Gannon University,25th,510,510
+212601,Gannon University,75th,610,610
+212656,Geneva College,25th,500,500
+212656,Geneva College,75th,630,610
+212674,Gettysburg College,25th,NA,NA
+212674,Gettysburg College,75th,NA,NA
+212805,Grove City College,25th,590,495
+212805,Grove City College,75th,640,635
+212832,Gwynedd Mercy University,25th,480,460
+212832,Gwynedd Mercy University,75th,560,550
+212911,Haverford College,25th,680,690
+212911,Haverford College,75th,750,780
+212984,Holy Family University,25th,475,460
+212984,Holy Family University,75th,560,530
+212993,Hussian College School of Art,25th,NA,NA
+212993,Hussian College School of Art,75th,NA,NA
+213011,Immaculata University,25th,515,500
+213011,Immaculata University,75th,630,590
+213020,Indiana University of Pennsylvania-Main Campus,25th,460,450
+213020,Indiana University of Pennsylvania-Main Campus,75th,570,550
+213163,Jameson Health System,25th,NA,NA
+213163,Jameson Health System,75th,NA,NA
+213233,Johnson College,25th,NA,NA
+213233,Johnson College,75th,NA,NA
+213251,Juniata College,25th,NA,NA
+213251,Juniata College,75th,NA,NA
+213303,Keystone College,25th,NA,NA
+213303,Keystone College,75th,NA,NA
+213321,King's College,25th,NA,NA
+213321,King's College,75th,NA,NA
+213349,Kutztown University of Pennsylvania,25th,490,480
+213349,Kutztown University of Pennsylvania,75th,580,560
+213358,La Roche University,25th,470,440
+213358,La Roche University,75th,560,550
+213367,La Salle University,25th,NA,NA
+213367,La Salle University,75th,NA,NA
+213385,Lafayette College,25th,620,630
+213385,Lafayette College,75th,700,735
+213400,Lancaster Bible College,25th,510,490
+213400,Lancaster Bible College,75th,610,590
+213507,Lebanon Valley College,25th,538,530
+213507,Lebanon Valley College,75th,640,640
+213543,Lehigh University,25th,620,650
+213543,Lehigh University,75th,690,760
+213598,Lincoln University,25th,440,420
+213598,Lincoln University,75th,510,510
+213613,Lock Haven University,25th,460,460
+213613,Lock Haven University,75th,560,550
+213622,St Margaret School of Nursing,25th,NA,NA
+213622,St Margaret School of Nursing,75th,NA,NA
+213668,Lycoming College,25th,510,500
+213668,Lycoming College,75th,600,598
+213774,Manor College,25th,410,390
+213774,Manor College,75th,500,500
+213783,Mansfield University of Pennsylvania,25th,480,470
+213783,Mansfield University of Pennsylvania,75th,580,550
+213826,Marywood University,25th,510,500
+213826,Marywood University,75th,600,590
+213987,Mercyhurst University,25th,NA,NA
+213987,Mercyhurst University,75th,NA,NA
+213996,Messiah College,25th,550,530
+213996,Messiah College,75th,650,660
+214023,The Workforce Institute's City College,25th,NA,NA
+214023,The Workforce Institute's City College,75th,NA,NA
+214041,Millersville University of Pennsylvania,25th,500,490
+214041,Millersville University of Pennsylvania,75th,600,580
+214069,Misericordia University,25th,520,520
+214069,Misericordia University,75th,600,600
+214148,Moore College of Art and Design,25th,570,520
+214148,Moore College of Art and Design,75th,660,610
+214157,Moravian College,25th,530,520
+214157,Moravian College,75th,610,590
+214166,Mount Aloysius College,25th,470,470
+214166,Mount Aloysius College,75th,570,550
+214175,Muhlenberg College,25th,590,580
+214175,Muhlenberg College,75th,680,680
+214272,Neumann University,25th,460,450
+214272,Neumann University,75th,550,540
+214290,New Castle School of Trades,25th,NA,NA
+214290,New Castle School of Trades,75th,NA,NA
+214476,Ohio Valley Hospital School of Nursing,25th,NA,NA
+214476,Ohio Valley Hospital School of Nursing,75th,NA,NA
+214528,Orleans Technical College,25th,NA,NA
+214528,Orleans Technical College,75th,NA,NA
+214591,Pennsylvania State University-Penn State Erie-Behrend College,25th,520,530
+214591,Pennsylvania State University-Penn State Erie-Behrend College,75th,620,660
+214625,Pennsylvania State University-Penn State New Kensington,25th,500,490
+214625,Pennsylvania State University-Penn State New Kensington,75th,590,600
+214634,Pennsylvania State University-Penn State Shenango,25th,445,455
+214634,Pennsylvania State University-Penn State Shenango,75th,540,515
+214643,Pennsylvania State University-Penn State Wilkes-Barre,25th,490,500
+214643,Pennsylvania State University-Penn State Wilkes-Barre,75th,570,570
+214652,Pennsylvania State University-Penn State Scranton,25th,480,490
+214652,Pennsylvania State University-Penn State Scranton,75th,580,570
+214670,Pennsylvania State University-Penn State Lehigh Valley,25th,500,510
+214670,Pennsylvania State University-Penn State Lehigh Valley,75th,600,600
+214689,Pennsylvania State University-Penn State Altoona,25th,500,500
+214689,Pennsylvania State University-Penn State Altoona,75th,590,590
+214698,Pennsylvania State University-Penn State Beaver,25th,490,510
+214698,Pennsylvania State University-Penn State Beaver,75th,600,610
+214704,Pennsylvania State University-Penn State Berks,25th,500,500
+214704,Pennsylvania State University-Penn State Berks,75th,600,600
+214713,Pennsylvania State University-Penn State Harrisburg,25th,520,530
+214713,Pennsylvania State University-Penn State Harrisburg,75th,610,680
+214731,Pennsylvania State University-Penn State Brandywine,25th,480,480
+214731,Pennsylvania State University-Penn State Brandywine,75th,600,590
+214740,Pennsylvania State University-Penn State DuBois,25th,490,490
+214740,Pennsylvania State University-Penn State DuBois,75th,590,590
+214759,Pennsylvania State University-Penn State Fayette- Eberly,25th,490,470
+214759,Pennsylvania State University-Penn State Fayette- Eberly,75th,590,600
+214768,Pennsylvania State University-Penn State Hazleton,25th,460,470
+214768,Pennsylvania State University-Penn State Hazleton,75th,580,560
+214777,Pennsylvania State University-Main Campus,25th,580,580
+214777,Pennsylvania State University-Main Campus,75th,660,700
+214786,Pennsylvania State University-Penn State Greater Allegheny,25th,460,470
+214786,Pennsylvania State University-Penn State Greater Allegheny,75th,590,650
+214795,Pennsylvania State University-Penn State Mont Alto,25th,480,490
+214795,Pennsylvania State University-Penn State Mont Alto,75th,590,590
+214801,Pennsylvania State University-Penn State Abington,25th,500,510
+214801,Pennsylvania State University-Penn State Abington,75th,600,670
+214810,Pennsylvania State University-Penn State Schuylkill,25th,450,440
+214810,Pennsylvania State University-Penn State Schuylkill,75th,545,550
+214829,Pennsylvania State University-Penn State York,25th,510,520
+214829,Pennsylvania State University-Penn State York,75th,620,680
+214892,Penn Commercial Business/Technical School,25th,NA,NA
+214892,Penn Commercial Business/Technical School,75th,NA,NA
+214971,Pennsylvania Academy of the Fine Arts,25th,NA,NA
+214971,Pennsylvania Academy of the Fine Arts,75th,NA,NA
+215053,Pennsylvania College of Art and Design,25th,NA,NA
+215053,Pennsylvania College of Art and Design,75th,NA,NA
+215062,University of Pennsylvania,25th,690,730
+215062,University of Pennsylvania,75th,760,790
+215105,The University of the Arts,25th,NA,NA
+215105,The University of the Arts,75th,NA,NA
+215114,Cairn University-Langhorne,25th,490,465
+215114,Cairn University-Langhorne,75th,620,580
+215132,University of the Sciences,25th,560,560
+215132,University of the Sciences,75th,640,670
+215266,University of Pittsburgh-Bradford,25th,490,490
+215266,University of Pittsburgh-Bradford,75th,580,580
+215275,University of Pittsburgh-Greensburg,25th,510,500
+215275,University of Pittsburgh-Greensburg,75th,600,590
+215284,University of Pittsburgh-Johnstown,25th,510,510
+215284,University of Pittsburgh-Johnstown,75th,600,600
+215293,University of Pittsburgh-Pittsburgh Campus,25th,630,640
+215293,University of Pittsburgh-Pittsburgh Campus,75th,700,730
+215309,University of Pittsburgh-Titusville,25th,450,450
+215309,University of Pittsburgh-Titusville,75th,560,540
+215390,Pittsburgh Institute of Mortuary Science Inc,25th,NA,NA
+215390,Pittsburgh Institute of Mortuary Science Inc,75th,NA,NA
+215442,Point Park University,25th,500,480
+215442,Point Park University,75th,620,570
+215594,Reading Hospital School of Health Sciences,25th,485,480
+215594,Reading Hospital School of Health Sciences,75th,560,540
+215637,The Restaurant School at Walnut Hill College,25th,NA,NA
+215637,The Restaurant School at Walnut Hill College,75th,NA,NA
+215655,Robert Morris University,25th,520,510
+215655,Robert Morris University,75th,600,600
+215682,Rosedale Technical College,25th,NA,NA
+215682,Rosedale Technical College,75th,NA,NA
+215691,Rosemont College,25th,460,450
+215691,Rosemont College,75th,580,560
+215743,Saint Francis University,25th,520,520
+215743,Saint Francis University,75th,630,620
+215770,Saint Joseph's University,25th,570,550
+215770,Saint Joseph's University,75th,650,640
+215798,Saint Vincent College,25th,520,510
+215798,Saint Vincent College,75th,630,600
+215929,University of Scranton,25th,570,550
+215929,University of Scranton,75th,640,640
+215947,Seton Hill University,25th,NA,NA
+215947,Seton Hill University,75th,NA,NA
+215974,University of Pittsburgh Medical Center-Shadyside School of Nursing,25th,NA,NA
+215974,University of Pittsburgh Medical Center-Shadyside School of Nursing,75th,NA,NA
+215992,Laurel Technical Institute,25th,NA,NA
+215992,Laurel Technical Institute,75th,NA,NA
+216010,Shippensburg University of Pennsylvania,25th,490,480
+216010,Shippensburg University of Pennsylvania,75th,590,580
+216038,Slippery Rock University of Pennsylvania,25th,510,500
+216038,Slippery Rock University of Pennsylvania,75th,590,580
+216047,Saint Charles Borromeo Seminary-Overbrook,25th,NA,NA
+216047,Saint Charles Borromeo Seminary-Overbrook,75th,NA,NA
+216083,South Hills School of Business & Technology,25th,NA,NA
+216083,South Hills School of Business & Technology,75th,NA,NA
+216278,Susquehanna University,25th,NA,NA
+216278,Susquehanna University,75th,NA,NA
+216287,Swarthmore College,25th,680,700
+216287,Swarthmore College,75th,760,790
+216296,Thaddeus Stevens College of Technology,25th,NA,NA
+216296,Thaddeus Stevens College of Technology,75th,NA,NA
+216311,Talmudical Yeshiva of Philadelphia,25th,NA,NA
+216311,Talmudical Yeshiva of Philadelphia,75th,NA,NA
+216339,Temple University,25th,NA,NA
+216339,Temple University,75th,NA,NA
+216357,Thiel College,25th,440,420
+216357,Thiel College,75th,540,560
+216366,Thomas Jefferson University,25th,540,520
+216366,Thomas Jefferson University,75th,620,620
+216524,Ursinus College,25th,580,560
+216524,Ursinus College,75th,660,660
+216542,University of Valley Forge,25th,NA,NA
+216542,University of Valley Forge,75th,NA,NA
+216597,Villanova University,25th,640,660
+216597,Villanova University,75th,710,760
+216667,Washington & Jefferson College,25th,NA,NA
+216667,Washington & Jefferson College,75th,NA,NA
+216694,Waynesburg University,25th,500,480
+216694,Waynesburg University,75th,580,570
+216764,West Chester University of Pennsylvania,25th,530,520
+216764,West Chester University of Pennsylvania,75th,610,590
+216773,Western Pennsylvania Hospital School of Nursing,25th,NA,NA
+216773,Western Pennsylvania Hospital School of Nursing,75th,NA,NA
+216807,Westminster College,25th,500,500
+216807,Westminster College,75th,620,600
+216852,Widener University,25th,510,510
+216852,Widener University,75th,600,600
+216931,Wilkes University,25th,530,520
+216931,Wilkes University,75th,620,620
+217013,Wilson College,25th,490,490
+217013,Wilson College,75th,570,560
+217040,Yeshivath Beth Moshe,25th,NA,NA
+217040,Yeshivath Beth Moshe,75th,NA,NA
+217059,York College of Pennsylvania,25th,510,510
+217059,York College of Pennsylvania,75th,610,620
+217156,Brown University,25th,700,720
+217156,Brown University,75th,760,790
+217165,Bryant University,25th,NA,NA
+217165,Bryant University,75th,NA,NA
+217235,Johnson & Wales University-Providence,25th,NA,NA
+217235,Johnson & Wales University-Providence,75th,NA,NA
+217402,Providence College,25th,610,600
+217402,Providence College,75th,670,690
+217420,Rhode Island College,25th,450,440
+217420,Rhode Island College,75th,560,540
+217484,University of Rhode Island,25th,540,530
+217484,University of Rhode Island,75th,620,620
+217493,Rhode Island School of Design,25th,600,580
+217493,Rhode Island School of Design,75th,690,750
+217518,Roger Williams University,25th,NA,NA
+217518,Roger Williams University,75th,NA,NA
+217536,Salve Regina University,25th,NA,NA
+217536,Salve Regina University,75th,NA,NA
+217633,Anderson University,25th,540,418
+217633,Anderson University,75th,640,635
+217688,Charleston Southern University,25th,520,500
+217688,Charleston Southern University,75th,610,590
+217776,Southern Wesleyan University,25th,480,490
+217776,Southern Wesleyan University,75th,560,590
+217819,College of Charleston,25th,550,520
+217819,College of Charleston,75th,640,610
+217864,Citadel Military College of South Carolina,25th,520,510
+217864,Citadel Military College of South Carolina,75th,610,610
+217873,Claflin University,25th,420,410
+217873,Claflin University,75th,540,520
+217882,Clemson University,25th,610,610
+217882,Clemson University,75th,690,710
+217907,Coker College,25th,480,470
+217907,Coker College,75th,580,580
+217925,Columbia International University,25th,470,470
+217925,Columbia International University,75th,580,540
+217934,Columbia College,25th,NA,NA
+217934,Columbia College,75th,NA,NA
+217961,Converse College,25th,530,510
+217961,Converse College,75th,610,590
+217998,Erskine College,25th,460,470
+217998,Erskine College,75th,580,560
+218061,Francis Marion University,25th,410,400
+218061,Francis Marion University,75th,520,510
+218070,Furman University,25th,630,600
+218070,Furman University,75th,710,700
+218229,Lander University,25th,480,450
+218229,Lander University,75th,570,550
+218238,Limestone College,25th,480,480
+218238,Limestone College,75th,570,560
+218414,Newberry College,25th,460,460
+218414,Newberry College,75th,570,550
+218441,North Greenville University,25th,420,430
+218441,North Greenville University,75th,660,660
+218539,Presbyterian College,25th,510,500
+218539,Presbyterian College,75th,620,590
+218645,University of South Carolina-Aiken,25th,480,470
+218645,University of South Carolina-Aiken,75th,580,560
+218654,University of South Carolina-Beaufort,25th,470,445
+218654,University of South Carolina-Beaufort,75th,570,550
+218663,University of South Carolina-Columbia,25th,600,590
+218663,University of South Carolina-Columbia,75th,670,690
+218672,University of South Carolina-Lancaster,25th,460,430
+218672,University of South Carolina-Lancaster,75th,560,550
+218681,University of South Carolina-Salkehatchie,25th,420,400
+218681,University of South Carolina-Salkehatchie,75th,500,500
+218690,University of South Carolina-Sumter,25th,470,455
+218690,University of South Carolina-Sumter,75th,580,550
+218706,University of South Carolina-Union,25th,410,390
+218706,University of South Carolina-Union,75th,540,500
+218724,Coastal Carolina University,25th,520,510
+218724,Coastal Carolina University,75th,590,580
+218733,South Carolina State University,25th,440,420
+218733,South Carolina State University,75th,510,500
+218742,University of South Carolina-Upstate,25th,470,450
+218742,University of South Carolina-Upstate,75th,570,540
+218821,Spartanburg Methodist College,25th,430,410
+218821,Spartanburg Methodist College,75th,540,520
+218919,Voorhees College,25th,NA,NA
+218919,Voorhees College,75th,NA,NA
+218964,Winthrop University,25th,490,460
+218964,Winthrop University,75th,600,560
+218973,Wofford College,25th,600,580
+218973,Wofford College,75th,670,680
+219000,Augustana University,25th,510,550
+219000,Augustana University,75th,650,680
+219046,Black Hills State University,25th,490,468
+219046,Black Hills State University,75th,600,580
+219082,Dakota State University,25th,470,490
+219082,Dakota State University,75th,610,610
+219091,Dakota Wesleyan University,25th,440,460
+219091,Dakota Wesleyan University,75th,530,530
+219198,Mount Marty College,25th,410,400
+219198,Mount Marty College,75th,540,510
+219259,Northern State University,25th,470,460
+219259,Northern State University,75th,600,600
+219295,Presentation College,25th,480,483
+219295,Presentation College,75th,555,538
+219347,South Dakota School of Mines and Technology,25th,570,590
+219347,South Dakota School of Mines and Technology,75th,670,693
+219356,South Dakota State University,25th,490,520
+219356,South Dakota State University,75th,620,640
+219383,University of Sioux Falls,25th,530,530
+219383,University of Sioux Falls,75th,610,570
+219471,University of South Dakota,25th,520,510
+219471,University of South Dakota,75th,620,640
+219602,Austin Peay State University,25th,488,470
+219602,Austin Peay State University,75th,603,575
+219639,Baptist Memorial College of Health Sciences,25th,NA,NA
+219639,Baptist Memorial College of Health Sciences,75th,NA,NA
+219709,Belmont University,25th,580,540
+219709,Belmont University,75th,660,640
+219718,Bethel University,25th,400,420
+219718,Bethel University,75th,550,522
+219790,Bryan College-Dayton,25th,517,457
+219790,Bryan College-Dayton,75th,652,610
+219806,Carson-Newman University,25th,480,480
+219806,Carson-Newman University,75th,598,570
+219833,Christian Brothers University,25th,NA,NA
+219833,Christian Brothers University,75th,NA,NA
+219903,Concorde Career College-Memphis,25th,NA,NA
+219903,Concorde Career College-Memphis,75th,NA,NA
+219949,Cumberland University,25th,470,460
+219949,Cumberland University,75th,540,550
+219976,Lipscomb University,25th,540,520
+219976,Lipscomb University,75th,660,660
+220075,East Tennessee State University,25th,480,490
+220075,East Tennessee State University,75th,600,580
+220181,Fisk University,25th,470,420
+220181,Fisk University,75th,570,550
+220215,Freed-Hardeman University,25th,530,480
+220215,Freed-Hardeman University,75th,690,610
+220312,Hiwassee College,25th,500,530
+220312,Hiwassee College,75th,520,570
+220464,John A Gupton College,25th,NA,NA
+220464,John A Gupton College,75th,NA,NA
+220473,Johnson University,25th,530,520
+220473,Johnson University,75th,630,610
+220516,King University,25th,470,480
+220516,King University,75th,580,580
+220604,Le Moyne-Owen College,25th,NA,NA
+220604,Le Moyne-Owen College,75th,NA,NA
+220613,Lee University,25th,480,480
+220613,Lee University,75th,630,590
+220631,Lincoln Memorial University,25th,500,503
+220631,Lincoln Memorial University,75th,608,590
+220701,Martin Methodist College,25th,450,533
+220701,Martin Methodist College,75th,545,548
+220710,Maryville College,25th,450,460
+220710,Maryville College,75th,590,570
+220862,University of Memphis,25th,500,470
+220862,University of Memphis,75th,620,590
+220978,Middle Tennessee State University,25th,520,500
+220978,Middle Tennessee State University,75th,630,610
+221351,Rhodes College,25th,630,610
+221351,Rhodes College,75th,700,710
+221519,The University of the South,25th,NA,NA
+221519,The University of the South,75th,NA,NA
+221731,Tennessee Wesleyan University,25th,470,450
+221731,Tennessee Wesleyan University,75th,620,540
+221740,The University of Tennessee-Chattanooga,25th,500,490
+221740,The University of Tennessee-Chattanooga,75th,620,590
+221759,The University of Tennessee-Knoxville,25th,580,570
+221759,The University of Tennessee-Knoxville,75th,660,670
+221768,The University of Tennessee-Martin,25th,NA,NA
+221768,The University of Tennessee-Martin,75th,NA,NA
+221847,Tennessee Technological University,25th,530,520
+221847,Tennessee Technological University,75th,620,640
+221892,Trevecca Nazarene University,25th,520,490
+221892,Trevecca Nazarene University,75th,630,610
+221953,Tusculum University,25th,470,490
+221953,Tusculum University,75th,570,555
+221971,Union University,25th,560,550
+221971,Union University,75th,690,670
+221999,Vanderbilt University,25th,700,750
+221999,Vanderbilt University,75th,760,800
+222178,Abilene Christian University,25th,530,510
+222178,Abilene Christian University,75th,620,610
+222831,Angelo State University,25th,460,460
+222831,Angelo State University,75th,560,550
+222983,Austin College,25th,570,560
+222983,Austin College,75th,670,660
+223117,Baptist Missionary Association Theological Seminary,25th,NA,NA
+223117,Baptist Missionary Association Theological Seminary,75th,NA,NA
+223232,Baylor University,25th,600,590
+223232,Baylor University,75th,680,690
+223472,Vet Tech Institute of Houston,25th,NA,NA
+223472,Vet Tech Institute of Houston,75th,NA,NA
+224004,Concordia University Texas,25th,470,470
+224004,Concordia University Texas,75th,590,580
+224147,Texas A & M University-Corpus Christi,25th,500,480
+224147,Texas A & M University-Corpus Christi,75th,590,570
+224226,Dallas Baptist University,25th,560,530
+224226,Dallas Baptist University,75th,650,620
+224244,Dallas Christian College,25th,408,403
+224244,Dallas Christian College,75th,568,588
+224323,University of Dallas,25th,570,550
+224323,University of Dallas,75th,680,660
+224527,East Texas Baptist University,25th,480,480
+224527,East Texas Baptist University,75th,560,540
+224545,Texas A&M University-Texarkana,25th,500,490
+224545,Texas A&M University-Texarkana,75th,570,560
+224554,Texas A & M University-Commerce,25th,490,470
+224554,Texas A & M University-Commerce,75th,580,560
+225201,Hallmark University,25th,NA,NA
+225201,Hallmark University,75th,NA,NA
+225247,Hardin-Simmons University,25th,500,500
+225247,Hardin-Simmons University,75th,590,580
+225399,Houston Baptist University,25th,520,510
+225399,Houston Baptist University,75th,610,590
+225414,University of Houston-Clear Lake,25th,520,520
+225414,University of Houston-Clear Lake,75th,610,590
+225432,University of Houston-Downtown,25th,470,470
+225432,University of Houston-Downtown,75th,540,540
+225502,University of Houston-Victoria,25th,NA,NA
+225502,University of Houston-Victoria,75th,NA,NA
+225511,University of Houston,25th,570,560
+225511,University of Houston,75th,650,660
+225548,Howard Payne University,25th,480,470
+225548,Howard Payne University,75th,560,540
+225575,Huston-Tillotson University,25th,410,400
+225575,Huston-Tillotson University,75th,490,490
+225627,University of the Incarnate Word,25th,480,470
+225627,University of the Incarnate Word,75th,580,560
+225991,KD Conservatory College of Film and Dramatic Arts,25th,NA,NA
+225991,KD Conservatory College of Film and Dramatic Arts,75th,NA,NA
+226091,Lamar University,25th,480,470
+226091,Lamar University,75th,570,550
+226152,Texas A & M International University,25th,470,460
+226152,Texas A & M International University,75th,560,540
+226231,LeTourneau University,25th,550,540
+226231,LeTourneau University,75th,650,670
+226383,Lubbock Christian University,25th,480,475
+226383,Lubbock Christian University,75th,620,590
+226471,University of Mary Hardin-Baylor,25th,520,510
+226471,University of Mary Hardin-Baylor,75th,610,590
+226587,McMurry University,25th,480,470
+226587,McMurry University,75th,580,570
+226833,Midwestern State University,25th,480,460
+226833,Midwestern State University,75th,580,520
+227216,University of North Texas,25th,540,520
+227216,University of North Texas,75th,640,620
+227331,Our Lady of the Lake University,25th,460,450
+227331,Our Lady of the Lake University,75th,550,530
+227368,The University of Texas Rio Grande Valley,25th,480,470
+227368,The University of Texas Rio Grande Valley,75th,570,550
+227429,Paul Quinn College,25th,362,350
+227429,Paul Quinn College,75th,472,456
+227526,Prairie View A & M University,25th,450,440
+227526,Prairie View A & M University,75th,530,520
+227757,Rice University,25th,700,750
+227757,Rice University,75th,760,800
+227845,Saint Edward's University,25th,550,530
+227845,Saint Edward's University,75th,650,620
+227863,University of St Thomas,25th,540,520
+227863,University of St Thomas,75th,630,620
+227881,Sam Houston State University,25th,500,500
+227881,Sam Houston State University,75th,580,560
+228042,Schreiner University,25th,480,480
+228042,Schreiner University,75th,570,560
+228149,St. Mary's University,25th,530,520
+228149,St. Mary's University,75th,630,620
+228246,Southern Methodist University,25th,630,650
+228246,Southern Methodist University,75th,710,750
+228325,Southwestern Assemblies of God University,25th,480,470
+228325,Southwestern Assemblies of God University,75th,580,550
+228343,Southwestern University,25th,580,550
+228343,Southwestern University,75th,680,650
+228431,Stephen F Austin State University,25th,500,490
+228431,Stephen F Austin State University,75th,600,580
+228459,Texas State University,25th,510,500
+228459,Texas State University,75th,600,580
+228468,Southwestern Adventist University,25th,470,440
+228468,Southwestern Adventist University,75th,570,540
+228501,Sul Ross State University,25th,NA,NA
+228501,Sul Ross State University,75th,NA,NA
+228529,Tarleton State University,25th,480,480
+228529,Tarleton State University,75th,580,560
+228705,Texas A & M University-Kingsville,25th,470,470
+228705,Texas A & M University-Kingsville,75th,570,560
+228723,Texas A & M University-College Station,25th,580,590
+228723,Texas A & M University-College Station,75th,680,700
+228769,The University of Texas at Arlington,25th,530,530
+228769,The University of Texas at Arlington,75th,630,630
+228778,The University of Texas at Austin,25th,620,610
+228778,The University of Texas at Austin,75th,720,760
+228787,The University of Texas at Dallas,25th,600,620
+228787,The University of Texas at Dallas,75th,700,740
+228796,The University of Texas at El Paso,25th,470,470
+228796,The University of Texas at El Paso,75th,570,560
+228802,The University of Texas at Tyler,25th,550,530
+228802,The University of Texas at Tyler,75th,640,640
+228875,Texas Christian University,25th,580,570
+228875,Texas Christian University,75th,660,683
+228981,Texas Lutheran University,25th,490,500
+228981,Texas Lutheran University,75th,580,580
+229018,The University of Texas of the Permian Basin,25th,490,480
+229018,The University of Texas of the Permian Basin,75th,570,560
+229027,The University of Texas at San Antonio,25th,520,520
+229027,The University of Texas at San Antonio,75th,620,600
+229063,Texas Southern University,25th,420,410
+229063,Texas Southern University,75th,500,490
+229115,Texas Tech University,25th,540,530
+229115,Texas Tech University,75th,620,620
+229160,Texas Wesleyan University,25th,460,470
+229160,Texas Wesleyan University,75th,550,550
+229179,Texas Woman's University,25th,490,480
+229179,Texas Woman's University,75th,590,570
+229267,Trinity University,25th,630,630
+229267,Trinity University,75th,710,720
+229780,Wayland Baptist University,25th,440,450
+229780,Wayland Baptist University,75th,540,550
+229814,West Texas A & M University,25th,490,480
+229814,West Texas A & M University,75th,590,580
+229957,AmeriTech College-Provo,25th,NA,NA
+229957,AmeriTech College-Provo,75th,NA,NA
+230038,Brigham Young University-Provo,25th,600,590
+230038,Brigham Young University-Provo,75th,710,710
+230047,Brigham Young University-Hawaii,25th,553,530
+230047,Brigham Young University-Hawaii,75th,640,610
+230603,Southern Utah University,25th,510,500
+230603,Southern Utah University,75th,640,610
+230728,Utah State University,25th,530,520
+230728,Utah State University,75th,650,640
+230764,University of Utah,25th,570,560
+230764,University of Utah,75th,670,680
+230807,Westminster College,25th,540,540
+230807,Westminster College,75th,638,620
+230816,Bennington College,25th,NA,NA
+230816,Bennington College,75th,NA,NA
+230834,Castleton University,25th,470,450
+230834,Castleton University,75th,560,550
+230852,Champlain College,25th,560,530
+230852,Champlain College,75th,650,630
+230889,Goddard College,25th,NA,NA
+230889,Goddard College,75th,NA,NA
+230898,Green Mountain College,25th,520,470
+230898,Green Mountain College,75th,610,570
+230913,Northern Vermont University,25th,NA,NA
+230913,Northern Vermont University,75th,NA,NA
+230940,Marlboro College,25th,NA,NA
+230940,Marlboro College,75th,NA,NA
+230959,Middlebury College,25th,660,670
+230959,Middlebury College,75th,730,770
+230995,Norwich University,25th,NA,NA
+230995,Norwich University,75th,NA,NA
+231059,Saint Michael's College,25th,NA,NA
+231059,Saint Michael's College,75th,NA,NA
+231077,College of St Joseph,25th,NA,NA
+231077,College of St Joseph,75th,NA,NA
+231086,Southern Vermont College,25th,NA,NA
+231086,Southern Vermont College,75th,NA,NA
+231095,Sterling College,25th,NA,NA
+231095,Sterling College,75th,NA,NA
+231165,Vermont Technical College,25th,NA,NA
+231165,Vermont Technical College,75th,NA,NA
+231174,University of Vermont,25th,600,580
+231174,University of Vermont,75th,680,680
+231411,Advanced Technology Institute,25th,NA,NA
+231411,Advanced Technology Institute,75th,NA,NA
+231420,Averett University,25th,440,450
+231420,Averett University,75th,490,490
+231554,Bluefield College,25th,450,448
+231554,Bluefield College,75th,533,530
+231581,Bridgewater College,25th,490,490
+231581,Bridgewater College,75th,600,570
+231624,College of William and Mary,25th,660,650
+231624,College of William and Mary,75th,730,760
+231651,Regent University,25th,498,460
+231651,Regent University,75th,578,535
+231712,Christopher Newport University,25th,570,540
+231712,Christopher Newport University,75th,650,630
+231837,Jefferson College of Health Sciences,25th,485,445
+231837,Jefferson College of Health Sciences,75th,580,535
+232025,Emory & Henry College,25th,500,480
+232025,Emory & Henry College,75th,600,560
+232043,Eastern Mennonite University,25th,500,500
+232043,Eastern Mennonite University,75th,630,600
+232089,Ferrum College,25th,440,430
+232089,Ferrum College,75th,533,520
+232186,George Mason University,25th,570,550
+232186,George Mason University,75th,660,660
+232256,Hampden-Sydney College,25th,530,520
+232256,Hampden-Sydney College,75th,630,620
+232265,Hampton University,25th,NA,NA
+232265,Hampton University,75th,NA,NA
+232308,Hollins University,25th,560,510
+232308,Hollins University,75th,660,620
+232423,James Madison University,25th,570,550
+232423,James Madison University,75th,650,640
+232557,Liberty University,25th,490,480
+232557,Liberty University,75th,600,600
+232566,Longwood University,25th,500,480
+232566,Longwood University,75th,590,560
+232672,Mary Baldwin University,25th,490,460
+232672,Mary Baldwin University,75th,590,540
+232681,University of Mary Washington,25th,540,510
+232681,University of Mary Washington,75th,649,620
+232706,Marymount University,25th,480,470
+232706,Marymount University,75th,600,580
+232937,Norfolk State University,25th,440,420
+232937,Norfolk State University,75th,520,510
+232982,Old Dominion University,25th,500,490
+232982,Old Dominion University,75th,610,590
+233082,Southside Regional Medical Center Professional Schools,25th,NA,NA
+233082,Southside Regional Medical Center Professional Schools,75th,NA,NA
+233277,Radford University,25th,NA,NA
+233277,Radford University,75th,NA,NA
+233295,Randolph-Macon College,25th,520,500
+233295,Randolph-Macon College,75th,630,610
+233301,Randolph College,25th,480,480
+233301,Randolph College,75th,620,570
+233338,Richard Bland College,25th,NA,NA
+233338,Richard Bland College,75th,NA,NA
+233374,University of Richmond,25th,640,650
+233374,University of Richmond,75th,710,750
+233408,Riverside College of Health Careers,25th,NA,NA
+233408,Riverside College of Health Careers,75th,NA,NA
+233426,Roanoke College,25th,530,510
+233426,Roanoke College,75th,630,600
+233541,Shenandoah University,25th,500,480
+233541,Shenandoah University,75th,600,590
+233611,Southern Virginia University,25th,480,480
+233611,Southern Virginia University,75th,627,610
+233718,Sweet Briar College,25th,520,470
+233718,Sweet Briar College,75th,630,580
+233897,The University of Virginia's College at Wise,25th,490,460
+233897,The University of Virginia's College at Wise,75th,580,550
+233921,Virginia Polytechnic Institute and State University,25th,590,590
+233921,Virginia Polytechnic Institute and State University,75th,680,710
+234030,Virginia Commonwealth University,25th,550,520
+234030,Virginia Commonwealth University,75th,640,620
+234076,University of Virginia-Main Campus,25th,660,670
+234076,University of Virginia-Main Campus,75th,730,770
+234085,Virginia Military Institute,25th,560,540
+234085,Virginia Military Institute,75th,660,650
+234155,Virginia State University,25th,430,410
+234155,Virginia State University,75th,510,500
+234164,Virginia Union University,25th,402,380
+234164,Virginia Union University,75th,490,480
+234173,Virginia Wesleyan University,25th,500,480
+234173,Virginia Wesleyan University,75th,610,570
+234207,Washington and Lee University,25th,670,678
+234207,Washington and Lee University,75th,730,760
+234827,Central Washington University,25th,480,480
+234827,Central Washington University,75th,570,590
+235024,Cornish College of the Arts,25th,NA,NA
+235024,Cornish College of the Arts,75th,NA,NA
+235097,Eastern Washington University,25th,440,430
+235097,Eastern Washington University,75th,550,530
+235158,Paroba College of Cosmetology,25th,NA,NA
+235158,Paroba College of Cosmetology,75th,NA,NA
+235167,The Evergreen State College,25th,NA,NA
+235167,The Evergreen State College,75th,NA,NA
+235316,Gonzaga University,25th,600,590
+235316,Gonzaga University,75th,670,680
+236133,Northwest University,25th,520,510
+236133,Northwest University,75th,630,595
+236230,Pacific Lutheran University,25th,540,530
+236230,Pacific Lutheran University,75th,640,630
+236328,University of Puget Sound,25th,NA,NA
+236328,University of Puget Sound,75th,NA,NA
+236452,Saint Martin's University,25th,510,510
+236452,Saint Martin's University,75th,620,600
+236577,Seattle Pacific University,25th,520,510
+236577,Seattle Pacific University,75th,630,610
+236595,Seattle University,25th,570,560
+236595,Seattle University,75th,660,660
+236896,Walla Walla University,25th,460,460
+236896,Walla Walla University,75th,600,610
+236939,Washington State University,25th,510,510
+236939,Washington State University,75th,610,600
+236948,University of Washington-Seattle Campus,25th,600,620
+236948,University of Washington-Seattle Campus,75th,700,760
+237011,Western Washington University,25th,550,530
+237011,Western Washington University,75th,650,630
+237057,Whitman College,25th,610,620
+237057,Whitman College,75th,710,740
+237066,Whitworth University,25th,550,540
+237066,Whitworth University,75th,650,640
+237118,Alderson Broaddus University,25th,460,460
+237118,Alderson Broaddus University,75th,550,550
+237136,Appalachian Bible College,25th,480,430
+237136,Appalachian Bible College,75th,595,535
+237145,B M Spurr School of Practical Nursing,25th,NA,NA
+237145,B M Spurr School of Practical Nursing,75th,NA,NA
+237181,Bethany College,25th,450,440
+237181,Bethany College,75th,570,560
+237215,Bluefield State College,25th,460,460
+237215,Bluefield State College,75th,550,570
+237312,University of Charleston,25th,463,443
+237312,University of Charleston,75th,568,575
+237330,Concord University,25th,460,460
+237330,Concord University,75th,570,550
+237358,Davis & Elkins College,25th,460,450
+237358,Davis & Elkins College,75th,540,540
+237367,Fairmont State University,25th,460,440
+237367,Fairmont State University,75th,560,530
+237525,Marshall University,25th,470,440
+237525,Marshall University,75th,580,550
+237561,Monongalia County Technical Education Center,25th,NA,NA
+237561,Monongalia County Technical Education Center,75th,NA,NA
+237640,Ohio Valley University,25th,480,480
+237640,Ohio Valley University,75th,585,590
+237792,Shepherd University,25th,490,480
+237792,Shepherd University,75th,590,570
+237899,West Virginia State University,25th,450,430
+237899,West Virginia State University,75th,530,510
+237932,West Liberty University,25th,470,350
+237932,West Liberty University,75th,620,680
+237950,West Virginia University Institute of Technology,25th,490,530
+237950,West Virginia University Institute of Technology,75th,590,600
+237969,West Virginia Wesleyan College,25th,485,490
+237969,West Virginia Wesleyan College,75th,600,580
+238032,West Virginia University,25th,530,520
+238032,West Virginia University,75th,620,620
+238078,Wheeling Jesuit University,25th,440,470
+238078,Wheeling Jesuit University,75th,570,560
+238096,Wood County School of Practical Nursing,25th,NA,NA
+238096,Wood County School of Practical Nursing,75th,NA,NA
+238193,Alverno College,25th,NA,NA
+238193,Alverno College,75th,NA,NA
+238324,Bellin College,25th,NA,NA
+238324,Bellin College,75th,NA,NA
+238333,Beloit College,25th,570,550
+238333,Beloit College,75th,670,690
+238430,Cardinal Stritch University,25th,426,446
+238430,Cardinal Stritch University,75th,508,515
+238458,Carroll University,25th,530,520
+238458,Carroll University,75th,620,610
+238476,Carthage College,25th,490,530
+238476,Carthage College,75th,630,620
+238616,Concordia University-Wisconsin,25th,NA,NA
+238616,Concordia University-Wisconsin,75th,NA,NA
+238661,Edgewood College,25th,490,480
+238661,Edgewood College,75th,630,590
+238980,Lakeland University,25th,440,430
+238980,Lakeland University,75th,540,540
+239017,Lawrence University,25th,610,600
+239017,Lawrence University,75th,710,740
+239071,Maranatha Baptist University,25th,553,490
+239071,Maranatha Baptist University,75th,630,588
+239080,Marian University,25th,440,460
+239080,Marian University,75th,550,540
+239105,Marquette University,25th,580,570
+239105,Marquette University,75th,660,660
+239309,Milwaukee Institute of Art & Design,25th,NA,NA
+239309,Milwaukee Institute of Art & Design,75th,NA,NA
+239318,Milwaukee School of Engineering,25th,578,610
+239318,Milwaukee School of Engineering,75th,670,700
+239390,Mount Mary University,25th,NA,NA
+239390,Mount Mary University,75th,NA,NA
+239512,Northland College,25th,NA,NA
+239512,Northland College,75th,NA,NA
+239628,Ripon College,25th,500,500
+239628,Ripon College,75th,610,600
+239716,Saint Norbert College,25th,520,510
+239716,Saint Norbert College,75th,620,590
+239743,Silver Lake College of the Holy Family,25th,440,360
+239743,Silver Lake College of the Holy Family,75th,580,630
+240107,Viterbo University,25th,520,520
+240107,Viterbo University,75th,660,740
+240189,University of Wisconsin-Whitewater,25th,NA,NA
+240189,University of Wisconsin-Whitewater,75th,NA,NA
+240268,University of Wisconsin-Eau Claire,25th,NA,NA
+240268,University of Wisconsin-Eau Claire,75th,NA,NA
+240277,University of Wisconsin-Green Bay,25th,NA,NA
+240277,University of Wisconsin-Green Bay,75th,NA,NA
+240329,University of Wisconsin-La Crosse,25th,NA,NA
+240329,University of Wisconsin-La Crosse,75th,NA,NA
+240338,Wisconsin Lutheran College,25th,503,513
+240338,Wisconsin Lutheran College,75th,600,598
+240365,University of Wisconsin-Oshkosh,25th,NA,NA
+240365,University of Wisconsin-Oshkosh,75th,NA,NA
+240374,University of Wisconsin-Parkside,25th,NA,NA
+240374,University of Wisconsin-Parkside,75th,NA,NA
+240392,Herzing University-Madison,25th,NA,NA
+240392,Herzing University-Madison,75th,NA,NA
+240417,University of Wisconsin-Stout,25th,NA,NA
+240417,University of Wisconsin-Stout,75th,NA,NA
+240426,University of Wisconsin-Superior,25th,NA,NA
+240426,University of Wisconsin-Superior,75th,NA,NA
+240444,University of Wisconsin-Madison,25th,630,650
+240444,University of Wisconsin-Madison,75th,700,750
+240453,University of Wisconsin-Milwaukee,25th,NA,NA
+240453,University of Wisconsin-Milwaukee,75th,NA,NA
+240462,University of Wisconsin-Platteville,25th,NA,NA
+240462,University of Wisconsin-Platteville,75th,NA,NA
+240471,University of Wisconsin-River Falls,25th,NA,NA
+240471,University of Wisconsin-River Falls,75th,NA,NA
+240480,University of Wisconsin-Stevens Point,25th,NA,NA
+240480,University of Wisconsin-Stevens Point,75th,NA,NA
+240727,University of Wyoming,25th,530,520
+240727,University of Wyoming,75th,640,640
+241191,Universidad Adventista de las Antillas,25th,NA,NA
+241191,Universidad Adventista de las Antillas,75th,NA,NA
+241225,Universidad Central de Bayamon,25th,NA,NA
+241225,Universidad Central de Bayamon,75th,NA,NA
+241331,Carlos Albizu University-San Juan,25th,NA,NA
+241331,Carlos Albizu University-San Juan,75th,NA,NA
+241395,Pontifical Catholic University of Puerto Rico-Arecibo,25th,NA,NA
+241395,Pontifical Catholic University of Puerto Rico-Arecibo,75th,NA,NA
+241410,Pontifical Catholic University of Puerto Rico-Ponce,25th,NA,NA
+241410,Pontifical Catholic University of Puerto Rico-Ponce,75th,NA,NA
+241720,Colegio Universitario de San Juan,25th,NA,NA
+241720,Colegio Universitario de San Juan,75th,NA,NA
+241766,Conservatory of Music of Puerto Rico,25th,NA,NA
+241766,Conservatory of Music of Puerto Rico,75th,NA,NA
+241836,EDP University of Puerto Rico Inc-San Sebastian,25th,NA,NA
+241836,EDP University of Puerto Rico Inc-San Sebastian,75th,NA,NA
+241951,Escuela de Artes Plasticas y Diseno de Puerto Rico,25th,NA,NA
+241951,Escuela de Artes Plasticas y Diseno de Puerto Rico,75th,NA,NA
+242042,Instituto Tecnologico de Puerto Rico-Recinto de Manati,25th,NA,NA
+242042,Instituto Tecnologico de Puerto Rico-Recinto de Manati,75th,NA,NA
+242556,Instituto Tecnologico de Puerto Rico-Recinto de Guayama,25th,NA,NA
+242556,Instituto Tecnologico de Puerto Rico-Recinto de Guayama,75th,NA,NA
+242565,Instituto Tecnologico de Puerto Rico-Recinto de Ponce,25th,NA,NA
+242565,Instituto Tecnologico de Puerto Rico-Recinto de Ponce,75th,NA,NA
+242583,Instituto Tecnologico de Puerto Rico-Recinto de San Juan,25th,NA,NA
+242583,Instituto Tecnologico de Puerto Rico-Recinto de San Juan,75th,NA,NA
+242617,Inter American University of Puerto Rico-San German,25th,NA,NA
+242617,Inter American University of Puerto Rico-San German,75th,NA,NA
+242626,Inter American University of Puerto Rico-Aguadilla,25th,NA,NA
+242626,Inter American University of Puerto Rico-Aguadilla,75th,NA,NA
+242635,Inter American University of Puerto Rico-Arecibo,25th,NA,NA
+242635,Inter American University of Puerto Rico-Arecibo,75th,NA,NA
+242644,Inter American University of Puerto Rico-Barranquitas,25th,NA,NA
+242644,Inter American University of Puerto Rico-Barranquitas,75th,NA,NA
+242653,Inter American University of Puerto Rico-Metro,25th,NA,NA
+242653,Inter American University of Puerto Rico-Metro,75th,NA,NA
+242662,Inter American University of Puerto Rico-Ponce,25th,NA,NA
+242662,Inter American University of Puerto Rico-Ponce,75th,NA,NA
+242680,Inter American University of Puerto Rico-Fajardo,25th,NA,NA
+242680,Inter American University of Puerto Rico-Fajardo,75th,NA,NA
+242699,Inter American University of Puerto Rico-Guayama,25th,NA,NA
+242699,Inter American University of Puerto Rico-Guayama,75th,NA,NA
+242705,Inter American University of Puerto Rico-Bayamon,25th,NA,NA
+242705,Inter American University of Puerto Rico-Bayamon,75th,NA,NA
+242945,Modern Hairstyling Institute-Bayamon,25th,NA,NA
+242945,Modern Hairstyling Institute-Bayamon,75th,NA,NA
+242954,Modern Hairstyling Institute-Arecibo,25th,NA,NA
+242954,Modern Hairstyling Institute-Arecibo,75th,NA,NA
+242972,National University College,25th,NA,NA
+242972,National University College,75th,NA,NA
+243081,Ponce Health Sciences University,25th,NA,NA
+243081,Ponce Health Sciences University,75th,NA,NA
+243106,University of Puerto Rico-Aguadilla,25th,424,447
+243106,University of Puerto Rico-Aguadilla,75th,545,558
+243115,University of Puerto Rico-Arecibo,25th,NA,NA
+243115,University of Puerto Rico-Arecibo,75th,NA,NA
+243133,University of Puerto Rico-Bayamon,25th,NA,NA
+243133,University of Puerto Rico-Bayamon,75th,NA,NA
+243142,University of Puerto Rico-Carolina,25th,464,439
+243142,University of Puerto Rico-Carolina,75th,573,541
+243151,University of Puerto Rico-Cayey,25th,510,488
+243151,University of Puerto Rico-Cayey,75th,610,605
+243179,University of Puerto Rico-Humacao,25th,NA,NA
+243179,University of Puerto Rico-Humacao,75th,NA,NA
+243188,University of Puerto Rico-Utuado,25th,NA,NA
+243188,University of Puerto Rico-Utuado,75th,NA,NA
+243197,University of Puerto Rico-Mayaguez,25th,NA,NA
+243197,University of Puerto Rico-Mayaguez,75th,NA,NA
+243212,University of Puerto Rico-Ponce,25th,NA,NA
+243212,University of Puerto Rico-Ponce,75th,NA,NA
+243221,University of Puerto Rico-Rio Piedras,25th,NA,NA
+243221,University of Puerto Rico-Rio Piedras,75th,NA,NA
+243443,Universidad del Sagrado Corazon,25th,NA,NA
+243443,Universidad del Sagrado Corazon,75th,NA,NA
+243568,Universidad Central Del Caribe,25th,NA,NA
+243568,Universidad Central Del Caribe,75th,NA,NA
+243586,Pontifical Catholic University of Puerto Rico-Mayaguez,25th,NA,NA
+243586,Pontifical Catholic University of Puerto Rico-Mayaguez,75th,NA,NA
+243638,College of Micronesia-FSM,25th,NA,NA
+243638,College of Micronesia-FSM,75th,NA,NA
+243665,University of the Virgin Islands,25th,NA,NA
+243665,University of the Virgin Islands,75th,NA,NA
+243744,Stanford University,25th,700,720
+243744,Stanford University,75th,770,800
+243780,Purdue University-Main Campus,25th,590,590
+243780,Purdue University-Main Campus,75th,680,730
+243799,Blue Hills Regional Technical School,25th,NA,NA
+243799,Blue Hills Regional Technical School,75th,NA,NA
+243832,EDP University of Puerto Rico Inc-San Juan,25th,NA,NA
+243832,EDP University of Puerto Rico Inc-San Juan,75th,NA,NA
+244437,Georgia State University-Perimeter College,25th,NA,NA
+244437,Georgia State University-Perimeter College,75th,NA,NA
+245652,St. John's College,25th,610,590
+245652,St. John's College,75th,720,700
+245777,Bais Medrash Elyon,25th,NA,NA
+245777,Bais Medrash Elyon,75th,NA,NA
+246035,Carrington College-Portland,25th,NA,NA
+246035,Carrington College-Portland,75th,NA,NA
+246974,Carrington College-San Leandro,25th,NA,NA
+246974,Carrington College-San Leandro,75th,NA,NA
+247649,Landmark College,25th,NA,NA
+247649,Landmark College,75th,NA,NA
+247773,Yeshiva Gedolah of Greater Detroit,25th,NA,NA
+247773,Yeshiva Gedolah of Greater Detroit,75th,NA,NA
+248606,Moore Norman Technology Center,25th,NA,NA
+248606,Moore Norman Technology Center,75th,NA,NA
+248846,FIDM-Fashion Institute of Design & Merchandising-San Diego,25th,NA,NA
+248846,FIDM-Fashion Institute of Design & Merchandising-San Diego,75th,NA,NA
+248934,ECPI University,25th,NA,NA
+248934,ECPI University,75th,NA,NA
+249566,TDDS Technical Institute,25th,NA,NA
+249566,TDDS Technical Institute,75th,NA,NA
+250027,Laurel Business Institute,25th,NA,NA
+250027,Laurel Business Institute,75th,NA,NA
+260336,Clinton Technical School,25th,NA,NA
+260336,Clinton Technical School,75th,NA,NA
+260363,Greene County Career and Technology Center,25th,NA,NA
+260363,Greene County Career and Technology Center,75th,NA,NA
+260813,Platt College-Aurora,25th,NA,NA
+260813,Platt College-Aurora,75th,NA,NA
+262086,Brandman University,25th,NA,NA
+262086,Brandman University,75th,NA,NA
+262129,New College of Florida,25th,630,590
+262129,New College of Florida,75th,720,700
+262466,Rolf Institute of Structural Integration,25th,NA,NA
+262466,Rolf Institute of Structural Integration,75th,NA,NA
+363934,University of Advancing Technology,25th,NA,NA
+363934,University of Advancing Technology,75th,NA,NA
+365213,Autry Technology Center,25th,NA,NA
+365213,Autry Technology Center,75th,NA,NA
+365383,Wilkes-Barre Area Career and Technical Center Practical Nursing,25th,NA,NA
+365383,Wilkes-Barre Area Career and Technical Center Practical Nursing,75th,NA,NA
+365763,Morris County Vocational School District,25th,NA,NA
+365763,Morris County Vocational School District,75th,NA,NA
+366711,California State University-San Marcos,25th,480,480
+366711,California State University-San Marcos,75th,580,560
+367884,Hodges University,25th,NA,NA
+367884,Hodges University,75th,NA,NA
+368407,Western Area Career & Technology Center,25th,NA,NA
+368407,Western Area Career & Technology Center,75th,NA,NA
+368452,Nossi College of Art,25th,NA,NA
+368452,Nossi College of Art,75th,NA,NA
+368647,Mineral County Vocational Technical Center,25th,NA,NA
+368647,Mineral County Vocational Technical Center,75th,NA,NA
+373711,Upper Cape Cod Regional Technical School,25th,NA,NA
+373711,Upper Cape Cod Regional Technical School,75th,NA,NA
+375966,Eastern Center for Arts and Technology,25th,NA,NA
+375966,Eastern Center for Arts and Technology,75th,NA,NA
+376321,EDIC College,25th,NA,NA
+376321,EDIC College,75th,NA,NA
+377218,School of Automotive Machinists & Technology,25th,NA,NA
+377218,School of Automotive Machinists & Technology,75th,NA,NA
+377555,University of Washington-Bothell Campus,25th,510,520
+377555,University of Washington-Bothell Campus,75th,610,640
+377564,University of Washington-Tacoma Campus,25th,490,490
+377564,University of Washington-Tacoma Campus,75th,600,590
+378105,Central Coast College,25th,NA,NA
+378105,Central Coast College,75th,NA,NA
+379621,Madison Oneida BOCES-Practical Nursing Program,25th,NA,NA
+379621,Madison Oneida BOCES-Practical Nursing Program,75th,NA,NA
+382416,Greater Lowell Technical School,25th,NA,NA
+382416,Greater Lowell Technical School,75th,NA,NA
+383525,Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,25th,NA,NA
+383525,Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,75th,NA,NA
+384254,Beacon College,25th,NA,NA
+384254,Beacon College,75th,NA,NA
+384421,Rabbi Jacob Joseph School,25th,NA,NA
+384421,Rabbi Jacob Joseph School,75th,NA,NA
+385619,Everglades University,25th,NA,NA
+385619,Everglades University,75th,NA,NA
+386153,Seminar L'moros Bais Yaakov,25th,NA,NA
+386153,Seminar L'moros Bais Yaakov,75th,NA,NA
+386472,Herzing University-Winter Park,25th,NA,NA
+386472,Herzing University-Winter Park,75th,NA,NA
+392840,Watkins College of Art Design & Film,25th,390,410
+392840,Watkins College of Art Design & Film,75th,560,540
+398130,Mt Sierra College,25th,NA,NA
+398130,Mt Sierra College,75th,NA,NA
+399869,Southern California Institute of Technology,25th,NA,NA
+399869,Southern California Institute of Technology,75th,NA,NA
+399911,Soka University of America,25th,570,610
+399911,Soka University of America,75th,670,740
+405058,Yeshivas Novominsk,25th,NA,NA
+405058,Yeshivas Novominsk,75th,NA,NA
+406422,Central Susquehanna Intermediate Unit LPN Career,25th,NA,NA
+406422,Central Susquehanna Intermediate Unit LPN Career,75th,NA,NA
+407009,Arizona State University-West,25th,530,520
+407009,Arizona State University-West,75th,620,630
+408729,Laurel Technical Institute,25th,NA,NA
+408729,Laurel Technical Institute,75th,NA,NA
+409698,California State University-Monterey Bay,25th,480,480
+409698,California State University-Monterey Bay,75th,590,570
+414124,Motoring Technical Training Institute,25th,NA,NA
+414124,Motoring Technical Training Institute,75th,NA,NA
+414823,Johnson & Wales University-North Miami,25th,NA,NA
+414823,Johnson & Wales University-North Miami,75th,NA,NA
+414878,Trine University-Regional/Non-Traditional Campuses,25th,NA,NA
+414878,Trine University-Regional/Non-Traditional Campuses,75th,NA,NA
+417442,Career Center of Southern Illinois,25th,NA,NA
+417442,Career Center of Southern Illinois,75th,NA,NA
+417628,Kirksville Area Technical Center,25th,NA,NA
+417628,Kirksville Area Technical Center,75th,NA,NA
+417646,Saline County Career Center,25th,NA,NA
+417646,Saline County Career Center,75th,NA,NA
+417655,Warrensburg Area Career Center,25th,NA,NA
+417655,Warrensburg Area Career Center,75th,NA,NA
+417673,Nevada Regional Technical Center,25th,NA,NA
+417673,Nevada Regional Technical Center,75th,NA,NA
+417682,Cass Career Center,25th,NA,NA
+417682,Cass Career Center,75th,NA,NA
+417716,Applied Technology Services,25th,NA,NA
+417716,Applied Technology Services,75th,NA,NA
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,25th,NA,NA
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,75th,NA,NA
+417752,Messenger College,25th,NA,NA
+417752,Messenger College,75th,NA,NA
+417868,Clinton Essex Warren Washington BOCES,25th,NA,NA
+417868,Clinton Essex Warren Washington BOCES,75th,NA,NA
+417910,Veeb Nassau County School of Practical Nursing,25th,NA,NA
+417910,Veeb Nassau County School of Practical Nursing,75th,NA,NA
+417992,Orange Ulster BOCES-Practical Nursing Program,25th,NA,NA
+417992,Orange Ulster BOCES-Practical Nursing Program,75th,NA,NA
+418010,Broome Delaware Tioga BOCES-Practical Nursing Program,25th,NA,NA
+418010,Broome Delaware Tioga BOCES-Practical Nursing Program,75th,NA,NA
+418029,Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program,25th,NA,NA
+418029,Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program,75th,NA,NA
+418056,Ulster BOCES School of Practical Nursing,25th,NA,NA
+418056,Ulster BOCES School of Practical Nursing,75th,NA,NA
+418065,Eastern Suffolk BOCES,25th,NA,NA
+418065,Eastern Suffolk BOCES,75th,NA,NA
+418427,Chester County Intermediate Unit,25th,NA,NA
+418427,Chester County Intermediate Unit,75th,NA,NA
+418445,Jefferson County Dubois Area Vocational Technical Practical Nursing Program,25th,NA,NA
+418445,Jefferson County Dubois Area Vocational Technical Practical Nursing Program,75th,NA,NA
+418481,Mifflin County Academy of Science and Technology,25th,NA,NA
+418481,Mifflin County Academy of Science and Technology,75th,NA,NA
+418588,Northern Tier Career Center,25th,NA,NA
+418588,Northern Tier Career Center,75th,NA,NA
+418603,Clarion County Career Center Practical Nursing Program,25th,NA,NA
+418603,Clarion County Career Center Practical Nursing Program,75th,NA,NA
+419031,United Technical Center,25th,NA,NA
+419031,United Technical Center,75th,NA,NA
+419217,Mercy Hospital School of Practical Nursing-Plantation General Hospital,25th,NA,NA
+419217,Mercy Hospital School of Practical Nursing-Plantation General Hospital,75th,NA,NA
+420325,Yeshiva D'monsey Rabbinical College,25th,NA,NA
+420325,Yeshiva D'monsey Rabbinical College,75th,NA,NA
+420574,Arizona State University-Polytechnic,25th,540,560
+420574,Arizona State University-Polytechnic,75th,650,660
+421832,Living Arts College,25th,NA,NA
+421832,Living Arts College,75th,NA,NA
+421841,New York Conservatory for Dramatic Arts,25th,NA,NA
+421841,New York Conservatory for Dramatic Arts,75th,NA,NA
+422695,Pacific College,25th,NA,NA
+422695,Pacific College,75th,NA,NA
+426314,Embry-Riddle Aeronautical University-Worldwide,25th,NA,NA
+426314,Embry-Riddle Aeronautical University-Worldwide,75th,NA,NA
+427308,Merkaz Bnos-Business School,25th,NA,NA
+427308,Merkaz Bnos-Business School,75th,NA,NA
+428019,Green Country Technology Center,25th,NA,NA
+428019,Green Country Technology Center,75th,NA,NA
+430485,The Creative Center,25th,NA,NA
+430485,The Creative Center,75th,NA,NA
+430670,San Juan Bautista School of Medicine,25th,NA,NA
+430670,San Juan Bautista School of Medicine,75th,NA,NA
+430810,New Hampshire Institute of Art,25th,NA,NA
+430810,New Hampshire Institute of Art,75th,NA,NA
+430883,Cayuga Onondaga BOCES-Practical Nursing Program,25th,NA,NA
+430883,Cayuga Onondaga BOCES-Practical Nursing Program,75th,NA,NA
+430971,Delaware County Technical School-Practical Nursing Program,25th,NA,NA
+430971,Delaware County Technical School-Practical Nursing Program,75th,NA,NA
+431105,Dutchess BOCES-Practical Nursing Program,25th,NA,NA
+431105,Dutchess BOCES-Practical Nursing Program,75th,NA,NA
+431266,Henrico County-Saint Marys Hospital School of Practical Nursing,25th,NA,NA
+431266,Henrico County-Saint Marys Hospital School of Practical Nursing,75th,NA,NA
+431600,Mercy Hospital School of Nursing,25th,NA,NA
+431600,Mercy Hospital School of Nursing,75th,NA,NA
+431983,Yeshiva of the Telshe Alumni,25th,NA,NA
+431983,Yeshiva of the Telshe Alumni,75th,NA,NA
+432524,Delaware College of Art and Design,25th,NA,NA
+432524,Delaware College of Art and Design,75th,NA,NA
+433040,Monty Tech,25th,NA,NA
+433040,Monty Tech,75th,NA,NA
+433174,Carolinas College of Health Sciences,25th,470,463
+433174,Carolinas College of Health Sciences,75th,550,540
+433536,Herzing University-Kenner,25th,NA,NA
+433536,Herzing University-Kenner,75th,NA,NA
+433660,Florida Gulf Coast University,25th,540,520
+433660,Florida Gulf Coast University,75th,620,590
+434362,Northwest HVAC/R Training Center,25th,NA,NA
+434362,Northwest HVAC/R Training Center,75th,NA,NA
+436818,University of Connecticut-Waterbury Campus,25th,510,480
+436818,University of Connecticut-Waterbury Campus,75th,600,600
+436827,University of Connecticut-Avery Point,25th,520,500
+436827,University of Connecticut-Avery Point,75th,610,600
+436836,University of Connecticut-Stamford,25th,500,490
+436836,University of Connecticut-Stamford,75th,610,600
+437237,IYRS School of Technology & Trades,25th,NA,NA
+437237,IYRS School of Technology & Trades,75th,NA,NA
+437705,Monteclaro Escuela de Hoteleria y Artes Culinarias,25th,NA,NA
+437705,Monteclaro Escuela de Hoteleria y Artes Culinarias,75th,NA,NA
+437732,Dallas Nursing Institute,25th,NA,NA
+437732,Dallas Nursing Institute,75th,NA,NA
+437936,Carrington College-San Jose,25th,NA,NA
+437936,Carrington College-San Jose,75th,NA,NA
+438258,Carrington College-Pleasant Hill,25th,NA,NA
+438258,Carrington College-Pleasant Hill,75th,NA,NA
+438337,Modern Hairstyling Institute-Carolina,25th,NA,NA
+438337,Modern Hairstyling Institute-Carolina,75th,NA,NA
+439118,Carrington College-Spokane,25th,NA,NA
+439118,Carrington College-Spokane,75th,NA,NA
+439288,Johnson & Wales University-Denver,25th,NA,NA
+439288,Johnson & Wales University-Denver,75th,NA,NA
+439455,MDT College of Health Sciences,25th,NA,NA
+439455,MDT College of Health Sciences,75th,NA,NA
+439622,Erie 1 BOCES,25th,NA,NA
+439622,Erie 1 BOCES,75th,NA,NA
+439701,The King's University,25th,450,440
+439701,The King's University,75th,560,530
+439862,Pacific Islands University,25th,NA,NA
+439862,Pacific Islands University,75th,NA,NA
+440396,New Saint Andrews College,25th,590,550
+440396,New Saint Andrews College,75th,710,660
+440828,Oregon State University-Cascades Campus,25th,505,520
+440828,Oregon State University-Cascades Campus,75th,640,615
+441487,Texas County Technical College,25th,NA,NA
+441487,Texas County Technical College,75th,NA,NA
+441593,Orleans Niagara BOCES-Practical Nursing Program,25th,NA,NA
+441593,Orleans Niagara BOCES-Practical Nursing Program,75th,NA,NA
+441609,Yeshiva Shaarei Torah of Rockland,25th,NA,NA
+441609,Yeshiva Shaarei Torah of Rockland,75th,NA,NA
+441636,American Institute of Alternative Medicine,25th,NA,NA
+441636,American Institute of Alternative Medicine,75th,NA,NA
+441742,Concorde Career College-Grand Prairie,25th,NA,NA
+441742,Concorde Career College-Grand Prairie,75th,NA,NA
+441858,Eastern Virginia Career College,25th,NA,NA
+441858,Eastern Virginia Career College,75th,NA,NA
+441900,Nevada State College,25th,NA,NA
+441900,Nevada State College,75th,NA,NA
+441937,California State University-Channel Islands,25th,NA,NA
+441937,California State University-Channel Islands,75th,NA,NA
+441982,Franklin W Olin College of Engineering,25th,710,750
+441982,Franklin W Olin College of Engineering,75th,760,790
+442213,Birthwise Midwifery School,25th,NA,NA
+442213,Birthwise Midwifery School,75th,NA,NA
+442356,Pennsylvania College of Health Sciences,25th,NA,NA
+442356,Pennsylvania College of Health Sciences,75th,NA,NA
+442426,St Louis College of Health Careers-Fenton,25th,NA,NA
+442426,St Louis College of Health Careers-Fenton,75th,NA,NA
+442602,Carrington College-Albuquerque,25th,NA,NA
+442602,Carrington College-Albuquerque,75th,NA,NA
+442897,Ottawa University-Jeffersonville,25th,NA,NA
+442897,Ottawa University-Jeffersonville,75th,NA,NA
+443058,Family of Faith Christian University,25th,NA,NA
+443058,Family of Faith Christian University,75th,NA,NA
+443331,West Coast University-Los Angeles,25th,NA,NA
+443331,West Coast University-Los Angeles,75th,NA,NA
+443410,DigiPen Institute of Technology,25th,590,560
+443410,DigiPen Institute of Technology,75th,695,700
+443599,American College of Healthcare Sciences,25th,NA,NA
+443599,American College of Healthcare Sciences,75th,NA,NA
+444413,Beis Medrash Heichal Dovid,25th,NA,NA
+444413,Beis Medrash Heichal Dovid,75th,NA,NA
+444440,Blue Cliff Career College,25th,NA,NA
+444440,Blue Cliff Career College,75th,NA,NA
+444644,Health Works Institute,25th,NA,NA
+444644,Health Works Institute,75th,NA,NA
+445188,University of California-Merced,25th,510,510
+445188,University of California-Merced,75th,600,590
+445267,Central Methodist University-College of Graduate and Extended Studies,25th,NA,NA
+445267,Central Methodist University-College of Graduate and Extended Studies,75th,NA,NA
+445692,Neumont College of Computer Science,25th,NA,NA
+445692,Neumont College of Computer Science,75th,NA,NA
+445708,Johnson & Wales University-Charlotte,25th,NA,NA
+445708,Johnson & Wales University-Charlotte,75th,NA,NA
+446048,Ave Maria University,25th,540,510
+446048,Ave Maria University,75th,640,620
+446233,Ecclesia College,25th,NA,NA
+446233,Ecclesia College,75th,NA,NA
+446303,Healthcare Training Institute,25th,NA,NA
+446303,Healthcare Training Institute,75th,NA,NA
+446561,Stanbridge University,25th,NA,NA
+446561,Stanbridge University,75th,NA,NA
+447263,AmeriTech College-Draper,25th,NA,NA
+447263,AmeriTech College-Draper,75th,NA,NA
+447953,SUM Bible College and Theological Seminary,25th,NA,NA
+447953,SUM Bible College and Theological Seminary,75th,NA,NA
+448309,Shorter University-College of Adult & Professional Programs,25th,NA,NA
+448309,Shorter University-College of Adult & Professional Programs,75th,NA,NA
+448840,University of South Florida-St Petersburg,25th,570,530
+448840,University of South Florida-St Petersburg,75th,650,600
+448886,Arizona State University-Downtown Phoenix,25th,550,530
+448886,Arizona State University-Downtown Phoenix,75th,640,630
+449384,Gnomon,25th,NA,NA
+449384,Gnomon,75th,NA,NA
+449506,SABER College,25th,NA,NA
+449506,SABER College,75th,NA,NA
+449612,Louisiana Culinary Institute,25th,NA,NA
+449612,Louisiana Culinary Institute,75th,NA,NA
+449658,Bais Medrash Toras Chesed,25th,NA,NA
+449658,Bais Medrash Toras Chesed,75th,NA,NA
+449667,Center for Natural Wellness School of Massage Therapy,25th,NA,NA
+449667,Center for Natural Wellness School of Massage Therapy,75th,NA,NA
+449764,Visible Music College,25th,520,520
+449764,Visible Music College,75th,640,630
+449834,Virginia Beach Theological Seminary,25th,NA,NA
+449834,Virginia Beach Theological Seminary,75th,NA,NA
+449861,Milwaukee Career College,25th,NA,NA
+449861,Milwaukee Career College,75th,NA,NA
+449931,Averett University-Non-Traditional Programs,25th,NA,NA
+449931,Averett University-Non-Traditional Programs,75th,NA,NA
+450979,Trident University International,25th,NA,NA
+450979,Trident University International,75th,NA,NA
+451370,Yeshivas Be'er Yitzchok,25th,NA,NA
+451370,Yeshivas Be'er Yitzchok,75th,NA,NA
+451398,Yeshiva Toras Chaim,25th,NA,NA
+451398,Yeshiva Toras Chaim,75th,NA,NA
+451404,Talmudical Seminary of Bobov,25th,NA,NA
+451404,Talmudical Seminary of Bobov,75th,NA,NA
+451671,University of South Florida-Sarasota-Manatee,25th,583,553
+451671,University of South Florida-Sarasota-Manatee,75th,640,648
+454184,The King's College,25th,590,530
+454184,The King's College,75th,670,640
+454227,Chamberlain University-Illinois,25th,NA,NA
+454227,Chamberlain University-Illinois,75th,NA,NA
+454236,Chamberlain University-Ohio,25th,NA,NA
+454236,Chamberlain University-Ohio,75th,NA,NA
+454245,Chamberlain University-Arizona,25th,NA,NA
+454245,Chamberlain University-Arizona,75th,NA,NA
+454582,Ottawa University-Online,25th,NA,NA
+454582,Ottawa University-Online,75th,NA,NA
+455196,Jersey College,25th,NA,NA
+455196,Jersey College,75th,NA,NA
+455211,Casal Institute of Nevada,25th,NA,NA
+455211,Casal Institute of Nevada,75th,NA,NA
+455257,Yeshiva of Machzikai Hadas,25th,NA,NA
+455257,Yeshiva of Machzikai Hadas,75th,NA,NA
+455664,The Chicago School of Professional Psychology at Los Angeles,25th,NA,NA
+455664,The Chicago School of Professional Psychology at Los Angeles,75th,NA,NA
+455770,Providence Christian College,25th,NA,NA
+455770,Providence Christian College,75th,NA,NA
+456959,University of Minnesota-Rochester,25th,510,518
+456959,University of Minnesota-Rochester,75th,550,595
+457022,Herzing University-Toledo,25th,NA,NA
+457022,Herzing University-Toledo,75th,NA,NA
+457101,Carrington College-Las Vegas,25th,NA,NA
+457101,Carrington College-Las Vegas,75th,NA,NA
+457110,Carrington College-Reno,25th,NA,NA
+457110,Carrington College-Reno,75th,NA,NA
+457129,Chamberlain University-Florida,25th,NA,NA
+457129,Chamberlain University-Florida,75th,NA,NA
+457244,San Diego Culinary Institute,25th,NA,NA
+457244,San Diego Culinary Institute,75th,NA,NA
+457484,Pacific Rim Christian University,25th,NA,NA
+457484,Pacific Rim Christian University,75th,NA,NA
+457925,Portland Actors Conservatory,25th,NA,NA
+457925,Portland Actors Conservatory,75th,NA,NA
+458210,West Coast University-Orange County,25th,NA,NA
+458210,West Coast University-Orange County,75th,NA,NA
+458229,West Coast University-Ontario,25th,NA,NA
+458229,West Coast University-Ontario,75th,NA,NA
+459417,Compass College of Cinematic Arts,25th,NA,NA
+459417,Compass College of Cinematic Arts,75th,NA,NA
+459842,Herzing University-Kenosha,25th,NA,NA
+459842,Herzing University-Kenosha,75th,NA,NA
+459851,Herzing University-Brookfield,25th,NA,NA
+459851,Herzing University-Brookfield,75th,NA,NA
+459949,Texas A&M University-San Antonio,25th,470,460
+459949,Texas A&M University-San Antonio,75th,550,530
+460181,Concorde Career College-Dallas,25th,NA,NA
+460181,Concorde Career College-Dallas,75th,NA,NA
+460190,Concorde Career Institute-Orlando,25th,NA,NA
+460190,Concorde Career Institute-Orlando,75th,NA,NA
+460206,Concorde Career College-San Antonio,25th,NA,NA
+460206,Concorde Career College-San Antonio,75th,NA,NA
+460349,Johnson & Wales University-Online,25th,NA,NA
+460349,Johnson & Wales University-Online,75th,NA,NA
+460376,Virginia International University,25th,NA,NA
+460376,Virginia International University,75th,NA,NA
+460385,Geisinger-Lewistown Hospital School of Nursing,25th,NA,NA
+460385,Geisinger-Lewistown Hospital School of Nursing,75th,NA,NA
+460747,Flashpoint Chicago A Campus of Columbia College Hollywood,25th,NA,NA
+460747,Flashpoint Chicago A Campus of Columbia College Hollywood,75th,NA,NA
+460871,Chamberlain University-Virginia,25th,NA,NA
+460871,Chamberlain University-Virginia,75th,NA,NA
+461254,Galaxy Medical College,25th,NA,NA
+461254,Galaxy Medical College,75th,NA,NA
+461333,Mauna Loa Helicopters,25th,NA,NA
+461333,Mauna Loa Helicopters,75th,NA,NA
+461528,Grace College of Divinity,25th,NA,NA
+461528,Grace College of Divinity,75th,NA,NA
+461953,Colorado Academy of Veterinary Technology,25th,NA,NA
+461953,Colorado Academy of Veterinary Technology,75th,NA,NA
+462354,John Paul the Great Catholic University,25th,490,470
+462354,John Paul the Great Catholic University,75th,640,600
+463056,University of Connecticut-Hartford Campus,25th,520,500
+463056,University of Connecticut-Hartford Campus,75th,610,600
+464226,Ottawa University-Surprise,25th,480,460
+464226,Ottawa University-Surprise,75th,530,510
+466921,Chamberlain University-Missouri,25th,NA,NA
+466921,Chamberlain University-Missouri,75th,NA,NA
+466930,Chamberlain University-Texas,25th,NA,NA
+466930,Chamberlain University-Texas,75th,NA,NA
+475200,Whitworth University-Adult Degree Programs,25th,NA,NA
+475200,Whitworth University-Adult Degree Programs,75th,NA,NA
+475422,Finger Lakes Health College of Nursing,25th,430,510
+475422,Finger Lakes Health College of Nursing,75th,460,530
+475608,Criswell College,25th,478,410
+475608,Criswell College,75th,565,518
+475635,Beverly Hills Design Institute,25th,NA,NA
+475635,Beverly Hills Design Institute,75th,NA,NA
+475705,Annenberg School of Nursing,25th,NA,NA
+475705,Annenberg School of Nursing,75th,NA,NA
+475732,Chamberlain University-Georgia,25th,NA,NA
+475732,Chamberlain University-Georgia,75th,NA,NA
+475741,Chamberlain University-Indiana,25th,NA,NA
+475741,Chamberlain University-Indiana,75th,NA,NA
+476601,Bais HaMedrash and Mesivta of Baltimore,25th,NA,NA
+476601,Bais HaMedrash and Mesivta of Baltimore,75th,NA,NA
+476683,Athena Career Academy,25th,NA,NA
+476683,Athena Career Academy,75th,NA,NA
+476692,Yeshiva Gedolah Zichron Leyma,25th,NA,NA
+476692,Yeshiva Gedolah Zichron Leyma,75th,NA,NA
+476887,Elaine Sterling Institute,25th,NA,NA
+476887,Elaine Sterling Institute,75th,NA,NA
+477039,West Coast University-Dallas,25th,NA,NA
+477039,West Coast University-Dallas,75th,NA,NA
+479062,MotoRing Technical Training Institute,25th,NA,NA
+479062,MotoRing Technical Training Institute,75th,NA,NA
+479956,Pennsylvania State University-World Campus,25th,510,480
+479956,Pennsylvania State University-World Campus,75th,630,630
+480134,Elizabethtown College School of Continuing and Professional Studies,25th,NA,NA
+480134,Elizabethtown College School of Continuing and Professional Studies,75th,NA,NA
+480499,Shiloh University,25th,NA,NA
+480499,Shiloh University,75th,NA,NA
+480781,California Miramar University,25th,NA,NA
+480781,California Miramar University,75th,NA,NA
+480912,Gemini School of Visual Arts & Communication,25th,NA,NA
+480912,Gemini School of Visual Arts & Communication,75th,NA,NA
+480985,Midwives College of Utah,25th,NA,NA
+480985,Midwives College of Utah,75th,NA,NA
+481058,Grace Mission University,25th,NA,NA
+481058,Grace Mission University,75th,NA,NA
+481137,Shepherds College,25th,NA,NA
+481137,Shepherds College,75th,NA,NA
+481182,Ukiah Adult School,25th,NA,NA
+481182,Ukiah Adult School,75th,NA,NA
+481225,Mid-South Christian College,25th,NA,NA
+481225,Mid-South Christian College,75th,NA,NA
+481410,Yeshiva Gedolah Kesser Torah,25th,NA,NA
+481410,Yeshiva Gedolah Kesser Torah,75th,NA,NA
+481438,Yeshiva Yesodei Hatorah,25th,NA,NA
+481438,Yeshiva Yesodei Hatorah,75th,NA,NA
+482149,Augusta University,25th,520,590
+482149,Augusta University,75th,620,622
+482158,Middle Georgia State University,25th,450,430
+482158,Middle Georgia State University,75th,550,530
+482185,Academy of Interactive Entertainment,25th,NA,NA
+482185,Academy of Interactive Entertainment,75th,NA,NA
+482228,Veritas Baptist College,25th,NA,NA
+482228,Veritas Baptist College,75th,NA,NA
+482413,DeVry College of New York,25th,NA,NA
+482413,DeVry College of New York,75th,NA,NA
+482422,DeVry University-Arizona,25th,NA,NA
+482422,DeVry University-Arizona,75th,NA,NA
+482431,DeVry University-California,25th,NA,NA
+482431,DeVry University-California,75th,NA,NA
+482440,DeVry University-Colorado,25th,NA,NA
+482440,DeVry University-Colorado,75th,NA,NA
+482459,DeVry University-Florida,25th,NA,NA
+482459,DeVry University-Florida,75th,NA,NA
+482468,DeVry University-Georgia,25th,NA,NA
+482468,DeVry University-Georgia,75th,NA,NA
+482477,DeVry University-Illinois,25th,NA,NA
+482477,DeVry University-Illinois,75th,NA,NA
+482486,DeVry University-Indiana,25th,NA,NA
+482486,DeVry University-Indiana,75th,NA,NA
+482538,DeVry University-Missouri,25th,NA,NA
+482538,DeVry University-Missouri,75th,NA,NA
+482547,DeVry University-Nevada,25th,NA,NA
+482547,DeVry University-Nevada,75th,NA,NA
+482556,DeVry University-New Jersey,25th,NA,NA
+482556,DeVry University-New Jersey,75th,NA,NA
+482565,DeVry University-North Carolina,25th,NA,NA
+482565,DeVry University-North Carolina,75th,NA,NA
+482574,DeVry University-Ohio,25th,NA,NA
+482574,DeVry University-Ohio,75th,NA,NA
+482608,DeVry University-Pennsylvania,25th,NA,NA
+482608,DeVry University-Pennsylvania,75th,NA,NA
+482617,DeVry University-Tennessee,25th,NA,NA
+482617,DeVry University-Tennessee,75th,NA,NA
+482635,DeVry University-Texas,25th,NA,NA
+482635,DeVry University-Texas,75th,NA,NA
+482653,DeVry University-Virginia,25th,NA,NA
+482653,DeVry University-Virginia,75th,NA,NA
+482680,University of North Georgia,25th,535,490
+482680,University of North Georgia,75th,640,590
+482936,Florida Polytechnic University,25th,610,610
+482936,Florida Polytechnic University,75th,670,698
+483018,Antioch College,25th,575,490
+483018,Antioch College,75th,670,680
+483124,Arizona State University-Skysong,25th,NA,NA
+483124,Arizona State University-Skysong,75th,NA,NA
+483814,Standard Healthcare Services-College of Nursing,25th,NA,NA
+483814,Standard Healthcare Services-College of Nursing,75th,NA,NA
+484473,University of Florida-Online,25th,600,560
+484473,University of Florida-Online,75th,670,650
+484905,University of North Texas at Dallas,25th,460,460
+484905,University of North Texas at Dallas,75th,550,530
+485272,West Coast University-Miami,25th,NA,NA
+485272,West Coast University-Miami,75th,NA,NA
+485856,Studio Incamminati,25th,NA,NA
+485856,Studio Incamminati,75th,NA,NA
+485999,Bet Medrash Gadol Ateret Torah,25th,NA,NA
+485999,Bet Medrash Gadol Ateret Torah,75th,NA,NA
+486017,Yeshiva Gedola Ohr Yisrael,25th,NA,NA
+486017,Yeshiva Gedola Ohr Yisrael,75th,NA,NA
+486026,Yeshiva Sholom Shachna,25th,NA,NA
+486026,Yeshiva Sholom Shachna,75th,NA,NA
+486053,Bethlehem College & Seminary,25th,620,560
+486053,Bethlehem College & Seminary,75th,700,650
+486123,Theatre of Arts,25th,NA,NA
+486123,Theatre of Arts,75th,NA,NA
+486196,Beth Medrash Meor Yitzchok,25th,NA,NA
+486196,Beth Medrash Meor Yitzchok,75th,NA,NA
+486284,Bethany Global University,25th,NA,NA
+486284,Bethany Global University,75th,NA,NA
+486488,California Jazz Conservatory,25th,NA,NA
+486488,California Jazz Conservatory,75th,NA,NA
+486512,Florida International Training Institute,25th,NA,NA
+486512,Florida International Training Institute,75th,NA,NA
+486840,Kennesaw State University,25th,550,530
+486840,Kennesaw State University,75th,640,630
+486901,Milligan College,25th,540,530
+486901,Milligan College,75th,650,660
+486938,Chamberlain University-Nevada,25th,NA,NA
+486938,Chamberlain University-Nevada,75th,NA,NA
+486947,Chamberlain University-Michigan,25th,NA,NA
+486947,Chamberlain University-Michigan,75th,NA,NA
+486956,Chamberlain University-New Jersey,25th,NA,NA
+486956,Chamberlain University-New Jersey,75th,NA,NA
+486965,Hussian College-Relativity Campus California,25th,NA,NA
+486965,Hussian College-Relativity Campus California,75th,NA,NA
+487092,Emory University-Oxford College,25th,660,680
+487092,Emory University-Oxford College,75th,720,790
+487375,Arizona College-Las Vegas,25th,NA,NA
+487375,Arizona College-Las Vegas,75th,NA,NA
+487524,Husson University,25th,460,470
+487524,Husson University,75th,580,560
+487588,Concorde Career College-Southaven,25th,NA,NA
+487588,Concorde Career College-Southaven,75th,NA,NA
+487658,Academy of Interactive Entertainment,25th,NA,NA
+487658,Academy of Interactive Entertainment,75th,NA,NA
+487746,Yeshiva Zichron Aryeh,25th,NA,NA
+487746,Yeshiva Zichron Aryeh,75th,NA,NA
+487977,Martinsburg College,25th,NA,NA
+487977,Martinsburg College,75th,NA,NA
+488226,Center for Neurosomatic Studies,25th,NA,NA
+488226,Center for Neurosomatic Studies,75th,NA,NA
+488271,Fosbre Academy of Hair Design,25th,NA,NA
+488271,Fosbre Academy of Hair Design,75th,NA,NA
+488305,Elim Bible Institute and College,25th,NA,NA
+488305,Elim Bible Institute and College,75th,NA,NA
+488314,Beth Medrash of Asbury Park,25th,NA,NA
+488314,Beth Medrash of Asbury Park,75th,NA,NA
+488350,Yeshiva Gedolah Shaarei Shmuel,25th,NA,NA
+488350,Yeshiva Gedolah Shaarei Shmuel,75th,NA,NA
+488590,Christian Culinary Academy,25th,NA,NA
+488590,Christian Culinary Academy,75th,NA,NA
+489344,Chamberlain University-North Carolina,25th,NA,NA
+489344,Chamberlain University-North Carolina,75th,NA,NA
+489353,Chamberlain University-California,25th,NA,NA
+489353,Chamberlain University-California,75th,NA,NA
+489937,Piedmont International University,25th,440,450
+489937,Piedmont International University,75th,540,520
+490054,Health Career Institute,25th,NA,NA
+490054,Health Career Institute,75th,NA,NA
+490063,Southern States University,25th,NA,NA
+490063,Southern States University,75th,NA,NA
+490133,Westcliff University,25th,NA,NA
+490133,Westcliff University,75th,NA,NA
+490179,Medical Prep Institute of Tampa Bay,25th,435,515
+490179,Medical Prep Institute of Tampa Bay,75th,570,580
+490203,Bolivar Technical College,25th,NA,NA
+490203,Bolivar Technical College,75th,NA,NA
+490319,Yeshiva Bais Aharon,25th,NA,NA
+490319,Yeshiva Bais Aharon,75th,NA,NA
+490328,Mechon L'hoyroa,25th,NA,NA
+490328,Mechon L'hoyroa,75th,NA,NA
+490382,Harmony Health Care Institute,25th,NA,NA
+490382,Harmony Health Care Institute,75th,NA,NA
+490498,Digital Media Institute at InterTech,25th,NA,NA
+490498,Digital Media Institute at InterTech,75th,NA,NA
+490504,Yeshiva Ohr Naftoli,25th,NA,NA
+490504,Yeshiva Ohr Naftoli,75th,NA,NA
+490513,Bais Medrash Mayan Hatorah,25th,NA,NA
+490513,Bais Medrash Mayan Hatorah,75th,NA,NA
+490805,Purdue University Northwest,25th,470,460
+490805,Purdue University Northwest,75th,520,520
+491057,Yeshiva Kollel Tifereth Elizer,25th,NA,NA
+491057,Yeshiva Kollel Tifereth Elizer,75th,NA,NA
+491288,University of Wisconsin-Milwaukee Flex,25th,NA,NA
+491288,University of Wisconsin-Milwaukee Flex,75th,NA,NA
+491297,University of Wisconsin-Parkside Flex,25th,NA,NA
+491297,University of Wisconsin-Parkside Flex,75th,NA,NA
+491303,University of Wisconsin Colleges Flex,25th,NA,NA
+491303,University of Wisconsin Colleges Flex,75th,NA,NA
+491446,Bnos Zion Of Bobov Seminary,25th,NA,NA
+491446,Bnos Zion Of Bobov Seminary,75th,NA,NA
+491491,Oikos University,25th,NA,NA
+491491,Oikos University,75th,NA,NA
+491525,Union Bible College,25th,NA,NA
+491525,Union Bible College,75th,NA,NA
+491613,Yeshiva Gedolah Tiferes Boruch,25th,NA,NA
+491613,Yeshiva Gedolah Tiferes Boruch,75th,NA,NA
+491622,Yeshiva Chemdas Hatorah,25th,NA,NA
+491622,Yeshiva Chemdas Hatorah,75th,NA,NA
+491631,Women's Institute of Torah Seminary,25th,NA,NA
+491631,Women's Institute of Torah Seminary,75th,NA,NA
+491640,Yeshiva Gedolah Keren Hatorah,25th,NA,NA
+491640,Yeshiva Gedolah Keren Hatorah,75th,NA,NA
+491710,Yeshiva Gedolah of Cliffwood,25th,NA,NA
+491710,Yeshiva Gedolah of Cliffwood,75th,NA,NA
+491765,Yeshivas Emek Hatorah,25th,NA,NA
+491765,Yeshivas Emek Hatorah,75th,NA,NA
+491817,Seminary Bnos Chaim,25th,NA,NA
+491817,Seminary Bnos Chaim,75th,NA,NA
+491914,Yeshiva Gedola Tiferes Yerachmiel,25th,NA,NA
+491914,Yeshiva Gedola Tiferes Yerachmiel,75th,NA,NA
+492476,EDP University of Puerto Rico-Villalba,25th,NA,NA
+492476,EDP University of Puerto Rico-Villalba,75th,NA,NA
+492759,Chamberlain University-Louisiana,25th,NA,NA
+492759,Chamberlain University-Louisiana,75th,NA,NA
+493318,Stanbridge University-Los Angeles,25th,NA,NA
+493318,Stanbridge University-Los Angeles,75th,NA,NA
